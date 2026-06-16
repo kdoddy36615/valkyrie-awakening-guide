@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "note": "Every video/link from the Discord guides and the spreadsheet, cited by author. Deduped by URL.",
+    "count": 49
+  },
+  "groups": [
+    {
+      "title": "PvP Combos",
+      "note": "Per-combo demos from Sarron's PvP guide.",
+      "videos": [
+        {
+          "label": "General Grab Combo — Any core except Sacrum Ferit",
+          "url": "https://youtu.be/YH6vn2pSw44",
+          "author": "Sarron"
+        },
+        {
+          "label": "Grab Combo — Hastiludium variant",
+          "url": "https://youtu.be/KEnce0yW1sM",
+          "author": "Sarron"
+        },
+        {
+          "label": "Grab Combo — Enslar variant — Sanctitas de Enslar",
+          "url": "https://youtu.be/gE5yCcQtpmI",
+          "author": "Sarron"
+        },
+        {
+          "label": "General Enslar Combo",
+          "url": "https://youtu.be/xKYext4FGD8",
+          "author": "Sarron"
+        },
+        {
+          "label": "Enslar Combo — Divina Vult variant",
+          "url": "https://youtu.be/qd7_Ig7JtiA",
+          "author": "Sarron"
+        },
+        {
+          "label": "General Hasti Combo",
+          "url": "https://youtu.be/Wz97moUFPzY",
+          "author": "Sarron"
+        },
+        {
+          "label": "Hasti Combo — Enslar variant",
+          "url": "https://youtu.be/OLOn3ZM_HyM",
+          "author": "Sarron"
+        },
+        {
+          "label": "Counter Combo (Ghost float) — Any core except Sacrum Ferit",
+          "url": "https://youtu.be/FE63KInRJ6Y",
+          "author": "Sarron"
+        },
+        {
+          "label": "Double KD — Gladius Gloriae variant",
+          "url": "https://youtu.be/MxqRhKgsQ-o",
+          "author": "Sarron"
+        },
+        {
+          "label": "Double KD — Blitz Stab variant",
+          "url": "https://youtu.be/cgJPsh3wabM",
+          "author": "Sarron"
+        },
+        {
+          "label": "Double KD — Lucem Fluxum variant — Flow: Lucem Fluxum",
+          "url": "https://youtu.be/-IwNG8OnoTo",
+          "author": "Sarron"
+        },
+        {
+          "label": "General Spear Combo",
+          "url": "https://youtu.be/fs9AydcuVkA",
+          "author": "Sarron"
+        },
+        {
+          "label": "Spear Combo — Hasti variant — Hastiludium",
+          "url": "https://youtu.be/EsFS5qmpq5I",
+          "author": "Sarron"
+        },
+        {
+          "label": "Spear Combo — Enslar variant — Sanctitas de Enslar",
+          "url": "https://youtu.be/QRwKLKlA2bE",
+          "author": "Sarron"
+        },
+        {
+          "label": "General Protected Combo",
+          "url": "https://youtu.be/ACLHV3I_jKA",
+          "author": "Sarron"
+        },
+        {
+          "label": "Protected Combo — Enslar variant — Sanctitas de Enslar",
+          "url": "https://youtu.be/Eg3_scnlhF4",
+          "author": "Sarron"
+        },
+        {
+          "label": "Protected Combo — Hasti variant — Hastiludium",
+          "url": "https://youtu.be/ItJLhNSCq6Y",
+          "author": "Sarron"
+        },
+        {
+          "label": "Protected Combo — Casti variant — Castigatio",
+          "url": "https://youtu.be/HcpZFngpPQY",
+          "author": "Sarron"
+        }
+      ]
+    },
+    {
+      "title": "Cancels",
+      "note": "Cancel demos from the spreadsheet's Tricks tab.",
+      "videos": [
+        {
+          "label": "Shield Throw Canceling",
+          "url": "https://youtu.be/Iq1lCjY3dBc",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Q / Block Canceling",
+          "url": "https://youtu.be/UIeLTJDMLxo",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Verdict Cancel",
+          "url": "https://www.youtube.com/watch?v=3l1BtiU5NFA",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Gladius Gloriae Cancel",
+          "url": "https://youtu.be/p_02QjjhXJE",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Enslar Cancels",
+          "url": "https://youtu.be/RWjGa8nIXIw",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Vacuum Cancel",
+          "url": "https://streamable.com/871wo3",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Terra Sancta Cancel",
+          "url": "https://streamable.com/waz20q",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Terra Sancta — auto-cast BSR (hold RMB after Castigatio)",
+          "url": "https://streamable.com/nyis49",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Terra Sancta Cancel — Hold S+Q detail",
+          "url": "https://www.youtube.com/watch?v=RmjBIpwGBVo",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Celestial Smite Cancel",
+          "url": "https://streamable.com/cdnvh8",
+          "author": "Valkyrie Guide 2026"
+        }
+      ]
+    },
+    {
+      "title": "Transitions & Movement",
+      "note": "Transition and movement clips from the Tricks tab.",
+      "videos": [
+        {
+          "label": "Transition — Pre-awak Q + Space ➔ Q",
+          "url": "https://www.youtube.com/watch?v=6406zWPtMmc",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "C-Swap Transition",
+          "url": "https://www.youtube.com/watch?v=8_Fr_YLD-8A",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Flurry of Kicks Transition",
+          "url": "https://www.youtube.com/watch?v=kRYN7_L3bKI",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Movement — Old School",
+          "url": "https://www.youtube.com/watch?v=Doth0keRt6w",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Movement — Shield Chase Dash",
+          "url": "https://www.youtube.com/watch?v=BmQEnGHDB2E",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Movement — Backwards DLC",
+          "url": "https://www.youtube.com/watch?v=eWR_bc2VNBk",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Movement — Promptness Walk",
+          "url": "https://www.youtube.com/watch?v=np4byv04PUQ",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Awakening Side-step",
+          "url": "https://streamable.com/3gopn8",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Crab Walk",
+          "url": "https://streamable.com/8fzlu1",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "Pre-awakening Side-step",
+          "url": "https://streamable.com/3hd0ex",
+          "author": "Valkyrie Guide 2026"
+        }
+      ]
+    },
+    {
+      "title": "Combos (Guide)",
+      "note": "Combo demos linked from the spreadsheet.",
+      "videos": [
+        {
+          "label": "Knockdown (Core) combo",
+          "url": "https://www.youtube.com/watch?v=JPEH_UfmcKA",
+          "author": "Valkyrie Guide 2026"
+        }
+      ]
+    },
+    {
+      "title": "Gearing & Reference",
+      "note": "Gearing video and the community Discord.",
+      "videos": [
+        {
+          "label": "Gearing Guide",
+          "url": "https://www.youtube.com/watch?v=frETWSVvFxM",
+          "author": "Valkyrie Guide 2026"
+        },
+        {
+          "label": "BDO Valkyrie Discord",
+          "url": "https://discord.gg/zKCbdy8Z8a",
+          "author": "Community"
+        }
+      ]
+    },
+    {
+      "title": "Class Bugs",
+      "note": "Community clips documenting the Skill Hit Delay and related bugs.",
+      "videos": [
+        {
+          "label": "Skill Hit Delay",
+          "url": "https://www.youtube.com/watch?v=OsttiIyW0EM",
+          "author": "Shazar (EU)"
+        },
+        {
+          "label": "Skill Hit Delay",
+          "url": "https://www.youtube.com/watch?v=8vVeBdGyX8I",
+          "author": "Vesaia (EU)"
+        },
+        {
+          "label": "Skill Hit Delay (Lucem ➔ Promptness ➔ Purificatione)",
+          "url": "https://www.youtube.com/watch?v=SRHHV8s5Ppc",
+          "author": "Vesaia (EU)"
+        },
+        {
+          "label": "Skill Hit Delay (Blitz Stab)",
+          "url": "https://www.youtube.com/watch?v=YWA3Nk1kLe0",
+          "author": "ladladderson"
+        },
+        {
+          "label": "Skill Hit Delay (Divina Inpulsa out of Blitz Stab)",
+          "url": "https://www.youtube.com/watch?v=ODrCWLIyDfA",
+          "author": "Sarron (NA)"
+        },
+        {
+          "label": "Severing Light / Celestial Spear cast bug",
+          "url": "https://www.youtube.com/watch?v=WbRzc_-7Rqg",
+          "author": "RoNNiE (EU)"
+        },
+        {
+          "label": "Class bug clip",
+          "url": "https://www.youtube.com/watch?v=EGvcZG3_qkk",
+          "author": "RoNNiE (EU)"
+        },
+        {
+          "label": "Skill Hit Delay — official patch notes (June 2023)",
+          "url": "https://www.naeu.playblackdesert.com/en-US/News/Detail?groupContentNo=7147&countryType=en-US",
+          "author": "Pearl Abyss"
+        }
+      ]
+    }
+  ]
+}

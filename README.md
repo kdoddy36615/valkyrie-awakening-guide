@@ -40,7 +40,10 @@ node scripts/smoke.mjs            # against http://localhost:4173
   and CC columns).
 - **DPS — PvP** — an estimate: locked PvE DPS × the Codex PvP damage modifier, with PvP protection
   and CC. Clearly labeled an estimate (ignores PvE-only mechanics); ambiguous rows left blank.
-- **Reference** — PvP combo theory and the guide's intro / gearing / bug figures as image galleries.
+- **Videos** — every video/link from the Discord guides and the spreadsheet, grouped and cited by
+  author (deduped by URL).
+- **Reference** — PvP combo theory, important skill buffs, and the guide's intro / gearing / bug
+  figures as image galleries.
 - **R1 AOS** — reserved (empty) route for future Rank-1 replay observations.
 
 ## Data model
@@ -61,6 +64,7 @@ identity; everything else references skills by id.
 - `data/theory.json` — PvP combo theory (catches, pre-buffs, de-buffs, re-CCs, payload, etc.).
 - `data/setup.json` — per-mode loadout (core, Rabams, add-on set, quick-slots, locked skills).
 - `data/buffs.json` — important skill-buff summaries (Reference page).
+- `data/videos.json` — consolidated, deduped video/link list (Videos page), cited by author.
 - `data/reference.json` — figure-gallery manifest for the Reference page.
 
 ## Build pipeline (`scripts/`)

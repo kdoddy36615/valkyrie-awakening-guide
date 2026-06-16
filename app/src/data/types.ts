@@ -213,3 +213,20 @@ export interface BuffsFile {
   meta: { source: string; note: string };
   buffs: Buff[];
 }
+
+export interface VideoLink {
+  label: string;
+  url: string;
+  author: string;
+}
+
+export interface VideoGroup {
+  title: string;
+  note: string;
+  videos: VideoLink[];
+}
+
+export interface VideosFile {
+  meta: { note: string; count: number };
+  groups: VideoGroup[];
+}

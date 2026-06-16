@@ -1,12 +1,15 @@
 import { useState } from "react";
 import { NavLink, Navigate, Route, Routes } from "react-router-dom";
 import { NAV, NAV_GROUPS } from "./toc";
+import ronnieImg from "./assets/authors/ronnie.png";
+import sarronImg from "./assets/authors/sarron.png";
 import SkillsPage from "./pages/SkillsPage";
 import CombosPage from "./pages/CombosPage";
 import PracticePage from "./pages/PracticePage";
 import SetupPage from "./pages/SetupPage";
 import TricksPage from "./pages/TricksPage";
 import DpsPage from "./pages/DpsPage";
+import VideosPage from "./pages/VideosPage";
 import ReferencePage from "./pages/ReferencePage";
 import R1Page from "./pages/R1Page";
 
@@ -21,8 +24,8 @@ function Sidebar() {
         <div className="brand-src">
           <div className="h">Sources</div>
           <div className="r"><span className="m">SHEET</span> Valkyrie Guide 2026</div>
-          <div className="r"><span className="m">PVE</span> RoNNiE (Discord)</div>
-          <div className="r"><span className="m">PVP</span> Sarron (Discord)</div>
+          <div className="r"><span className="m">PVE</span> <img className="nameplate" src={ronnieImg} alt="RoNNiE# [SRPH]" title="RoNNiE# [SRPH] — Awakening PvE specialist" /></div>
+          <div className="r"><span className="m">PVP</span> <img className="nameplate" src={sarronImg} alt="Sarron [FAT]" title="Sarron [FAT] — Moderator, PvP" /></div>
         </div>
       </div>
       <div className="nav-area">
@@ -44,6 +47,12 @@ function Sidebar() {
       </div>
       <div className="credits">
         <div className="r"><span className="m">PROT</span> BDO Codex</div>
+        <a
+          className="feedback"
+          href="mailto:kevin36615@gmail.com?subject=Awakening%20Valkyrie%20Guide%20feedback"
+        >
+          ✉ Send feedback
+        </a>
       </div>
     </nav>
   );
@@ -64,6 +73,7 @@ export default function App() {
           <Route path="/tricks" element={<TricksPage />} />
           <Route path="/dps" element={<DpsPage mode="pve" />} />
           <Route path="/dps-pvp" element={<DpsPage mode="pvp" />} />
+          <Route path="/videos" element={<VideosPage />} />
           <Route path="/reference" element={<ReferencePage />} />
           <Route path="/r1" element={<R1Page />} />
           <Route path="*" element={<Navigate to="/skills" replace />} />

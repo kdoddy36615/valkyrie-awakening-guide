@@ -189,7 +189,7 @@ COMBOS.append({
         S("terra-sancta", "S+RMB", "DAMAGE"),
         S("blitz-stab", "W+RMB", "DAMAGE"),
     ],
-    "notes": ["Any core except Sacrum Ferit."],
+    "notes": [],
     "sources": [SHEET, PVP],
     "conflicts": [
         "The Discord casts Terra Sancta by holding after Castigatio; the sheet lists its "
@@ -356,7 +356,7 @@ COMBOS.append({
         S("terra-sancta", "Hold (after Castigatio)"),
         S("blitz-stab", "W+RMB"),
     ],
-    "notes": ["Any core except Sacrum Ferit. The sidestep (A/D+RMB) is a movement input, not a skill."],
+    "notes": ["The sidestep (A/D+RMB) is a movement input, not a skill."],
     "sources": [PVP], "conflicts": [],
 })
 
@@ -507,7 +507,7 @@ COMBOS.append({
         S("verdict-lancia-iustitiae", "SHIFT+RMB"),
         S("flow-divina-vult", "LMB", annot="Verdict cancel"),
     ],
-    "notes": ["Any core except Sanctitas de Enslar or Sacrum Ferit.", PROT_NOTE],
+    "notes": ["Any core except Sanctitas de Enslar or Sacrum Ferit."],
     "sources": [PVP], "conflicts": [],
 })
 
@@ -529,7 +529,7 @@ COMBOS.append({
         S("flow-divina-vult", "LMB", annot="Verdict cancel"),
     ],
     "notes": ["Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal "
-              "guard. You'll get the crit buff regardless, but your add-ons won't apply.", PROT_NOTE],
+              "guard. You'll get the crit buff regardless, but your add-ons won't apply."],
     "sources": [PVP], "conflicts": [],
 })
 
@@ -550,7 +550,7 @@ COMBOS.append({
         S("flow-divina-vult", "LMB", annot="Verdict cancel"),
     ],
     "notes": ["Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal "
-              "guard. You'll get the crit buff regardless, but your add-ons won't apply.", PROT_NOTE],
+              "guard. You'll get the crit buff regardless, but your add-ons won't apply."],
     "sources": [PVP], "conflicts": [],
 })
 
@@ -574,7 +574,7 @@ COMBOS.append({
         S("verdict-lancia-iustitiae", "SHIFT+RMB"),
         S("flow-divina-vult", "LMB", annot="Verdict cancel"),
     ],
-    "notes": [PROT_NOTE], "sources": [PVP], "conflicts": [],
+    "notes": [], "sources": [PVP], "conflicts": [],
 })
 
 # --- Finishers (modular tails appended to combos ending in Blitz Stab [+ Divina Inpulsa]) ---

@@ -23,6 +23,7 @@ const routes = [
   ["tricks", "/#/tricks"],
   ["dps", "/#/dps"],
   ["dps-pvp", "/#/dps-pvp"],
+  ["videos", "/#/videos"],
   ["reference", "/#/reference"],
   ["r1", "/#/r1"],
 ];

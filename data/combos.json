@@ -817,9 +817,7 @@
           "phase": null
         }
       ],
-      "notes": [
-        "Any core except Sacrum Ferit."
-      ],
+      "notes": [],
       "sources": [
         {
           "source": "sheet",
@@ -1719,7 +1717,7 @@
         }
       ],
       "notes": [
-        "Any core except Sacrum Ferit. The sidestep (A/D+RMB) is a movement input, not a skill."
+        "The sidestep (A/D+RMB) is a movement input, not a skill."
       ],
       "sources": [
         {
@@ -2533,8 +2531,7 @@
         }
       ],
       "notes": [
-        "Any core except Sanctitas de Enslar or Sacrum Ferit.",
-        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+        "Any core except Sanctitas de Enslar or Sacrum Ferit."
       ],
       "sources": [
         {
@@ -2656,8 +2653,7 @@
         }
       ],
       "notes": [
-        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply.",
-        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply."
       ],
       "sources": [
         {
@@ -2770,8 +2766,7 @@
         }
       ],
       "notes": [
-        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply.",
-        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply."
       ],
       "sources": [
         {
@@ -2919,9 +2914,7 @@
           "phase": null
         }
       ],
-      "notes": [
-        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
-      ],
+      "notes": [],
       "sources": [
         {
           "source": "discord",

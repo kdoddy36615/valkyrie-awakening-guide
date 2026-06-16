@@ -65,6 +65,14 @@ export default function CombosPage() {
         {familyGroups(aos1v1).map((g) => (
           <div key={g.family}>
             <div className="micro">{g.family}</div>
+            {g.family === "Protected" && (
+              <Callout tag="GUARD WINDOWS">
+                Protected combos use Terra Sancta &gt; Guard &gt; Verdict, or Flow: Divina Vult &gt;
+                Guard &gt; Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult
+                (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict
+                from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard.
+              </Callout>
+            )}
             {g.items.map((c) => <ComboCard key={c.id} combo={c} mode="pvp" />)}
           </div>
         ))}
