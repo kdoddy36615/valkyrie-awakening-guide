@@ -355,7 +355,7 @@ details.sub summary { cursor: pointer; color: var(--text-dim); font-size: 12.5px
 
 .cols {
   display: grid;
-  grid-template-columns: 26px 176px 184px 104px 132px minmax(0, 1fr) 116px 50px 18px;
+  grid-template-columns: 26px 170px 226px 104px 126px minmax(0, 1fr) 104px 50px 18px;
   gap: 0 12px;
   align-items: center;
 }
@@ -391,6 +391,7 @@ button.lrow:hover { background: var(--bg-raised); }
   text-overflow: ellipsis;
 }
 .lrow .inp { display: flex; gap: 4px; flex-wrap: wrap; }
+.lrow .inp .kbd { white-space: normal; }  /* let a long input chip wrap instead of overflowing into Protection */
 .lrow .bdgs { display: flex; gap: 4px; flex-wrap: wrap; }
 .lrow .barcell { min-width: 0; }
 .bar {
