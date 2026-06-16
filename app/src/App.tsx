@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { NavLink, Navigate, Route, Routes } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { NavLink, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { NAV, NAV_GROUPS } from "./toc";
 import ronnieImg from "./assets/authors/ronnie.png";
 import sarronImg from "./assets/authors/sarron.png";
@@ -59,10 +59,21 @@ function Sidebar({ onFeedback }: { onFeedback: () => void }) {
   );
 }
 
+// Reset scroll to the top on route change (HashRouter doesn't do this). Skip when
+// navigating to an in-page anchor (e.g. /skills#sanctitas-de-enslar), which scrolls itself.
+function ScrollToTop() {
+  const { pathname, hash } = useLocation();
+  useEffect(() => {
+    if (!hash) window.scrollTo(0, 0);
+  }, [pathname, hash]);
+  return null;
+}
+
 export default function App() {
   const [feedbackOpen, setFeedbackOpen] = useState(false);
   return (
     <div className="app">
+      <ScrollToTop />
       <Sidebar onFeedback={() => setFeedbackOpen(true)} />
       {feedbackOpen && <FeedbackModal onClose={() => setFeedbackOpen(false)} />}
       <main className="main">
