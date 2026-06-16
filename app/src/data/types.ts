@@ -119,7 +119,7 @@ export interface DpsFile {
   rows: DpsRow[];
 }
 
-export type TrickType = "cancel" | "transition" | "movement" | "macro";
+export type TrickType = "cancel" | "tip" | "transition" | "movement" | "macro";
 
 export interface TrickRow {
   input: string;
@@ -200,4 +200,16 @@ export interface SetupFile {
   meta: { note: string; sources: Record<string, string> };
   quickslot: SetupEntry[];
   modes: { pve: SetupMode; pvp: SetupMode };
+}
+
+export interface Buff {
+  skill?: string | null;
+  skills?: string[];
+  name?: string;
+  text: string;
+}
+
+export interface BuffsFile {
+  meta: { source: string; note: string };
+  buffs: Buff[];
 }

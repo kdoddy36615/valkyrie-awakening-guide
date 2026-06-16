@@ -12,6 +12,7 @@
     { "skill": "flow-lucem-fluxum", "tier": "Required", "note": "Extremely useful for comboing." },
     { "skill": "elions-blessing", "tier": "Required", "note": "Our PA — can only be cast from a quick slot." },
     { "skill": "noble-spirit", "tier": "Required", "note": "Our E-buff — can only be cast from a quick slot." },
+    { "skill": "just-counter", "tier": "Important", "note": "Useful when you can't put up block first." },
     { "skill": "sanctitas-de-enslar", "tier": "Important", "note": "Protected swap from quick slot; also prevents accidentally using it after Wave of Light." },
     { "skill": null, "name": "Celestial Cry", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
     { "skill": "celestial-smite", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
@@ -21,7 +22,9 @@
     { "skill": null, "name": "Shining Judgment of Light", "tier": "Quality of Life", "note": "When you instantly need some protected movement. Can be used from awakening." },
     { "skill": "wave-of-light", "tier": "Quality of Life", "note": "Prevents accidentally using Sanctitas de Enslar afterwards." },
     { "skill": "shining-dash", "tier": "Additional", "note": "Useful for chasing in duels — can only be cast from a quick slot." },
+    { "skill": "punishment", "tier": "Additional", "note": "For skill cooldown tracking." },
     { "skill": "skyward-strike", "tier": "Additional", "note": "CC option, niche skill." },
+    { "skill": "gladius-gloriae", "tier": "Additional", "note": "Best if the charge-up is cancelled; quick-slot for cooldown tracking." },
     { "skill": "flurry-of-kicks", "tier": "Additional", "note": "Can be used to pull out your weapons quickly." }
   ],
 

@@ -1,5 +1,5 @@
 import referenceJson from "../../../data/reference.json";
-import { theoryFile, skill } from "../data";
+import { theoryFile, buffsFile, skill, maybeSkill } from "../data";
 import type { TheorySection } from "../data/types";
 import { PageHeader, Section, Callout } from "../components/Section";
 import SourceImage from "../components/SourceImage";
@@ -48,6 +48,25 @@ export default function ReferencePage() {
       </PageHeader>
 
       {theoryFile.sections.map((s) => <TheoryBlock key={s.id} s={s} />)}
+
+      <Section id="buffs" title="Important Skill Buffs" count={buffsFile.buffs.length}
+        desc="Most important buffs only — each skill may have more (read the tooltips)">
+        <div className="cards">
+          {buffsFile.buffs.map((b, i) => {
+            const ids = b.skills ?? (b.skill ? [b.skill] : []);
+            const heading = b.name ?? (b.skill ? skill(b.skill).name : "Buff");
+            return (
+              <div className="card" key={i}>
+                <h3 style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                  {ids.map((id) => maybeSkill(id) && <AbilityIcon key={id} id={id} size="sm" />)}
+                  {heading}
+                </h3>
+                <p>{b.text}</p>
+              </div>
+            );
+          })}
+        </div>
+      </Section>
 
       {reference.sheets.map((sh) => (
         <Section key={sh.key} id={`ref-${sh.key}`} title={sh.title} desc={sh.desc}

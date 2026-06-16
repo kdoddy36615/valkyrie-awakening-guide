@@ -60,6 +60,7 @@ identity; everything else references skills by id.
 - `data/tricks.json` — cancels / transitions / movement / macros.
 - `data/theory.json` — PvP combo theory (catches, pre-buffs, de-buffs, re-CCs, payload, etc.).
 - `data/setup.json` — per-mode loadout (core, Rabams, add-on set, quick-slots, locked skills).
+- `data/buffs.json` — important skill-buff summaries (Reference page).
 - `data/reference.json` — figure-gallery manifest for the Reference page.
 
 ## Build pipeline (`scripts/`)
@@ -105,7 +106,8 @@ The full Valkyrie skill list is `research/bdocodex/valk_all_skills.txt` (from
 ## Sources & precedence
 
 - **Guide (spreadsheet)** — `docs/Valkyrie Guide 2026.xlsx`, source of truth for content. Wins on conflicts.
-- **Discord** — RoNNiE (PvE) + Sarron (PvP); enriches but defers on conflicts (currency uncertain).
+- **Discord** — RoNNiE (PvE combos), Sarron (PvP combos), and the pinned Awakening Tricks guide
+  (`docs/discord-awakening-tricks.md` — cancels, tips, buffs); enriches but defers on conflicts.
 - **BDO Codex** — skill identity, icons, descriptions, and protection (the spreadsheet has none).
 
 Design decisions are recorded in `CONTEXT.md` (glossary) and `docs/adr/0001–0003`.

@@ -4,8 +4,9 @@ import dpsJson from "../../../data/dps.json";
 import tricksJson from "../../../data/tricks.json";
 import theoryJson from "../../../data/theory.json";
 import setupJson from "../../../data/setup.json";
+import buffsJson from "../../../data/buffs.json";
 import type {
-  SkillsFile, Skill, CombosFile, Combo, DpsFile, TricksFile, TheoryFile, SetupFile,
+  SkillsFile, Skill, CombosFile, Combo, DpsFile, TricksFile, TheoryFile, SetupFile, BuffsFile,
   Mode, Protection,
 } from "./types";
 
@@ -17,6 +18,7 @@ export const dpsFile = dpsJson as unknown as DpsFile;
 export const tricksFile = tricksJson as unknown as TricksFile;
 export const theoryFile = theoryJson as unknown as TheoryFile;
 export const setupFile = setupJson as unknown as SetupFile;
+export const buffsFile = buffsJson as unknown as BuffsFile;
 
 export const skillById = new Map(skills.map((s) => [s.id, s]));
 export function skill(id: string): Skill {

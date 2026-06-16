@@ -1,8 +1,8 @@
 {
   "meta": {
-    "source": "Valkyrie Guide 2026 — sheet \"Awakening Tricks\"",
-    "note": "Skill cancels, weapon transitions, movement, and macros. Cancel/movement sequences use the sheet's ➔ arrows verbatim. xlsx cell comments are preserved. BSR-macro ASCII art is decorative and kept in sources/ (not transcribed here).",
-    "types": ["cancel", "transition", "movement", "macro"]
+    "source": "Valkyrie Guide 2026 — sheet \"Awakening Tricks\"; enriched from BDO Valkyrie Discord — Awakening Tricks guide (Elion/Ves)",
+    "note": "Skill cancels, weapon transitions, movement, macros, and per-skill tips. Cancel/movement sequences use the sheet's ➔ arrows verbatim. xlsx cell comments are preserved. BSR-macro ASCII art is decorative and kept in sources/ (not transcribed here).",
+    "types": ["cancel", "tip", "transition", "movement", "macro"]
   },
   "tricks": [
     {
@@ -16,7 +16,10 @@
         "SHIFT+RMB ➔ Q+A/D+LMB",
         "SHIFT+RMB ➔ F"
       ],
-      "notes": [],
+      "notes": [
+        "Discord cancels: LMB, LMB ➔ Q, A/D + LMB, or Sanctitas de Enslar (F).",
+        "Verdict animation-locks once you start pulling the lancia out of the ground (worse with casting-speed debuffs) — cancel before that. Sanctitas de Enslar (F) can cancel at any point in the animation."
+      ],
       "comment": null,
       "video": null
     },
@@ -83,7 +86,10 @@
         "S+E ➔ F",
         "SHIFT+X ➔ F"
       ],
-      "notes": ["The last two (S+E ➔ F, SHIFT+X ➔ F) are for when Sanctitas de Enslar is on cooldown."],
+      "notes": [
+        "The last two (S+E ➔ F, SHIFT+X ➔ F) are for when Sanctitas de Enslar is on cooldown.",
+        "Skills that cancel the Gladius charge-up (Discord): Sharp Light, Just Counter, Shield Chase, Severing Light, Divine Slam, Divine Descent, Sideways Cut, Righteous Charge, Counter, Forward Slash; Celestial Spear / Smite / Cry if Sanctitas de Enslar is on cd. The first three (Sharp Light, Just Counter, Shield Chase) are the most useful."
+      ],
       "comment": null,
       "video": null
     },
@@ -125,9 +131,40 @@
         "SPACE ➔ SHIFT+Q",
         "A/D+LMB ➔ SHIFT+Q"
       ],
-      "notes": [],
+      "notes": ["Pre-cancels (cast before Divina Inpulsa to cancel into it): Blitz Stab, Ultimate Blitz Stab, Hastiludium, Sacrum Ferit, Promptness, lateral Lancia Training."],
       "comment": null,
       "video": null
+    },
+    {
+      "id": "shield-throw-canceling",
+      "name": "Shield Throw Canceling",
+      "type": "cancel",
+      "icons": ["shield-throw"],
+      "sequences": [],
+      "notes": [
+        "Pre-cancels: Celestial Spear, Celestial Smite, Counter, and Flying Kick (if you hit a target).",
+        "Post-cancels: Celestial Spear, Celestial Smite, Flying Kick, Shield Chase, sidestep (A/D + RMB)."
+      ],
+      "comment": null,
+      "video": "https://youtu.be/Iq1lCjY3dBc"
+    },
+    {
+      "id": "q-block-canceling",
+      "name": "Q / Block Canceling",
+      "type": "cancel",
+      "icons": ["guard"],
+      "sequences": [
+        "Promptness ➔ Q ➔ Terra Sancta  (Quick Terra)",
+        "Promptness ➔ Q ➔ Punishment  (Quick Grab)",
+        "Wave of Light ➔ Q  (Quick Vacuum)"
+      ],
+      "notes": [
+        "Most awakening skills can be canceled through blocking (Q).",
+        "Protected cancels: Blitz Stab, Ultimate Blitz Stab, Divina Inpulsa, Verdict, Flow: Revelation Sanctus.",
+        "Unprotected cancels are the Quick Terra / Quick Grab / Quick Vacuum sequences above."
+      ],
+      "comment": null,
+      "video": "https://youtu.be/UIeLTJDMLxo"
     },
     {
       "id": "celestial-smite-cancel",
@@ -146,6 +183,50 @@
       "icons": [],
       "sequences": ["W+F ➔ SPACE"],
       "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "sanctitas-tips",
+      "name": "Sanctitas de Enslar — tips",
+      "type": "tip",
+      "icons": ["sanctitas-de-enslar"],
+      "sequences": [],
+      "notes": [
+        "Protected transition: register Sanctitas to a quick slot to use it from the pre-awakening state.",
+        "Flow: Enslar's Divinity — LMB after Sanctitas casts the flow (Flow: Divina Vult); it is completely unprotected with subpar damage, and can be canceled during the skill with Q.",
+        "You can NOT side-step (A/D+LMB) after Sanctitas — the flow is prioritized over the side-step.",
+        "Bombing with 100%: use Wave of Light before Sanctitas; maintain the Crit Rate buff with Sacrum Ferit / Celestial Spear / Celestial Smite."
+      ],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "death-line-chase-tips",
+      "name": "Death Line Chase — tips",
+      "type": "tip",
+      "icons": ["death-line-chase"],
+      "sequences": [],
+      "notes": [
+        "Moves forward keeping Forward Guard + Super Armor via Shift + W/S.",
+        "Backwards Dash Bug: if your block gets hit while doing this even with a Shield Chase off-cooldown, it keeps using Death Line Chase (unprotected while off-cd) — you can get caught, so be aware.",
+        "LMB Flow: pressing LMB directly after Death Line Chase performs a float CC and consumes the Promptness cooldown."
+      ],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "hastiludium-tips",
+      "name": "Hastiludium — tips",
+      "type": "tip",
+      "icons": ["hastiludium"],
+      "sequences": [],
+      "notes": [
+        "7s cooldown; travels far and fast. Applies a 30% knockdown-resistance debuff on hits.",
+        "Charges as you use it; the last hit is extremely powerful and can one-hit squishier enemies — the longer the dash, the greater the stab damage.",
+        "The core version adds a knockdown — useful for a small-scale pre-engage.",
+        "Charge-up cancel: Death Line Chase (Shift+W) ➔ Hastiludium (W+F)."
+      ],
       "comment": null,
       "video": null
     },

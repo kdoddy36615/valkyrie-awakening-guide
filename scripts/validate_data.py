@@ -76,7 +76,7 @@ def main():
 
     # --- referential checks across the other data files ---
     refs = []
-    for name in ("combos.json", "dps.json", "tricks.json", "theory.json", "setup.json"):
+    for name in ("combos.json", "dps.json", "tricks.json", "theory.json", "setup.json", "buffs.json"):
         data = load(name)
         collect_refs(data, name, refs)
 

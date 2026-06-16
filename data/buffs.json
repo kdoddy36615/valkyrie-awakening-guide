@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "source": "BDO Valkyrie Discord — Awakening Tricks guide",
+    "note": "The most important skill buffs only; each skill may have more (read the tooltips)."
+  },
+  "buffs": [
+    {
+      "skill": "heavens-echo",
+      "text": "All DP +25 to yourself, and +15% Accuracy Rate to self and nearby allies for 60s. SHIFT+Q in pre-awak, SPACE while blocking in awak."
+    },
+    {
+      "skill": null, "name": "Breath of Elion",
+      "text": "Super Armor to yourself and allies for 3s when used with your lancia."
+    },
+    {
+      "skill": "elions-blessing",
+      "text": "All Damage Reduction +50% and +100% all-debuff resistance to self and nearby allies for 6s. Limited max resistance against opponent's debuffs."
+    },
+    {
+      "skill": null, "name": "Celestial Cry",
+      "text": "All DP +20 and +12% Accuracy Rate to self and allies for 60s; Magic DP +15 and Movement Speed +20% for 10s. All-DP and Accuracy buff does NOT stack with Heaven's Echo."
+    },
+    {
+      "skill": "divine-descent",
+      "text": "All DP +10 and all Special Attack damage +5% to self and allies for 10s. All-DP buff stacks with Heaven's Echo and/or Celestial Cry."
+    },
+    {
+      "skills": ["sacrum-ferit", "celestial-spear", "celestial-smite"], "name": "Critical Hit Rate",
+      "text": "Critical Hit Rate +80% for 5 seconds."
+    }
+  ]
+}

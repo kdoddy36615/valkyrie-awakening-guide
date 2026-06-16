@@ -4,9 +4,9 @@ import { PageHeader, Section } from "../components/Section";
 import AbilityIcon from "../components/AbilityIcon";
 
 const TYPE_TITLE: Record<TrickType, string> = {
-  cancel: "Cancels", transition: "Transitions", movement: "Movement", macro: "Macros & Tips",
+  cancel: "Cancels", tip: "Skill Tips", transition: "Transitions", movement: "Movement", macro: "Macros & Tips",
 };
-const TYPE_ORDER: TrickType[] = ["cancel", "transition", "movement", "macro"];
+const TYPE_ORDER: TrickType[] = ["cancel", "tip", "transition", "movement", "macro"];
 
 function TrickCard({ t }: { t: Trick }) {
   return (
