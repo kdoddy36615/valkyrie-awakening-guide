@@ -12,8 +12,11 @@ import DpsPage from "./pages/DpsPage";
 import VideosPage from "./pages/VideosPage";
 import ReferencePage from "./pages/ReferencePage";
 import R1Page from "./pages/R1Page";
+import FeedbackModal from "./components/FeedbackModal";
 
-function Sidebar() {
+const SHEET_URL = "https://docs.google.com/spreadsheets/d/1yA9tOQ1izphHaUoa0Zi51I47E78_x0CmvipZSBmt9aM/edit?gid=0#gid=0";
+
+function Sidebar({ onFeedback }: { onFeedback: () => void }) {
   const [open, setOpen] = useState(false);
   return (
     <nav className={open ? "side open" : "side"}>
@@ -23,7 +26,7 @@ function Sidebar() {
         <button className="hamburger" onClick={() => setOpen((o) => !o)} aria-label="Toggle menu">≡</button>
         <div className="brand-src">
           <div className="h">Sources</div>
-          <div className="r"><span className="m">SHEET</span> Valkyrie Guide 2026</div>
+          <div className="r"><span className="m">SHEET</span> <a href={SHEET_URL} target="_blank" rel="noreferrer">Valkyrie Guide 2026</a></div>
           <div className="r"><span className="m">PVE</span> <img className="nameplate" src={ronnieImg} alt="RoNNiE# [SRPH]" title="RoNNiE# [SRPH] — Awakening PvE specialist" /></div>
           <div className="r"><span className="m">PVP</span> <img className="nameplate" src={sarronImg} alt="Sarron [FAT]" title="Sarron [FAT] — Moderator, PvP" /></div>
         </div>
@@ -46,22 +49,20 @@ function Sidebar() {
         ))}
       </div>
       <div className="credits">
-        <div className="r"><span className="m">PROT</span> BDO Codex</div>
-        <a
-          className="feedback"
-          href="mailto:kevin36615@gmail.com?subject=Awakening%20Valkyrie%20Guide%20feedback"
-        >
-          ✉ Send feedback
-        </a>
+        <button className="r feedback" onClick={onFeedback}>
+          <span className="m">✉</span>Feedback
+        </button>
       </div>
     </nav>
   );
 }
 
 export default function App() {
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
   return (
     <div className="app">
-      <Sidebar />
+      <Sidebar onFeedback={() => setFeedbackOpen(true)} />
+      {feedbackOpen && <FeedbackModal onClose={() => setFeedbackOpen(false)} />}
       <main className="main">
         <Routes>
           <Route path="/" element={<Navigate to="/skills" replace />} />

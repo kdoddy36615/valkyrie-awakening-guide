@@ -127,7 +127,7 @@ a { color: var(--accent); }
 }
 .brand-src .r { display: flex; gap: 8px; align-items: center; padding: 2px 0; font-size: 12px; color: var(--text-dim); }
 .brand-src .m { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: 0.1em; color: var(--text-faint); min-width: 26px; }
-.brand-src .nameplate { height: 18px; width: auto; border-radius: 3px; display: block; }
+.brand-src .nameplate { height: 26px; width: auto; border-radius: 4px; display: block; }
 
 /* feedback pinned bottom-left */
 .credits { margin-top: auto; padding: 6px 0 2px; border-top: 1px solid var(--border); }
@@ -140,18 +140,74 @@ a { color: var(--accent); }
   padding: 2px 18px;
 }
 .credits .m { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: 0.1em; color: var(--text-faint); min-width: 26px; }
-.credits .feedback {
-  display: block;
-  margin: 8px 18px 2px;
-  padding: 5px 10px;
-  text-align: center;
-  font-size: 12px;
-  color: var(--accent);
-  text-decoration: none;
-  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
-  border-radius: 5px;
+button.feedback {
+  background: none;
+  border: none;
+  font: inherit;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  color: var(--text-dim);
 }
-.credits .feedback:hover { background: color-mix(in srgb, var(--accent) 10%, transparent); color: var(--text); }
+button.feedback:hover { color: var(--accent); }
+
+/* feedback modal form (rendered inside the .lightbox scrim) */
+.feedback-form {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 18px 20px;
+  width: 420px;
+  max-width: 92vw;
+  cursor: default;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.feedback-form h3 { margin: 0; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; }
+.feedback-form label { display: block; }
+.feedback-form .k {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  display: block;
+  margin-bottom: 4px;
+}
+.feedback-form textarea,
+.feedback-form input {
+  width: 100%;
+  background: var(--bg);
+  border: 1px solid var(--border-strong);
+  border-radius: 5px;
+  color: var(--text);
+  font: inherit;
+  font-size: 12.5px;
+  padding: 7px 9px;
+  resize: vertical;
+}
+.feedback-form textarea:focus,
+.feedback-form input:focus { outline: none; border-color: var(--accent); }
+.feedback-form .row { display: flex; gap: 8px; }
+.feedback-form button {
+  font: inherit;
+  font-size: 12.5px;
+  border-radius: 5px;
+  padding: 6px 16px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text-dim);
+}
+.feedback-form button.primary {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  font-weight: 600;
+}
+.feedback-form button:disabled { opacity: 0.5; cursor: default; }
+.feedback-form .note { margin: 0; }
 
 /* ================= page header ================= */
 

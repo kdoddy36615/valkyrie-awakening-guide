@@ -15,35 +15,38 @@ DATA = ROOT / "data"
 OUT = DATA / "videos.json"
 
 GUIDE = "Valkyrie Guide 2026"
+# Streamable clips embedded in the guide have no public uploader; attribute to the guide.
+CLIP = "Valkyrie Guide (clip)"
 
 # Curated spreadsheet links (sources/hyperlinks.json) -> label / author / group.
-# (sheet, cell): (label, url, author, group)
+# YouTube authors are the real uploaders (fetched via oEmbed); streamable clips have
+# no public uploader. Bug-clip authors below use the spreadsheet's submitter names.
 EXCEL = [
     # Cancels
-    ("Verdict Cancel", "https://www.youtube.com/watch?v=3l1BtiU5NFA", GUIDE, "Cancels"),
-    ("Gladius Gloriae Cancel", "https://youtu.be/p_02QjjhXJE", GUIDE, "Cancels"),
-    ("Enslar Cancels", "https://youtu.be/RWjGa8nIXIw", GUIDE, "Cancels"),
-    ("Vacuum Cancel", "https://streamable.com/871wo3", GUIDE, "Cancels"),
-    ("Terra Sancta Cancel", "https://streamable.com/waz20q", GUIDE, "Cancels"),
-    ("Terra Sancta — auto-cast BSR (hold RMB after Castigatio)", "https://streamable.com/nyis49", GUIDE, "Cancels"),
-    ("Terra Sancta Cancel — Hold S+Q detail", "https://www.youtube.com/watch?v=RmjBIpwGBVo", GUIDE, "Cancels"),
-    ("Celestial Smite Cancel", "https://streamable.com/cdnvh8", GUIDE, "Cancels"),
+    ("Verdict Cancel", "https://www.youtube.com/watch?v=3l1BtiU5NFA", "Vesaia", "Cancels"),
+    ("Gladius Gloriae Cancel", "https://youtu.be/p_02QjjhXJE", "Vesaia", "Cancels"),
+    ("Enslar Cancels", "https://youtu.be/RWjGa8nIXIw", "Sarron", "Cancels"),
+    ("Vacuum Cancel", "https://streamable.com/871wo3", CLIP, "Cancels"),
+    ("Terra Sancta Cancel", "https://streamable.com/waz20q", CLIP, "Cancels"),
+    ("Terra Sancta — auto-cast BSR (hold RMB after Castigatio)", "https://streamable.com/nyis49", CLIP, "Cancels"),
+    ("Terra Sancta Cancel — Hold S+Q detail", "https://www.youtube.com/watch?v=RmjBIpwGBVo", "ink", "Cancels"),
+    ("Celestial Smite Cancel", "https://streamable.com/cdnvh8", CLIP, "Cancels"),
     # Transitions & movement
-    ("Transition — Pre-awak Q + Space ➔ Q", "https://www.youtube.com/watch?v=6406zWPtMmc", GUIDE, "Transitions & Movement"),
-    ("C-Swap Transition", "https://www.youtube.com/watch?v=8_Fr_YLD-8A", GUIDE, "Transitions & Movement"),
-    ("Flurry of Kicks Transition", "https://www.youtube.com/watch?v=kRYN7_L3bKI", GUIDE, "Transitions & Movement"),
-    ("Movement — Old School", "https://www.youtube.com/watch?v=Doth0keRt6w", GUIDE, "Transitions & Movement"),
-    ("Movement — Shield Chase Dash", "https://www.youtube.com/watch?v=BmQEnGHDB2E", GUIDE, "Transitions & Movement"),
-    ("Movement — Backwards DLC", "https://www.youtube.com/watch?v=eWR_bc2VNBk", GUIDE, "Transitions & Movement"),
-    ("Movement — Promptness Walk", "https://www.youtube.com/watch?v=np4byv04PUQ", GUIDE, "Transitions & Movement"),
-    ("Awakening Side-step", "https://streamable.com/3gopn8", GUIDE, "Transitions & Movement"),
-    ("Crab Walk", "https://streamable.com/8fzlu1", GUIDE, "Transitions & Movement"),
-    ("Pre-awakening Side-step", "https://streamable.com/3hd0ex", GUIDE, "Transitions & Movement"),
+    ("Transition — Pre-awak Q + Space ➔ Q", "https://www.youtube.com/watch?v=6406zWPtMmc", "ink", "Transitions & Movement"),
+    ("C-Swap Transition", "https://www.youtube.com/watch?v=8_Fr_YLD-8A", "ink", "Transitions & Movement"),
+    ("Flurry of Kicks Transition", "https://www.youtube.com/watch?v=kRYN7_L3bKI", "ink", "Transitions & Movement"),
+    ("Movement — Old School", "https://www.youtube.com/watch?v=Doth0keRt6w", "Vesaia", "Transitions & Movement"),
+    ("Movement — Shield Chase Dash", "https://www.youtube.com/watch?v=BmQEnGHDB2E", "Vesaia", "Transitions & Movement"),
+    ("Movement — Backwards DLC", "https://www.youtube.com/watch?v=eWR_bc2VNBk", "Vesaia", "Transitions & Movement"),
+    ("Movement — Promptness Walk", "https://www.youtube.com/watch?v=np4byv04PUQ", "Vesaia", "Transitions & Movement"),
+    ("Awakening Side-step", "https://streamable.com/3gopn8", CLIP, "Transitions & Movement"),
+    ("Crab Walk", "https://streamable.com/8fzlu1", CLIP, "Transitions & Movement"),
+    ("Pre-awakening Side-step", "https://streamable.com/3hd0ex", CLIP, "Transitions & Movement"),
     # Combos from the sheet (Grab video dedupes against Sarron's; Knockdown is unique)
-    ("GRAB combo", "https://www.youtube.com/watch?v=YH6vn2pSw44", GUIDE, "Combos (Guide)"),
-    ("Knockdown (Core) combo", "https://www.youtube.com/watch?v=JPEH_UfmcKA", GUIDE, "Combos (Guide)"),
+    ("GRAB combo", "https://www.youtube.com/watch?v=YH6vn2pSw44", "Sarron", "Combos (Guide)"),
+    ("Knockdown (Core) combo", "https://www.youtube.com/watch?v=JPEH_UfmcKA", "Valkyrie Guide (uploader N/A)", "Combos (Guide)"),
     # Gearing & reference
-    ("Gearing Guide", "https://www.youtube.com/watch?v=frETWSVvFxM", GUIDE, "Gearing & Reference"),
+    ("Gearing Guide", "https://www.youtube.com/watch?v=frETWSVvFxM", "BiceptimusPrime", "Gearing & Reference"),
     ("BDO Valkyrie Discord", "https://discord.gg/zKCbdy8Z8a", "Community", "Gearing & Reference"),
     # Class bug submissions (Skill Hit Delay & related)
     ("Skill Hit Delay", "https://www.youtube.com/watch?v=OsttiIyW0EM", "Shazar (EU)", "Class Bugs"),
@@ -104,10 +107,14 @@ def main():
         label = c["name"] + (f" — {c['core_variant']}" if c.get("core_variant") and c["core_variant"] not in c["name"] else "")
         add(group, label, c["video"], author)
 
-    # Trick videos — dynamic from tricks.json
+    # Trick videos — dynamic from tricks.json (real uploaders, fetched via oEmbed)
+    trick_author = {
+        "https://youtu.be/Iq1lCjY3dBc": "Moijn",
+        "https://youtu.be/UIeLTJDMLxo": "Moijn",
+    }
     for t in load("tricks.json")["tricks"]:
         if t.get("video"):
-            add("Cancels", t["name"], t["video"], GUIDE)
+            add("Cancels", t["name"], t["video"], trick_author.get(t["video"], GUIDE))
 
     # Spreadsheet hyperlinks — curated
     for label, url, author, group in EXCEL:
