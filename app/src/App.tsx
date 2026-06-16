@@ -3,6 +3,7 @@ import { NavLink, Navigate, Route, Routes } from "react-router-dom";
 import { NAV, NAV_GROUPS } from "./toc";
 import ronnieImg from "./assets/authors/ronnie.png";
 import sarronImg from "./assets/authors/sarron.png";
+import vesImg from "./assets/authors/ves.png";
 import SkillsPage from "./pages/SkillsPage";
 import CombosPage from "./pages/CombosPage";
 import PracticePage from "./pages/PracticePage";
@@ -26,9 +27,9 @@ function Sidebar({ onFeedback }: { onFeedback: () => void }) {
         <button className="hamburger" onClick={() => setOpen((o) => !o)} aria-label="Toggle menu">≡</button>
         <div className="brand-src">
           <div className="h">Sources</div>
-          <div className="r"><span className="m">SHEET</span> <a href={SHEET_URL} target="_blank" rel="noreferrer">Valkyrie Guide 2026</a></div>
-          <div className="r"><span className="m">PVE</span> <img className="nameplate" src={ronnieImg} alt="RoNNiE# [SRPH]" title="RoNNiE# [SRPH] — Awakening PvE specialist" /></div>
-          <div className="r"><span className="m">PVP</span> <img className="nameplate" src={sarronImg} alt="Sarron [FAT]" title="Sarron [FAT] — Moderator, PvP" /></div>
+          <div className="r"><span className="m">SHEET</span> <a href={SHEET_URL} target="_blank" rel="noreferrer" title="Valkyrie Guide 2026 — maintained by Ves [SRPH]"><img className="nameplate" style={{ height: 24 }} src={vesImg} alt="Ves [SRPH]" /></a></div>
+          <div className="r"><span className="m">PVE</span> <img className="nameplate" style={{ height: 22 }} src={ronnieImg} alt="RoNNiE# [SRPH]" title="RoNNiE# [SRPH] — Awakening PvE specialist" /></div>
+          <div className="r"><span className="m">PVP</span> <img className="nameplate" style={{ height: 28 }} src={sarronImg} alt="Sarron [FAT]" title="Sarron [FAT] — Moderator, PvP" /></div>
         </div>
       </div>
       <div className="nav-area">
