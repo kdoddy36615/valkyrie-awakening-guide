@@ -127,7 +127,9 @@ a { color: var(--accent); }
 }
 .brand-src .r { display: flex; gap: 8px; align-items: center; padding: 2px 0; font-size: 12px; color: var(--text-dim); }
 .brand-src .m { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: 0.1em; color: var(--text-faint); min-width: 26px; }
-.brand-src .nameplate { height: 26px; width: auto; border-radius: 4px; display: block; }
+.brand-src .nameplate { width: 138px; height: auto; border-radius: 4px; display: block; }
+.brand-src .src-doc { display: block; font-size: 12px; color: var(--accent); text-decoration: none; padding: 1px 0 5px; }
+.brand-src .src-doc:hover { text-decoration: underline; }
 
 /* feedback pinned bottom-left */
 .credits { margin-top: auto; padding: 6px 0 2px; border-top: 1px solid var(--border); }
