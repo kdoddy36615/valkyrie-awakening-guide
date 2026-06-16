@@ -1,5 +1,5 @@
 import referenceJson from "../../../data/reference.json";
-import { theoryFile, skills, skill } from "../data";
+import { theoryFile, skill } from "../data";
 import type { TheorySection } from "../data/types";
 import { PageHeader, Section, Callout } from "../components/Section";
 import SourceImage from "../components/SourceImage";
@@ -40,40 +40,14 @@ function TheoryBlock({ s }: { s: TheorySection }) {
 }
 
 export default function ReferencePage() {
-  const locked = skills.filter((s) => s.kind === "locked-only");
-  const quickslot = skills.filter((s) => s.kind === "quick-slot");
-
   return (
     <>
       <PageHeader title="Reference">
-        Guide overview, gearing and bug figures (source screenshots, not transcribed), PvP combo
-        theory, and the lock / quick-slot lists.
+        Guide overview, gearing and bug figures (source screenshots, not transcribed), and PvP combo
+        theory. Loadout (core / Rabams / add-ons / locks) lives on the Setup pages.
       </PageHeader>
 
       {theoryFile.sections.map((s) => <TheoryBlock key={s.id} s={s} />)}
-
-      <Section id="quickslot" title="Quick-slot skills" count={quickslot.length}>
-        <div className="hotbar-row">
-          {quickslot.map((s) => (
-            <div className="hotbar-slot" key={s.id}>
-              <div className="slot-name"><AbilityIcon id={s.id} size="row" />{s.name}</div>
-              <p className="dim">{s.recommended_usage}</p>
-            </div>
-          ))}
-        </div>
-      </Section>
-
-      <Section id="locked" title="Skills to Lock" count={locked.length}
-        desc="Recommended locks for newer players">
-        <div className="hotbar-row">
-          {locked.map((s) => (
-            <div className="hotbar-slot" key={s.id}>
-              <div className="slot-name"><AbilityIcon id={s.id} size="row" />{s.name}</div>
-            </div>
-          ))}
-        </div>
-        <p className="note">Some are user preference after you've learned the basics.</p>
-      </Section>
 
       {reference.sheets.map((sh) => (
         <Section key={sh.key} id={`ref-${sh.key}`} title={sh.title} desc={sh.desc}

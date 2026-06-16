@@ -168,3 +168,36 @@ export interface TheoryFile {
   meta: { source: string; updated: string; note: string };
   sections: TheorySection[];
 }
+
+export interface SetupEntry {
+  skill: string | null;
+  name?: string;
+  note?: string;
+  tier?: string;
+}
+
+export interface SetupModeAddon {
+  image: string;
+  author: string;
+  caption: string;
+  breakdown: string[];
+}
+
+export interface SetupMode {
+  core: SetupEntry[];
+  core_note: string;
+  rabams: SetupEntry[];
+  rabam_note: string;
+  addon: SetupModeAddon;
+  locked: SetupEntry[];
+  locked_note: string;
+  downsmash?: SetupEntry[];
+  downsmash_note?: string;
+  pvp_unlocks?: SetupEntry[];
+}
+
+export interface SetupFile {
+  meta: { note: string; sources: Record<string, string> };
+  quickslot: SetupEntry[];
+  modes: { pve: SetupMode; pvp: SetupMode };
+}

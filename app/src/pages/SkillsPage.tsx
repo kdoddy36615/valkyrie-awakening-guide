@@ -21,8 +21,8 @@ function SkillRow({ s, open, onToggle }: { s: Skill; open: boolean; onToggle: ()
         <span className="bdgs">
           {prot && <ProtMeter prot={prot} title={s.protection?.tooltip_lines.join("; ")} />}
           <KindBadge kind={s.kind} />
-          {s.cc.map((c) => <span key={c} className="badge cc">{c}</span>)}
         </span>
+        <span className="bdgs"><CcBadges cc={s.cc} /></span>
         <span className="dim" style={{ fontSize: "12px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
           {s.usage_tags.join(" · ")}
         </span>
@@ -146,7 +146,7 @@ export default function SkillsPage() {
       {groups.map((g) => (
         <Section key={g.key} id={`grp-${g.key}`} title={g.title} count={g.items.length}>
           <div className="thead cols">
-            <span /><span>Skill</span><span>Input</span><span>Protection</span>
+            <span /><span>Skill</span><span>Input</span><span>Protection</span><span>CC</span>
             <span>Usage</span><span>Importance</span><span className="r">Imp.</span><span />
           </div>
           {g.items.map((s) => (

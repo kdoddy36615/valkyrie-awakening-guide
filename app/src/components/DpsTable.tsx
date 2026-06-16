@@ -36,6 +36,7 @@ export default function DpsTable({ rows }: { rows: DpsRow[] }) {
       <thead>
         <tr>
           <th onClick={() => click("name")}>Skill{arrow("name")}</th>
+          <th>Prot (PvE)</th>
           <th>CC (PvE)</th>
           {NUM_COLS.map((c) => (
             <th key={c} className="num" onClick={() => click(c)}>
@@ -53,13 +54,9 @@ export default function DpsTable({ rows }: { rows: DpsRow[] }) {
               <td>
                 {s && <AbilityIcon id={s.id} />}
                 {r.name}
-                {prot && (
-                  <span style={{ marginLeft: 8, verticalAlign: "middle" }}>
-                    <ProtMeter prot={prot} title={`PvE protection: ${s!.protection!.tooltip_lines.join("; ") || s!.name}`} />
-                  </span>
-                )}
                 {!r.skill && <span className="badge unknown" title="No matched skill">?</span>}
               </td>
+              <td>{prot ? <ProtMeter prot={prot} title={`PvE protection: ${s!.protection!.tooltip_lines.join("; ") || s!.name}`} /> : <span className="dim">—</span>}</td>
               <td>{s ? <CcBadges cc={s.cc} /> : <span className="dim">—</span>}</td>
               <td className="num">{fmt(r.hits)}</td>
               <td className="num">{fmt(r.damage)}</td>

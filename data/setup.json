@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "note": "Loadout setup per mode — core skill, Rabam (skill enhancement) picks, add-on set, and locked skills. Sourced from the Discord guides (RoNNiE PvE, Sarron PvP) and the spreadsheet's Tricks/Quick-slot sheet. Quick-slots are general (not mode-specific in the source).",
+    "sources": {
+      "pve": "BDO Valkyrie Discord — RoNNiE PvE guide",
+      "pvp": "BDO Valkyrie Discord — Sarron PvP",
+      "quickslot": "Valkyrie Guide 2026 — Awakening Tricks sheet"
+    }
+  },
+
+  "quickslot": [
+    { "skill": "flow-lucem-fluxum", "tier": "Required", "note": "Extremely useful for comboing." },
+    { "skill": "elions-blessing", "tier": "Required", "note": "Our PA — can only be cast from a quick slot." },
+    { "skill": "noble-spirit", "tier": "Required", "note": "Our E-buff — can only be cast from a quick slot." },
+    { "skill": "sanctitas-de-enslar", "tier": "Important", "note": "Protected swap from quick slot; also prevents accidentally using it after Wave of Light." },
+    { "skill": null, "name": "Celestial Cry", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
+    { "skill": "celestial-smite", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
+    { "skill": "divine-descent", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
+    { "skill": "divine-slam", "tier": "Quality of Life", "note": "If you don't like rabam inputs (slower than the input)." },
+    { "skill": "divine-judgment-of-light", "tier": "Quality of Life", "note": "For whenever Celestial Spear/Smite is on cooldown. Can be used from awakening." },
+    { "skill": null, "name": "Shining Judgment of Light", "tier": "Quality of Life", "note": "When you instantly need some protected movement. Can be used from awakening." },
+    { "skill": "wave-of-light", "tier": "Quality of Life", "note": "Prevents accidentally using Sanctitas de Enslar afterwards." },
+    { "skill": "shining-dash", "tier": "Additional", "note": "Useful for chasing in duels — can only be cast from a quick slot." },
+    { "skill": "skyward-strike", "tier": "Additional", "note": "CC option, niche skill." },
+    { "skill": "flurry-of-kicks", "tier": "Additional", "note": "Can be used to pull out your weapons quickly." }
+  ],
+
+  "modes": {
+    "pve": {
+      "core": [
+        { "skill": "castigatio", "note": "Main DPS tool, very low cooldown." }
+      ],
+      "core_note": "RoNNiE names Castigatio the core skill of the PvE kit.",
+      "rabams": [
+        { "skill": "celestial-smite", "note": "Level-56 Rabam (vs Celestial Cry). Crit prebuff + Bound." },
+        { "skill": "divine-descent", "note": "Level-57 Rabam (vs Divine Slam). DP buff for self + allies." },
+        { "skill": "divine-judgment-of-light", "note": "Used off Celestial Spear / Smite." }
+      ],
+      "rabam_note": "RoNNiE's PvE Rabam picks. The level-57 choice goes to Divine Descent (DP buff) — PvP swaps it for Divine Slam (down-smash); both bind SHIFT+Z.",
+      "addon": {
+        "image": "addons/ronnie-pve.png",
+        "author": "RoNNiE",
+        "caption": "RoNNiE's PvE add-on set (one of, or the best PvE Valk on EU)",
+        "breakdown": [
+          "Intuitive DP-debuff stacking (2nd add-on is spot-dependent)",
+          "Highest-priority DPS-skill add-ons",
+          "Most-important opener-skill add-ons",
+          "Spammable handy add-ons"
+        ]
+      },
+      "locked": [
+        { "skill": "forward-slash" },
+        { "skill": "charging-slash" },
+        { "skill": "glaring-slash" },
+        { "skill": "sword-of-judgment" },
+        { "skill": "divine-power" },
+        { "skill": "flurry-of-kicks" },
+        { "skill": "flow-double-flying-kick" },
+        { "skill": "shield-strike" },
+        { "skill": "shield-counter" },
+        { "skill": "shield-push" },
+        { "skill": "skyward-strike" },
+        { "skill": "evasion" },
+        { "skill": "vindicta" },
+        { "skill": "punishment", "note": "if you're only a Marni grinder" },
+        { "skill": "flow-lucem-fluxum", "note": "if you're new to the class" }
+      ],
+      "locked_note": "RoNNiE's PvE lock list (newer players). Conditional locks are noted."
+    },
+
+    "pvp": {
+      "core": [
+        { "skill": "sanctitas-de-enslar", "note": "Core catch (F)." },
+        { "skill": "hastiludium", "note": "Core catch (W+F)." },
+        { "skill": "castigatio", "note": "Core catch (S+LMB)." },
+        { "skill": "sacrum-ferit", "note": "Also a catch (RMB), but combos specify \"any core except Sacrum Ferit\"." }
+      ],
+      "core_note": "Sarron's catch cores. Most combo families say \"any core except Sacrum Ferit\".",
+      "rabams": [
+        { "skill": "divine-slam", "note": "Level-57 Rabam pick over Divine Descent — down-smash fishing (SHIFT+Z)." },
+        { "skill": "divine-judgment-of-light", "note": "Finisher / down-smash off Celestial Spear." },
+        { "skill": "celestial-smite", "note": "Level-56 Rabam (vs Celestial Cry)." }
+      ],
+      "rabam_note": "PvP keeps the level-56 Rabam but takes Divine Slam over Divine Descent at level 57 for down-smash fishing.",
+      "downsmash": [
+        { "skill": "divina-impulsa", "note": "SHIFT+Q" },
+        { "skill": "divine-power", "note": "SHIFT+F" },
+        { "skill": "divine-judgment-of-light", "note": "S+E ➔ LMB (needs Celestial Spear off CD)" },
+        { "skill": "divine-slam", "note": "SHIFT+Z" }
+      ],
+      "downsmash_note": "Down-smash fishing priority, top to bottom (Sarron).",
+      "addon": {
+        "image": "addons/sarron-pvp.png",
+        "author": "Sarron",
+        "caption": "Sarron's PvP add-on set (uncapped + capped)",
+        "breakdown": [
+          "Combo −20 DP / −20 Eva",
+          "Engage uptime",
+          "Reposition uptime",
+          "SA trade / large-scale dmg",
+          "Crit + Down modifiers",
+          "Combo Attack Speed + Crit Rate"
+        ]
+      },
+      "locked": [],
+      "locked_note": "The PvP guide gives no explicit lock list. PvP UNLOCKS several skills that the PvE list locks, because they are catches / re-CCs / finishers — see below.",
+      "pvp_unlocks": [
+        { "skill": "punishment", "note": "Grab catch (E)" },
+        { "skill": "divine-power", "note": "Down-smash / finisher (SHIFT+F)" },
+        { "skill": "counter", "note": "Catch (S+LMB)" },
+        { "skill": "shield-throw", "note": "Cancel-chain skill" },
+        { "skill": "sharp-light", "note": "Re-CC (SHIFT+LMB)" },
+        { "skill": "celestial-spear", "note": "Catch / finisher (S+E)" },
+        { "skill": "flying-kick", "note": "Extra-damage filler" },
+        { "skill": "severing-light", "note": "Damage filler / finisher" }
+      ]
+    }
+  }
+}

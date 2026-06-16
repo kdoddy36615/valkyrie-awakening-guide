@@ -4,7 +4,7 @@ import { NAV, NAV_GROUPS } from "./toc";
 import SkillsPage from "./pages/SkillsPage";
 import CombosPage from "./pages/CombosPage";
 import PracticePage from "./pages/PracticePage";
-import AddonsPage from "./pages/AddonsPage";
+import SetupPage from "./pages/SetupPage";
 import TricksPage from "./pages/TricksPage";
 import DpsPage from "./pages/DpsPage";
 import ReferencePage from "./pages/ReferencePage";
@@ -59,7 +59,8 @@ export default function App() {
           <Route path="/skills" element={<SkillsPage />} />
           <Route path="/combos" element={<CombosPage />} />
           <Route path="/practice" element={<PracticePage />} />
-          <Route path="/addons" element={<AddonsPage />} />
+          <Route path="/setup-pve" element={<SetupPage mode="pve" />} />
+          <Route path="/setup-pvp" element={<SetupPage mode="pvp" />} />
           <Route path="/tricks" element={<TricksPage />} />
           <Route path="/dps" element={<DpsPage mode="pve" />} />
           <Route path="/dps-pvp" element={<DpsPage mode="pvp" />} />
