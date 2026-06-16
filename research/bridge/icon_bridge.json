@@ -1,0 +1,4382 @@
+{
+  "awakening-combos-add-ons/image4": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 77,
+    "matched": false,
+    "cells": [
+      "R15",
+      "R16"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4053.webp",
+        "skill": "Divine Judgment of Light",
+        "distance": 77
+      },
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 149
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image5": {
+    "skill_name": "Purificatione I",
+    "roster_id": "purificatione",
+    "icon_file": "pvw_skill_1955.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "D55",
+      "E49",
+      "F44",
+      "G15",
+      "G20",
+      "L49",
+      "M44",
+      "M59",
+      "O29",
+      "O55",
+      "U44"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4152.webp",
+        "skill": "Prime: Purificatione",
+        "distance": 93
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 119
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image6": {
+    "skill_name": "Verdict: Lancia Iustitiae I",
+    "roster_id": "verdict-lancia-iustitiae",
+    "icon_file": "pvw_skill_1968.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "G44",
+      "G49",
+      "H29",
+      "H34",
+      "I55",
+      "I59",
+      "K29",
+      "P18",
+      "R34"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 119
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 122
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image7": {
+    "skill_name": "Wave of Light",
+    "roster_id": "wave-of-light",
+    "icon_file": "pvw_skill_1967.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B59",
+      "E29"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1967.webp",
+        "skill": "Wave of Light",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 168
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 168
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image8": {
+    "skill_name": "Celestial Spear I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0765.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "Q15",
+      "Q16",
+      "S44"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0765.webp",
+        "skill": "Celestial Spear I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 28
+      },
+      {
+        "icon": "pvw_skill_0775.webp",
+        "skill": "Ultimate: Celestial Spear",
+        "distance": 33
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image14": {
+    "skill_name": "Divina Inpulsa",
+    "roster_id": "divina-impulsa",
+    "icon_file": "pvw_skill_6459.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "B29",
+      "B34",
+      "E15",
+      "E20",
+      "I44",
+      "J49",
+      "K34",
+      "K55",
+      "O59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_6459.webp",
+        "skill": "Divina Inpulsa",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 143
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image15": {
+    "skill_name": "Hastiludium I",
+    "roster_id": "hastiludium",
+    "icon_file": "pvw_skill_1972.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B55",
+      "D29",
+      "D34",
+      "I49",
+      "M34"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1972.webp",
+        "skill": "Hastiludium I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 176
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 178
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image16": {
+    "skill_name": "Celestial Cry",
+    "roster_id": null,
+    "icon_file": "pvw_skill_2747.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "P29"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_2748.webp",
+        "skill": "Celestial Smite",
+        "distance": 79
+      },
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 112
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image17": {
+    "skill_name": "Sacrum Ferit I",
+    "roster_id": "sacrum-ferit",
+    "icon_file": "pvw_skill_1963.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "C20",
+      "C29",
+      "C34",
+      "D15",
+      "J44",
+      "L34",
+      "L55",
+      "N49",
+      "P59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 129
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image19": {
+    "skill_name": "Blitz Stab",
+    "roster_id": "blitz-stab",
+    "icon_file": "pvw_skill_1978.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "H44",
+      "H49",
+      "J15",
+      "J20",
+      "J55",
+      "N59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1978.webp",
+        "skill": "Blitz Stab",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_1979.webp",
+        "skill": "Ultimate: Blitz Stab",
+        "distance": 91
+      },
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image21": {
+    "skill_name": "Flow: Lucem Fluxum",
+    "roster_id": "flow-lucem-fluxum",
+    "icon_file": "pvw_skill_1981.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "F15",
+      "F20",
+      "K44",
+      "M55",
+      "Q59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1981.webp",
+        "skill": "Flow: Lucem Fluxum",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 155
+      },
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 158
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image25": {
+    "skill_name": "Shield Chase I",
+    "roster_id": "shield-chase",
+    "icon_file": "pvw_skill_0736.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "O15",
+      "P44",
+      "R59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 110
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image27": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 20,
+    "matched": false,
+    "cells": [
+      "G59",
+      "J59",
+      "K59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 20
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 109
+      },
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 131
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image28": {
+    "skill_name": "Flow: Divina Vult",
+    "roster_id": "flow-divina-vult",
+    "icon_file": "pvw_skill_1982_re.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "C44",
+      "C49",
+      "E59",
+      "F55",
+      "G29",
+      "G34",
+      "I29",
+      "I34",
+      "L29",
+      "Q34",
+      "R18",
+      "S34"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 70
+      },
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 108
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image31": {
+    "skill_name": "Divine Power I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0739.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "P16"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 50
+      },
+      {
+        "icon": "pvw_skill_4151.webp",
+        "skill": "Prime: Divine Power I",
+        "distance": 68
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image35": {
+    "skill_name": "Sanctitas de Enslar I",
+    "roster_id": "sanctitas-de-enslar",
+    "icon_file": "pvw_skill_1975.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B20",
+      "B44",
+      "B49",
+      "D59",
+      "E55",
+      "F29",
+      "F34",
+      "P34",
+      "Q18"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_4153.webp",
+        "skill": "Prime: Sanctitas de Enslar",
+        "distance": 129
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image50": {
+    "skill_name": "Gladius Gloriae",
+    "roster_id": "gladius-gloriae",
+    "icon_file": "pvw_skill_1984.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "P15",
+      "R44",
+      "S59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1984.webp",
+        "skill": "Gladius Gloriae",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 113
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 127
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image51": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 94,
+    "matched": false,
+    "cells": [
+      "B15"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0780.webp",
+        "skill": "Ultimate: Punishment",
+        "distance": 94
+      },
+      {
+        "icon": "pvw_skill_0776.webp",
+        "skill": "Punishment I",
+        "distance": 100
+      },
+      {
+        "icon": "pvw_skill_3213.webp",
+        "skill": "Absolute: Punishment",
+        "distance": 108
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image54": {
+    "skill_name": "Terra Sancta",
+    "roster_id": "terra-sancta",
+    "icon_file": "pvw_skill_1983.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "E34",
+      "I15",
+      "I20",
+      "O34",
+      "O44",
+      "V59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1983.webp",
+        "skill": "Terra Sancta",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 122
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image56": {
+    "skill_name": "Breath of Elion I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0762.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "N29"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_3201.webp",
+        "skill": "Absolute: Breath of Elion",
+        "distance": 105
+      },
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 106
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image68": {
+    "skill_name": "Castigatio I",
+    "roster_id": "castigatio",
+    "icon_file": "pvw_skill_1958.webp",
+    "distance": 2,
+    "matched": true,
+    "cells": [
+      "D44",
+      "F49",
+      "F59",
+      "G55",
+      "H15",
+      "H20",
+      "M49",
+      "N34",
+      "N44",
+      "P55",
+      "U59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 2
+      },
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 115
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image97": {
+    "skill_name": "Promptness",
+    "roster_id": "promptness",
+    "icon_file": "pvw_skill_1985.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "C15",
+      "C55",
+      "D20",
+      "D49",
+      "E44",
+      "H55",
+      "H59",
+      "K49",
+      "L44",
+      "L59",
+      "N55",
+      "T44",
+      "T59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0770.webp",
+        "skill": "Ultimate: Sword of Judgment",
+        "distance": 140
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 146
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image100": {
+    "skill_name": "Guard",
+    "roster_id": "guard",
+    "icon_file": "pvw_skill_0718.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "C59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 105
+      },
+      {
+        "icon": "pvw_skill_0754.webp",
+        "skill": "Skyward Strike I",
+        "distance": 110
+      }
+    ]
+  },
+  "awakening-combos-add-ons/image153": {
+    "skill_name": "Severing Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1479.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "Q44"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 45
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 48
+      }
+    ]
+  },
+  "awakening-tricks/image2": {
+    "skill_name": "Vindicta",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1962.webp",
+    "distance": 13,
+    "matched": true,
+    "cells": [
+      "Q81"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1962.webp",
+        "skill": "Vindicta",
+        "distance": 13
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 122
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 126
+      }
+    ]
+  },
+  "awakening-tricks/image4": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 77,
+    "matched": false,
+    "cells": [
+      "B108",
+      "J55"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4053.webp",
+        "skill": "Divine Judgment of Light",
+        "distance": 77
+      },
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 149
+      }
+    ]
+  },
+  "awakening-tricks/image5": {
+    "skill_name": "Purificatione I",
+    "roster_id": "purificatione",
+    "icon_file": "pvw_skill_1955.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "B22"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4152.webp",
+        "skill": "Prime: Purificatione",
+        "distance": 93
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 119
+      }
+    ]
+  },
+  "awakening-tricks/image6": {
+    "skill_name": "Verdict: Lancia Iustitiae I",
+    "roster_id": "verdict-lancia-iustitiae",
+    "icon_file": "pvw_skill_1968.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B10",
+      "B11",
+      "B12",
+      "B13"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 119
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 122
+      }
+    ]
+  },
+  "awakening-tricks/image7": {
+    "skill_name": "Wave of Light",
+    "roster_id": "wave-of-light",
+    "icon_file": "pvw_skill_1967.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B110",
+      "B26",
+      "B27",
+      "B28",
+      "B29",
+      "B30"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1967.webp",
+        "skill": "Wave of Light",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 168
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 168
+      }
+    ]
+  },
+  "awakening-tricks/image8": {
+    "skill_name": "Celestial Spear I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0765.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B18",
+      "F29",
+      "J22",
+      "J48"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0765.webp",
+        "skill": "Celestial Spear I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 28
+      },
+      {
+        "icon": "pvw_skill_0775.webp",
+        "skill": "Ultimate: Celestial Spear",
+        "distance": 33
+      }
+    ]
+  },
+  "awakening-tricks/image9": {
+    "skill_name": "Noble Spirit",
+    "roster_id": "noble-spirit",
+    "icon_file": "pvw_skill_1944.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B100"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1944.webp",
+        "skill": "Noble Spirit",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1476.webp",
+        "skill": "Forward Slash I",
+        "distance": 134
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 142
+      }
+    ]
+  },
+  "awakening-tricks/image12": {
+    "skill_name": "Lancia Training I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1945.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "B40"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1945.webp",
+        "skill": "Lancia Training I",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 134
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 140
+      }
+    ]
+  },
+  "awakening-tricks/image13": {
+    "skill_name": "Divine Slam",
+    "roster_id": "divine-slam",
+    "icon_file": "pvw_skill_2815.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B107",
+      "J14",
+      "J53"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2815.webp",
+        "skill": "Divine Slam",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_2816.webp",
+        "skill": "Divine Descent",
+        "distance": 104
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 132
+      }
+    ]
+  },
+  "awakening-tricks/image14": {
+    "skill_name": "Divina Inpulsa",
+    "roster_id": "divina-impulsa",
+    "icon_file": "pvw_skill_6459.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "F36",
+      "F37",
+      "F38",
+      "F39",
+      "F40"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_6459.webp",
+        "skill": "Divina Inpulsa",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 143
+      }
+    ]
+  },
+  "awakening-tricks/image15": {
+    "skill_name": "Hastiludium I",
+    "roster_id": "hastiludium",
+    "icon_file": "pvw_skill_1972.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B37",
+      "F33"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1972.webp",
+        "skill": "Hastiludium I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 176
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 178
+      }
+    ]
+  },
+  "awakening-tricks/image16": {
+    "skill_name": "Celestial Cry",
+    "roster_id": null,
+    "icon_file": "pvw_skill_2747.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B104",
+      "J20",
+      "J52"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_2748.webp",
+        "skill": "Celestial Smite",
+        "distance": 79
+      },
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 112
+      }
+    ]
+  },
+  "awakening-tricks/image17": {
+    "skill_name": "Sacrum Ferit I",
+    "roster_id": "sacrum-ferit",
+    "icon_file": "pvw_skill_1963.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "B38"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 129
+      }
+    ]
+  },
+  "awakening-tricks/image18": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 95,
+    "matched": false,
+    "cells": [
+      "B109",
+      "J56",
+      "N39"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4052.webp",
+        "skill": "Shining Judgment of Light",
+        "distance": 95
+      },
+      {
+        "icon": "pvw_skill_0731.webp",
+        "skill": "Shining Dash",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_4053.webp",
+        "skill": "Divine Judgment of Light",
+        "distance": 162
+      }
+    ]
+  },
+  "awakening-tricks/image19": {
+    "skill_name": "Blitz Stab",
+    "roster_id": "blitz-stab",
+    "icon_file": "pvw_skill_1978.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B36",
+      "B47"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1978.webp",
+        "skill": "Blitz Stab",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_1979.webp",
+        "skill": "Ultimate: Blitz Stab",
+        "distance": 91
+      },
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-tricks/image21": {
+    "skill_name": "Flow: Lucem Fluxum",
+    "roster_id": "flow-lucem-fluxum",
+    "icon_file": "pvw_skill_1981.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "B98"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1981.webp",
+        "skill": "Flow: Lucem Fluxum",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 155
+      },
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 158
+      }
+    ]
+  },
+  "awakening-tricks/image22": {
+    "skill_name": "Sideways Cut I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1487.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B52",
+      "J16"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1487.webp",
+        "skill": "Sideways Cut I",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_3199.webp",
+        "skill": "Absolute: Sideways Cut",
+        "distance": 118
+      },
+      {
+        "icon": "pvw_skill_0747.webp",
+        "skill": "Charging Slash I",
+        "distance": 134
+      }
+    ]
+  },
+  "awakening-tricks/image25": {
+    "skill_name": "Shield Chase I",
+    "roster_id": "shield-chase",
+    "icon_file": "pvw_skill_0736.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B51",
+      "F27",
+      "J12",
+      "J45"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 110
+      }
+    ]
+  },
+  "awakening-tricks/image26": {
+    "skill_name": "Righteous Charge I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0750.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "J17",
+      "J39"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_0753.webp",
+        "skill": "Ultimate: Righteous Charge",
+        "distance": 46
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 126
+      }
+    ]
+  },
+  "awakening-tricks/image27": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 20,
+    "matched": false,
+    "cells": [
+      "B33",
+      "F28"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 20
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 109
+      },
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 131
+      }
+    ]
+  },
+  "awakening-tricks/image28": {
+    "skill_name": "Flow: Divina Vult",
+    "roster_id": "flow-divina-vult",
+    "icon_file": "pvw_skill_1982_re.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "B23",
+      "E10",
+      "E11",
+      "E16"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 70
+      },
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 108
+      }
+    ]
+  },
+  "awakening-tricks/image31": {
+    "skill_name": "Divine Power I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0739.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "J47"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 50
+      },
+      {
+        "icon": "pvw_skill_4151.webp",
+        "skill": "Prime: Divine Power I",
+        "distance": 68
+      }
+    ]
+  },
+  "awakening-tricks/image33": {
+    "skill_name": "Celestial Smite",
+    "roster_id": "celestial-smite",
+    "icon_file": "pvw_skill_2748.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B105",
+      "B19",
+      "J23",
+      "J51"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2748.webp",
+        "skill": "Celestial Smite",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 81
+      },
+      {
+        "icon": "pvw_skill_0744.webp",
+        "skill": "Heaven's Echo I",
+        "distance": 117
+      }
+    ]
+  },
+  "awakening-tricks/image35": {
+    "skill_name": "Sanctitas de Enslar I",
+    "roster_id": "sanctitas-de-enslar",
+    "icon_file": "pvw_skill_1975.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B102",
+      "B16",
+      "B17",
+      "B45",
+      "E13",
+      "E18",
+      "E19",
+      "F30"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_4153.webp",
+        "skill": "Prime: Sanctitas de Enslar",
+        "distance": 129
+      }
+    ]
+  },
+  "awakening-tricks/image42": {
+    "skill_name": "Shining Dash",
+    "roster_id": "shining-dash",
+    "icon_file": "pvw_skill_0731.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B112",
+      "J50"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0731.webp",
+        "skill": "Shining Dash",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_4144.webp",
+        "skill": "Prime: Shining Dash",
+        "distance": 76
+      },
+      {
+        "icon": "pvw_skill_4052.webp",
+        "skill": "Shining Judgment of Light",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-tricks/image44": {
+    "skill_name": "Sharp Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1490.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "J10"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 88
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 105
+      }
+    ]
+  },
+  "awakening-tricks/image48": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 17,
+    "matched": false,
+    "cells": [
+      "Q71"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0747.webp",
+        "skill": "Charging Slash I",
+        "distance": 17
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 110
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 121
+      }
+    ]
+  },
+  "awakening-tricks/image50": {
+    "skill_name": "Gladius Gloriae",
+    "roster_id": "gladius-gloriae",
+    "icon_file": "pvw_skill_1984.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "N10",
+      "N11",
+      "N12",
+      "N13",
+      "N14",
+      "N15",
+      "N16",
+      "N17",
+      "N18",
+      "N19",
+      "N20",
+      "N22",
+      "N23"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1984.webp",
+        "skill": "Gladius Gloriae",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 113
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 127
+      }
+    ]
+  },
+  "awakening-tricks/image51": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 94,
+    "matched": false,
+    "cells": [
+      "J46"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0780.webp",
+        "skill": "Ultimate: Punishment",
+        "distance": 94
+      },
+      {
+        "icon": "pvw_skill_0776.webp",
+        "skill": "Punishment I",
+        "distance": 100
+      },
+      {
+        "icon": "pvw_skill_3213.webp",
+        "skill": "Absolute: Punishment",
+        "distance": 108
+      }
+    ]
+  },
+  "awakening-tricks/image52": {
+    "skill_name": "Shield Push",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0730.webp",
+    "distance": 4,
+    "matched": true,
+    "cells": [
+      "Q74"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 4
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 110
+      },
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 111
+      }
+    ]
+  },
+  "awakening-tricks/image53": {
+    "skill_name": "Counter I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1494.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "J18"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1494.webp",
+        "skill": "Counter I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_4145.webp",
+        "skill": "Prime: Counter",
+        "distance": 34
+      },
+      {
+        "icon": "pvw_skill_3208.webp",
+        "skill": "Absolute: Counter",
+        "distance": 101
+      }
+    ]
+  },
+  "awakening-tricks/image54": {
+    "skill_name": "Terra Sancta",
+    "roster_id": "terra-sancta",
+    "icon_file": "pvw_skill_1983.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "J30",
+      "N26"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1983.webp",
+        "skill": "Terra Sancta",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 122
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-tricks/image55": {
+    "skill_name": "Divine Descent",
+    "roster_id": "divine-descent",
+    "icon_file": "pvw_skill_2816.webp",
+    "distance": 15,
+    "matched": true,
+    "cells": [
+      "B106",
+      "J15",
+      "J54"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2816.webp",
+        "skill": "Divine Descent",
+        "distance": 15
+      },
+      {
+        "icon": "pvw_skill_2815.webp",
+        "skill": "Divine Slam",
+        "distance": 103
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 123
+      }
+    ]
+  },
+  "awakening-tricks/image61": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 17,
+    "matched": false,
+    "cells": [
+      "B99",
+      "J49"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0769.webp",
+        "skill": "Elion's Blessing",
+        "distance": 17
+      },
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 148
+      },
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 155
+      }
+    ]
+  },
+  "awakening-tricks/image66": {
+    "skill_name": "Forward Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1476.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "J19"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1476.webp",
+        "skill": "Forward Slash I",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_3197.webp",
+        "skill": "Absolute: Forward Slash",
+        "distance": 98
+      },
+      {
+        "icon": "pvw_skill_1944.webp",
+        "skill": "Noble Spirit",
+        "distance": 134
+      }
+    ]
+  },
+  "awakening-tricks/image67": {
+    "skill_name": "Skyward Strike I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0754.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B113",
+      "Q77"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0754.webp",
+        "skill": "Skyward Strike I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 106
+      },
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 116
+      }
+    ]
+  },
+  "awakening-tricks/image68": {
+    "skill_name": "Castigatio I",
+    "roster_id": "castigatio",
+    "icon_file": "pvw_skill_1958.webp",
+    "distance": 2,
+    "matched": true,
+    "cells": [
+      "F22",
+      "F23",
+      "J26"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 2
+      },
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 115
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      }
+    ]
+  },
+  "awakening-tricks/image69": {
+    "skill_name": "Glaring Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0757.webp",
+    "distance": 4,
+    "matched": true,
+    "cells": [
+      "Q75"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 4
+      },
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 49
+      },
+      {
+        "icon": "pvw_skill_3217.webp",
+        "skill": "Absolute: Glaring Slash",
+        "distance": 108
+      }
+    ]
+  },
+  "awakening-tricks/image74": {
+    "skill_name": "Shield Counter",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0719.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "Q73"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0719.webp",
+        "skill": "Shield Counter",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 111
+      }
+    ]
+  },
+  "awakening-tricks/image86": {
+    "skill_name": "Shield Strike I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1497.webp",
+    "distance": 15,
+    "matched": true,
+    "cells": [
+      "Q72"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1497.webp",
+        "skill": "Shield Strike I",
+        "distance": 15
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 111
+      },
+      {
+        "icon": "pvw_skill_3203.webp",
+        "skill": "Absolute: Shield Strike",
+        "distance": 120
+      }
+    ]
+  },
+  "awakening-tricks/image97": {
+    "skill_name": "Promptness",
+    "roster_id": "promptness",
+    "icon_file": "pvw_skill_1985.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B39",
+      "F49",
+      "F50",
+      "F51",
+      "F52",
+      "F53"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0770.webp",
+        "skill": "Ultimate: Sword of Judgment",
+        "distance": 140
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 146
+      }
+    ]
+  },
+  "awakening-tricks/image100": {
+    "skill_name": "Guard",
+    "roster_id": "guard",
+    "icon_file": "pvw_skill_0718.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B53",
+      "F26",
+      "N30"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 105
+      },
+      {
+        "icon": "pvw_skill_0754.webp",
+        "skill": "Skyward Strike I",
+        "distance": 110
+      }
+    ]
+  },
+  "awakening-tricks/image102": {
+    "skill_name": "Vow of Trust I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0781.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "Q79"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0781.webp",
+        "skill": "Vow of Trust I",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_4147.webp",
+        "skill": "Prime: Sword of Judgment I",
+        "distance": 150
+      },
+      {
+        "icon": "pvw_skill_0732.webp",
+        "skill": "Sword of Judgment I",
+        "distance": 159
+      }
+    ]
+  },
+  "awakening-tricks/image103": {
+    "skill_name": "Just Counter I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0720.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B50",
+      "J11"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 29
+      },
+      {
+        "icon": "pvw_skill_0785.webp",
+        "skill": "Flow: Sharp Counter",
+        "distance": 59
+      }
+    ]
+  },
+  "awakening-tricks/image136": {
+    "skill_name": "Flurry of Kicks I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0723.webp",
+    "distance": 11,
+    "matched": true,
+    "cells": [
+      "B114",
+      "N64",
+      "Q78"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0723.webp",
+        "skill": "Flurry of Kicks I",
+        "distance": 11
+      },
+      {
+        "icon": "pvw_skill_0726.webp",
+        "skill": "Ultimate: Flurry of Kicks",
+        "distance": 29
+      },
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 140
+      }
+    ]
+  },
+  "awakening-tricks/image140": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 85,
+    "matched": false,
+    "cells": [
+      "Q70"
+    ],
+    "candidates": [
+      {
+        "icon": "phm_skill_1017.webp",
+        "skill": "Evasion",
+        "distance": 85
+      },
+      {
+        "icon": "common_skill_0092.webp",
+        "skill": "Emergency Escape",
+        "distance": 168
+      },
+      {
+        "icon": "phm_skill_0196.webp",
+        "skill": "Cannon Attack",
+        "distance": 169
+      }
+    ]
+  },
+  "awakening-tricks/image143": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 103,
+    "matched": false,
+    "cells": [
+      "B46",
+      "G64"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 103
+      },
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 120
+      },
+      {
+        "icon": "pvw_skill_4136.webp",
+        "skill": "Prime: Holy Prayer I",
+        "distance": 120
+      }
+    ]
+  },
+  "awakening-tricks/image153": {
+    "skill_name": "Severing Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1479.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "J13",
+      "Q80"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 45
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 48
+      }
+    ]
+  },
+  "awakening-tricks/image158": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 176,
+    "matched": false,
+    "cells": [
+      "B49"
+    ],
+    "candidates": [
+      {
+        "icon": "phm_skill_0196.webp",
+        "skill": "Cannon Attack",
+        "distance": 176
+      },
+      {
+        "icon": "common_skill_11688.webp",
+        "skill": "Blessing of Asadal",
+        "distance": 180
+      },
+      {
+        "icon": "pvw_skill_1945_2.webp",
+        "skill": "Lancia Training I",
+        "distance": 184
+      }
+    ]
+  },
+  "important-info/image2": {
+    "skill_name": "Vindicta",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1962.webp",
+    "distance": 13,
+    "matched": true,
+    "cells": [
+      "I42",
+      "I51"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1962.webp",
+        "skill": "Vindicta",
+        "distance": 13
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 122
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 126
+      }
+    ]
+  },
+  "important-info/image4": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 77,
+    "matched": false,
+    "cells": [
+      "B18",
+      "I41"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4053.webp",
+        "skill": "Divine Judgment of Light",
+        "distance": 77
+      },
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 149
+      }
+    ]
+  },
+  "important-info/image5": {
+    "skill_name": "Purificatione I",
+    "roster_id": "purificatione",
+    "icon_file": "pvw_skill_1955.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "B23",
+      "B32",
+      "I30",
+      "I57"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4152.webp",
+        "skill": "Prime: Purificatione",
+        "distance": 93
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 119
+      }
+    ]
+  },
+  "important-info/image6": {
+    "skill_name": "Verdict: Lancia Iustitiae I",
+    "roster_id": "verdict-lancia-iustitiae",
+    "icon_file": "pvw_skill_1968.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B26",
+      "I22",
+      "I37",
+      "I61"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 119
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 122
+      }
+    ]
+  },
+  "important-info/image7": {
+    "skill_name": "Wave of Light",
+    "roster_id": "wave-of-light",
+    "icon_file": "pvw_skill_1967.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "I33",
+      "I68"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1967.webp",
+        "skill": "Wave of Light",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 168
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 168
+      }
+    ]
+  },
+  "important-info/image8": {
+    "skill_name": "Celestial Spear I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0765.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B64",
+      "I17",
+      "I38"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0765.webp",
+        "skill": "Celestial Spear I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 28
+      },
+      {
+        "icon": "pvw_skill_0775.webp",
+        "skill": "Ultimate: Celestial Spear",
+        "distance": 33
+      }
+    ]
+  },
+  "important-info/image9": {
+    "skill_name": "Noble Spirit",
+    "roster_id": "noble-spirit",
+    "icon_file": "pvw_skill_1944.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B8",
+      "I50"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1944.webp",
+        "skill": "Noble Spirit",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1476.webp",
+        "skill": "Forward Slash I",
+        "distance": 134
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 142
+      }
+    ]
+  },
+  "important-info/image12": {
+    "skill_name": "Lancia Training I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1945.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I27",
+      "I53"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1945.webp",
+        "skill": "Lancia Training I",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 134
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 140
+      }
+    ]
+  },
+  "important-info/image13": {
+    "skill_name": "Divine Slam",
+    "roster_id": "divine-slam",
+    "icon_file": "pvw_skill_2815.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B16"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2815.webp",
+        "skill": "Divine Slam",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_2816.webp",
+        "skill": "Divine Descent",
+        "distance": 104
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 132
+      }
+    ]
+  },
+  "important-info/image14": {
+    "skill_name": "Divina Inpulsa",
+    "roster_id": "divina-impulsa",
+    "icon_file": "pvw_skill_6459.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I24",
+      "I60"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_6459.webp",
+        "skill": "Divina Inpulsa",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 143
+      }
+    ]
+  },
+  "important-info/image15": {
+    "skill_name": "Hastiludium I",
+    "roster_id": "hastiludium",
+    "icon_file": "pvw_skill_1972.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B25",
+      "I59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1972.webp",
+        "skill": "Hastiludium I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 176
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 178
+      }
+    ]
+  },
+  "important-info/image16": {
+    "skill_name": "Celestial Cry",
+    "roster_id": null,
+    "icon_file": "pvw_skill_2747.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B14",
+      "B31",
+      "I12"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_2748.webp",
+        "skill": "Celestial Smite",
+        "distance": 79
+      },
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 112
+      }
+    ]
+  },
+  "important-info/image17": {
+    "skill_name": "Sacrum Ferit I",
+    "roster_id": "sacrum-ferit",
+    "icon_file": "pvw_skill_1963.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "B22",
+      "I20",
+      "I55"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 129
+      }
+    ]
+  },
+  "important-info/image18": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 95,
+    "matched": false,
+    "cells": [
+      "B19"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4052.webp",
+        "skill": "Shining Judgment of Light",
+        "distance": 95
+      },
+      {
+        "icon": "pvw_skill_0731.webp",
+        "skill": "Shining Dash",
+        "distance": 141
+      },
+      {
+        "icon": "pvw_skill_4053.webp",
+        "skill": "Divine Judgment of Light",
+        "distance": 162
+      }
+    ]
+  },
+  "important-info/image19": {
+    "skill_name": "Blitz Stab",
+    "roster_id": "blitz-stab",
+    "icon_file": "pvw_skill_1978.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "I34",
+      "I64"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1978.webp",
+        "skill": "Blitz Stab",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_1979.webp",
+        "skill": "Ultimate: Blitz Stab",
+        "distance": 91
+      },
+      {
+        "icon": "pvw_skill_1968.webp",
+        "skill": "Verdict: Lancia Iustitiae I",
+        "distance": 123
+      }
+    ]
+  },
+  "important-info/image21": {
+    "skill_name": "Flow: Lucem Fluxum",
+    "roster_id": "flow-lucem-fluxum",
+    "icon_file": "pvw_skill_1981.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "I56"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1981.webp",
+        "skill": "Flow: Lucem Fluxum",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 155
+      },
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 158
+      }
+    ]
+  },
+  "important-info/image22": {
+    "skill_name": "Sideways Cut I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1487.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B53"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1487.webp",
+        "skill": "Sideways Cut I",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_3199.webp",
+        "skill": "Absolute: Sideways Cut",
+        "distance": 118
+      },
+      {
+        "icon": "pvw_skill_0747.webp",
+        "skill": "Charging Slash I",
+        "distance": 134
+      }
+    ]
+  },
+  "important-info/image23": {
+    "skill_name": "Prime: Glory of Enslar",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4142.webp",
+    "distance": 0,
+    "matched": true,
+    "cells": [
+      "B10",
+      "I82"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4142.webp",
+        "skill": "Prime: Glory of Enslar",
+        "distance": 0
+      },
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 93
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 100
+      }
+    ]
+  },
+  "important-info/image24": {
+    "skill_name": "Prime: Purificatione",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4152.webp",
+    "distance": 11,
+    "matched": true,
+    "cells": [
+      "B33",
+      "I31",
+      "I83"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4152.webp",
+        "skill": "Prime: Purificatione",
+        "distance": 11
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 81
+      },
+      {
+        "icon": "pvw_skill_1955.webp",
+        "skill": "Purificatione I",
+        "distance": 93
+      }
+    ]
+  },
+  "important-info/image25": {
+    "skill_name": "Shield Chase I",
+    "roster_id": "shield-chase",
+    "icon_file": "pvw_skill_0736.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B87",
+      "I25"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 110
+      }
+    ]
+  },
+  "important-info/image26": {
+    "skill_name": "Righteous Charge I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0750.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B66"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_0753.webp",
+        "skill": "Ultimate: Righteous Charge",
+        "distance": 46
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 126
+      }
+    ]
+  },
+  "important-info/image27": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 20,
+    "matched": false,
+    "cells": [
+      "I52"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 20
+      },
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 109
+      },
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 131
+      }
+    ]
+  },
+  "important-info/image28": {
+    "skill_name": "Flow: Divina Vult",
+    "roster_id": "flow-divina-vult",
+    "icon_file": "pvw_skill_1982_re.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "I35",
+      "I63"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 70
+      },
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 108
+      }
+    ]
+  },
+  "important-info/image30": {
+    "skill_name": "Prime: Just Counter",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4143.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I32",
+      "I86"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 28
+      },
+      {
+        "icon": "pvw_skill_0785.webp",
+        "skill": "Flow: Sharp Counter",
+        "distance": 83
+      }
+    ]
+  },
+  "important-info/image31": {
+    "skill_name": "Divine Power I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0739.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B61",
+      "I43"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 50
+      },
+      {
+        "icon": "pvw_skill_4151.webp",
+        "skill": "Prime: Divine Power I",
+        "distance": 68
+      }
+    ]
+  },
+  "important-info/image33": {
+    "skill_name": "Celestial Smite",
+    "roster_id": "celestial-smite",
+    "icon_file": "pvw_skill_2748.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B15",
+      "I19",
+      "I40"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2748.webp",
+        "skill": "Celestial Smite",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 81
+      },
+      {
+        "icon": "pvw_skill_0744.webp",
+        "skill": "Heaven's Echo I",
+        "distance": 117
+      }
+    ]
+  },
+  "important-info/image34": {
+    "skill_name": "Ultimate: Severing Light",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1483.webp",
+    "distance": 14,
+    "matched": true,
+    "cells": [
+      "B55"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 14
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 43
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 65
+      }
+    ]
+  },
+  "important-info/image35": {
+    "skill_name": "Sanctitas de Enslar I",
+    "roster_id": "sanctitas-de-enslar",
+    "icon_file": "pvw_skill_1975.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B27",
+      "I23",
+      "I62"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      },
+      {
+        "icon": "pvw_skill_4153.webp",
+        "skill": "Prime: Sanctitas de Enslar",
+        "distance": 129
+      }
+    ]
+  },
+  "important-info/image36": {
+    "skill_name": "Prime: Divine Power I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4151.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "I44",
+      "I75"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4151.webp",
+        "skill": "Prime: Divine Power I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 66
+      },
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 84
+      }
+    ]
+  },
+  "important-info/image38": {
+    "skill_name": "Heaven's Echo I",
+    "roster_id": "heavens-echo",
+    "icon_file": "pvw_skill_0744.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B63",
+      "I8",
+      "I9"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0744.webp",
+        "skill": "Heaven's Echo I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_3215.webp",
+        "skill": "Absolute: Heaven's Echo",
+        "distance": 103
+      },
+      {
+        "icon": "common_skill_0090.webp",
+        "skill": "Rage Absorption (Innate)",
+        "distance": 117
+      }
+    ]
+  },
+  "important-info/image40": {
+    "skill_name": "Not in Use",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4834.webp",
+    "distance": 0,
+    "matched": true,
+    "cells": [
+      "I26",
+      "I72"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 0
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 52
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 71
+      }
+    ]
+  },
+  "important-info/image41": {
+    "skill_name": "Prime: Celestial Spear I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4150.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "I18",
+      "I39",
+      "I76"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_0765.webp",
+        "skill": "Celestial Spear I",
+        "distance": 25
+      },
+      {
+        "icon": "pvw_skill_0775.webp",
+        "skill": "Ultimate: Celestial Spear",
+        "distance": 42
+      }
+    ]
+  },
+  "important-info/image42": {
+    "skill_name": "Shining Dash",
+    "roster_id": "shining-dash",
+    "icon_file": "pvw_skill_0731.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B68"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0731.webp",
+        "skill": "Shining Dash",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_4144.webp",
+        "skill": "Prime: Shining Dash",
+        "distance": 76
+      },
+      {
+        "icon": "pvw_skill_4052.webp",
+        "skill": "Shining Judgment of Light",
+        "distance": 123
+      }
+    ]
+  },
+  "important-info/image43": {
+    "skill_name": "Judgment of Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0772.webp",
+    "distance": 0,
+    "matched": true,
+    "cells": [
+      "B69"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0772.webp",
+        "skill": "Judgment of Light I",
+        "distance": 0
+      },
+      {
+        "icon": "pvw_skill_3207.webp",
+        "skill": "Absolute: Judgment of Light",
+        "distance": 117
+      },
+      {
+        "icon": "pvw_skill_4148.webp",
+        "skill": "Prime: Judgment of Light III",
+        "distance": 125
+      }
+    ]
+  },
+  "important-info/image44": {
+    "skill_name": "Sharp Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1490.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "B59"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 88
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 105
+      }
+    ]
+  },
+  "important-info/image45": {
+    "skill_name": "Sword of Judgment I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0732.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B57"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0732.webp",
+        "skill": "Sword of Judgment I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4147.webp",
+        "skill": "Prime: Sword of Judgment I",
+        "distance": 61
+      },
+      {
+        "icon": "pvw_skill_3202.webp",
+        "skill": "Absolute: Sword of Judgment",
+        "distance": 89
+      }
+    ]
+  },
+  "important-info/image46": {
+    "skill_name": "Flow: Double Flying Kick",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0729.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B75"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0729.webp",
+        "skill": "Flow: Double Flying Kick",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_0727.webp",
+        "skill": "Flying Kick I",
+        "distance": 87
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 131
+      }
+    ]
+  },
+  "important-info/image47": {
+    "skill_name": "Ultimate: Sharp Light",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0771.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B60"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 89
+      },
+      {
+        "icon": "pvw_skill_4142.webp",
+        "skill": "Prime: Glory of Enslar",
+        "distance": 97
+      }
+    ]
+  },
+  "important-info/image48": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 17,
+    "matched": false,
+    "cells": [
+      "B52"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0747.webp",
+        "skill": "Charging Slash I",
+        "distance": 17
+      },
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 110
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 121
+      }
+    ]
+  },
+  "important-info/image49": {
+    "skill_name": "Prime: Glaring Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4146.webp",
+    "distance": 4,
+    "matched": true,
+    "cells": [
+      "I73"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 4
+      },
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 49
+      },
+      {
+        "icon": "pvw_skill_3217.webp",
+        "skill": "Absolute: Glaring Slash",
+        "distance": 115
+      }
+    ]
+  },
+  "important-info/image50": {
+    "skill_name": "Gladius Gloriae",
+    "roster_id": "gladius-gloriae",
+    "icon_file": "pvw_skill_1984.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "B70",
+      "I36"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1984.webp",
+        "skill": "Gladius Gloriae",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 113
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 127
+      }
+    ]
+  },
+  "important-info/image51": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 94,
+    "matched": false,
+    "cells": [
+      "B76"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0780.webp",
+        "skill": "Ultimate: Punishment",
+        "distance": 94
+      },
+      {
+        "icon": "pvw_skill_0776.webp",
+        "skill": "Punishment I",
+        "distance": 100
+      },
+      {
+        "icon": "pvw_skill_3213.webp",
+        "skill": "Absolute: Punishment",
+        "distance": 108
+      }
+    ]
+  },
+  "important-info/image52": {
+    "skill_name": "Shield Push",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0730.webp",
+    "distance": 4,
+    "matched": true,
+    "cells": [
+      "B81"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 4
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 110
+      },
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 111
+      }
+    ]
+  },
+  "important-info/image53": {
+    "skill_name": "Counter I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1494.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B78"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1494.webp",
+        "skill": "Counter I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_4145.webp",
+        "skill": "Prime: Counter",
+        "distance": 34
+      },
+      {
+        "icon": "pvw_skill_3208.webp",
+        "skill": "Absolute: Counter",
+        "distance": 101
+      }
+    ]
+  },
+  "important-info/image54": {
+    "skill_name": "Terra Sancta",
+    "roster_id": "terra-sancta",
+    "icon_file": "pvw_skill_1983.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "I67"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1983.webp",
+        "skill": "Terra Sancta",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 122
+      },
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 123
+      }
+    ]
+  },
+  "important-info/image55": {
+    "skill_name": "Divine Descent",
+    "roster_id": "divine-descent",
+    "icon_file": "pvw_skill_2816.webp",
+    "distance": 15,
+    "matched": true,
+    "cells": [
+      "B17",
+      "I13"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_2816.webp",
+        "skill": "Divine Descent",
+        "distance": 15
+      },
+      {
+        "icon": "pvw_skill_2815.webp",
+        "skill": "Divine Slam",
+        "distance": 103
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 123
+      }
+    ]
+  },
+  "important-info/image56": {
+    "skill_name": "Breath of Elion I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0762.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B30",
+      "B71",
+      "I10"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_3201.webp",
+        "skill": "Absolute: Breath of Elion",
+        "distance": 105
+      },
+      {
+        "icon": "pvw_skill_2747.webp",
+        "skill": "Celestial Cry",
+        "distance": 106
+      }
+    ]
+  },
+  "important-info/image58": {
+    "skill_name": "Ultimate: Flurry of Kicks",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0726.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B73"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0726.webp",
+        "skill": "Ultimate: Flurry of Kicks",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_0723.webp",
+        "skill": "Flurry of Kicks I",
+        "distance": 36
+      },
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 147
+      }
+    ]
+  },
+  "important-info/image60": {
+    "skill_name": "Ultimate: Blitz Stab",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1979.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I65"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1979.webp",
+        "skill": "Ultimate: Blitz Stab",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1978.webp",
+        "skill": "Blitz Stab",
+        "distance": 89
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 135
+      }
+    ]
+  },
+  "important-info/image61": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 17,
+    "matched": false,
+    "cells": [
+      "B89",
+      "I11"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0769.webp",
+        "skill": "Elion's Blessing",
+        "distance": 17
+      },
+      {
+        "icon": "pvw_skill_0762.webp",
+        "skill": "Breath of Elion I",
+        "distance": 148
+      },
+      {
+        "icon": "pvw_skill_0736.webp",
+        "skill": "Shield Chase I",
+        "distance": 155
+      }
+    ]
+  },
+  "important-info/image62": {
+    "skill_name": "Elvia: Torn Wing",
+    "roster_id": null,
+    "icon_file": "pvw_skill_6138.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "I54"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_6138.webp",
+        "skill": "Elvia: Torn Wing",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_1963.webp",
+        "skill": "Sacrum Ferit I",
+        "distance": 172
+      },
+      {
+        "icon": "pvw_skill_1497.webp",
+        "skill": "Shield Strike I",
+        "distance": 173
+      }
+    ]
+  },
+  "important-info/image63": {
+    "skill_name": "Valkyrie Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1466.webp",
+    "distance": 11,
+    "matched": true,
+    "cells": [
+      "B50"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 11
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 96
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 109
+      }
+    ]
+  },
+  "important-info/image64": {
+    "skill_name": "Ultimate: Righteous Charge",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0753.webp",
+    "distance": 11,
+    "matched": true,
+    "cells": [
+      "B67",
+      "I77"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0753.webp",
+        "skill": "Ultimate: Righteous Charge",
+        "distance": 11
+      },
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 45
+      },
+      {
+        "icon": "pvw_skill_4142.webp",
+        "skill": "Prime: Glory of Enslar",
+        "distance": 138
+      }
+    ]
+  },
+  "important-info/image65": {
+    "skill_name": "Flow: Sharp Counter",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0785.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B85"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0785.webp",
+        "skill": "Flow: Sharp Counter",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 63
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 80
+      }
+    ]
+  },
+  "important-info/image66": {
+    "skill_name": "Forward Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1476.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B51"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1476.webp",
+        "skill": "Forward Slash I",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_3197.webp",
+        "skill": "Absolute: Forward Slash",
+        "distance": 98
+      },
+      {
+        "icon": "pvw_skill_1944.webp",
+        "skill": "Noble Spirit",
+        "distance": 134
+      }
+    ]
+  },
+  "important-info/image67": {
+    "skill_name": "Skyward Strike I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0754.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "B86"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0754.webp",
+        "skill": "Skyward Strike I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 106
+      },
+      {
+        "icon": "pvw_skill_0771.webp",
+        "skill": "Ultimate: Sharp Light",
+        "distance": 116
+      }
+    ]
+  },
+  "important-info/image68": {
+    "skill_name": "Castigatio I",
+    "roster_id": "castigatio",
+    "icon_file": "pvw_skill_1958.webp",
+    "distance": 2,
+    "matched": true,
+    "cells": [
+      "B24",
+      "I58"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1958.webp",
+        "skill": "Castigatio I",
+        "distance": 2
+      },
+      {
+        "icon": "pvw_skill_1980.webp",
+        "skill": "Death Line Chase",
+        "distance": 115
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 127
+      }
+    ]
+  },
+  "important-info/image69": {
+    "skill_name": "Glaring Slash I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0757.webp",
+    "distance": 4,
+    "matched": true,
+    "cells": [
+      "B56"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0757.webp",
+        "skill": "Glaring Slash I",
+        "distance": 4
+      },
+      {
+        "icon": "pvw_skill_4146.webp",
+        "skill": "Prime: Glaring Slash I",
+        "distance": 49
+      },
+      {
+        "icon": "pvw_skill_3217.webp",
+        "skill": "Absolute: Glaring Slash",
+        "distance": 108
+      }
+    ]
+  },
+  "important-info/image74": {
+    "skill_name": "Shield Counter",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0719.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B80"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0719.webp",
+        "skill": "Shield Counter",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_1466.webp",
+        "skill": "Valkyrie Slash I",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 111
+      }
+    ]
+  },
+  "important-info/image75": {
+    "skill_name": "Prime: Sword of Judgment I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4147.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "I74"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4147.webp",
+        "skill": "Prime: Sword of Judgment I",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_0732.webp",
+        "skill": "Sword of Judgment I",
+        "distance": 59
+      },
+      {
+        "icon": "pvw_skill_3202.webp",
+        "skill": "Absolute: Sword of Judgment",
+        "distance": 102
+      }
+    ]
+  },
+  "important-info/image77": {
+    "skill_name": "Shield Throw I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1485.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "B82"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1485.webp",
+        "skill": "Shield Throw I",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_4149.webp",
+        "skill": "Prime: Shield Throw I",
+        "distance": 71
+      },
+      {
+        "icon": "pvw_skill_0784.webp",
+        "skill": "Flow: Spinning Shield",
+        "distance": 82
+      }
+    ]
+  },
+  "important-info/image79": {
+    "skill_name": "Ultimate: Divine Power",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0743.webp",
+    "distance": 8,
+    "matched": true,
+    "cells": [
+      "B62"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0743.webp",
+        "skill": "Ultimate: Divine Power",
+        "distance": 8
+      },
+      {
+        "icon": "pvw_skill_0739.webp",
+        "skill": "Divine Power I",
+        "distance": 48
+      },
+      {
+        "icon": "pvw_skill_4151.webp",
+        "skill": "Prime: Divine Power I",
+        "distance": 84
+      }
+    ]
+  },
+  "important-info/image82": {
+    "skill_name": "Prime: Judgment of Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4214.webp",
+    "distance": 0,
+    "matched": true,
+    "cells": [
+      "I79"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4214.webp",
+        "skill": "Prime: Judgment of Light I",
+        "distance": 0
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 113
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 120
+      }
+    ]
+  },
+  "important-info/image83": {
+    "skill_name": "Prime: Shining Dash",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4144.webp",
+    "distance": 14,
+    "matched": true,
+    "cells": [
+      "I78"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4144.webp",
+        "skill": "Prime: Shining Dash",
+        "distance": 14
+      },
+      {
+        "icon": "pvw_skill_0731.webp",
+        "skill": "Shining Dash",
+        "distance": 65
+      },
+      {
+        "icon": "pvw_skill_3219.webp",
+        "skill": "Absolute: Shining Dash",
+        "distance": 120
+      }
+    ]
+  },
+  "important-info/image86": {
+    "skill_name": "Shield Strike I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1497.webp",
+    "distance": 15,
+    "matched": true,
+    "cells": [
+      "B79"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1497.webp",
+        "skill": "Shield Strike I",
+        "distance": 15
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 111
+      },
+      {
+        "icon": "pvw_skill_3203.webp",
+        "skill": "Absolute: Shield Strike",
+        "distance": 120
+      }
+    ]
+  },
+  "important-info/image90": {
+    "skill_name": "Prime: Judgment of Light II",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4215.webp",
+    "distance": 0,
+    "matched": true,
+    "cells": [
+      "I80"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4215.webp",
+        "skill": "Prime: Judgment of Light II",
+        "distance": 0
+      },
+      {
+        "icon": "pvw_skill_4142.webp",
+        "skill": "Prime: Glory of Enslar",
+        "distance": 116
+      },
+      {
+        "icon": "pvw_skill_1943.webp",
+        "skill": "Awakening: Holy Lancia",
+        "distance": 118
+      }
+    ]
+  },
+  "important-info/image92": {
+    "skill_name": "Ultimate: Sword of Judgment",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0770.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "B58"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0770.webp",
+        "skill": "Ultimate: Sword of Judgment",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 115
+      },
+      {
+        "icon": "pvw_skill_0732.webp",
+        "skill": "Sword of Judgment I",
+        "distance": 115
+      }
+    ]
+  },
+  "important-info/image93": {
+    "skill_name": "Prime: Sanctitas de Enslar",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4153.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "I84"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4153.webp",
+        "skill": "Prime: Sanctitas de Enslar",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_1975.webp",
+        "skill": "Sanctitas de Enslar I",
+        "distance": 128
+      },
+      {
+        "icon": "pvw_skill_4135.webp",
+        "skill": "Succession: Valkyrie's Vow",
+        "distance": 134
+      }
+    ]
+  },
+  "important-info/image96": {
+    "skill_name": "Prime: Shield Throw I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4149.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I85"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4149.webp",
+        "skill": "Prime: Shield Throw I",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1485.webp",
+        "skill": "Shield Throw I",
+        "distance": 73
+      },
+      {
+        "icon": "pvw_skill_4142.webp",
+        "skill": "Prime: Glory of Enslar",
+        "distance": 105
+      }
+    ]
+  },
+  "important-info/image97": {
+    "skill_name": "Promptness",
+    "roster_id": "promptness",
+    "icon_file": "pvw_skill_1985.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "I66"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1985.webp",
+        "skill": "Promptness",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_0770.webp",
+        "skill": "Ultimate: Sword of Judgment",
+        "distance": 140
+      },
+      {
+        "icon": "pvw_skill_0730.webp",
+        "skill": "Shield Push",
+        "distance": 146
+      }
+    ]
+  },
+  "important-info/image100": {
+    "skill_name": "Guard",
+    "roster_id": "guard",
+    "icon_file": "pvw_skill_0718.webp",
+    "distance": 6,
+    "matched": true,
+    "cells": [
+      "I21"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0718.webp",
+        "skill": "Guard",
+        "distance": 6
+      },
+      {
+        "icon": "pvw_skill_1490.webp",
+        "skill": "Sharp Light I",
+        "distance": 105
+      },
+      {
+        "icon": "pvw_skill_0754.webp",
+        "skill": "Skyward Strike I",
+        "distance": 110
+      }
+    ]
+  },
+  "important-info/image101": {
+    "skill_name": "Prime: Judgment of Light III",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4148.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "I81"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4148.webp",
+        "skill": "Prime: Judgment of Light III",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_4141.webp",
+        "skill": "Prime: Noble Will",
+        "distance": 106
+      },
+      {
+        "icon": "pvw_skill_1982_re.webp",
+        "skill": "Flow: Divina Vult",
+        "distance": 125
+      }
+    ]
+  },
+  "important-info/image102": {
+    "skill_name": "Vow of Trust I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0781.webp",
+    "distance": 9,
+    "matched": true,
+    "cells": [
+      "B88"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0781.webp",
+        "skill": "Vow of Trust I",
+        "distance": 9
+      },
+      {
+        "icon": "pvw_skill_4147.webp",
+        "skill": "Prime: Sword of Judgment I",
+        "distance": 150
+      },
+      {
+        "icon": "pvw_skill_0732.webp",
+        "skill": "Sword of Judgment I",
+        "distance": 159
+      }
+    ]
+  },
+  "important-info/image103": {
+    "skill_name": "Just Counter I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0720.webp",
+    "distance": 10,
+    "matched": true,
+    "cells": [
+      "B84"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0720.webp",
+        "skill": "Just Counter I",
+        "distance": 10
+      },
+      {
+        "icon": "pvw_skill_4143.webp",
+        "skill": "Prime: Just Counter",
+        "distance": 29
+      },
+      {
+        "icon": "pvw_skill_0785.webp",
+        "skill": "Flow: Sharp Counter",
+        "distance": 59
+      }
+    ]
+  },
+  "important-info/image109": {
+    "skill_name": null,
+    "roster_id": null,
+    "icon_file": null,
+    "distance": 101,
+    "matched": false,
+    "cells": [
+      "B77"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0780.webp",
+        "skill": "Ultimate: Punishment",
+        "distance": 101
+      },
+      {
+        "icon": "pvw_skill_3213.webp",
+        "skill": "Absolute: Punishment",
+        "distance": 107
+      },
+      {
+        "icon": "pvw_skill_0776.webp",
+        "skill": "Punishment I",
+        "distance": 109
+      }
+    ]
+  },
+  "important-info/image118": {
+    "skill_name": "Ultimate: Celestial Spear",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0775.webp",
+    "distance": 5,
+    "matched": true,
+    "cells": [
+      "B65"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0775.webp",
+        "skill": "Ultimate: Celestial Spear",
+        "distance": 5
+      },
+      {
+        "icon": "pvw_skill_0765.webp",
+        "skill": "Celestial Spear I",
+        "distance": 30
+      },
+      {
+        "icon": "pvw_skill_4150.webp",
+        "skill": "Prime: Celestial Spear I",
+        "distance": 44
+      }
+    ]
+  },
+  "important-info/image129": {
+    "skill_name": "Flying Kick I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0727.webp",
+    "distance": 13,
+    "matched": true,
+    "cells": [
+      "B74"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0727.webp",
+        "skill": "Flying Kick I",
+        "distance": 13
+      },
+      {
+        "icon": "pvw_skill_0729.webp",
+        "skill": "Flow: Double Flying Kick",
+        "distance": 88
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 135
+      }
+    ]
+  },
+  "important-info/image131": {
+    "skill_name": "Prime: Counter",
+    "roster_id": null,
+    "icon_file": "pvw_skill_4145.webp",
+    "distance": 3,
+    "matched": true,
+    "cells": [
+      "I87"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_4145.webp",
+        "skill": "Prime: Counter",
+        "distance": 3
+      },
+      {
+        "icon": "pvw_skill_1494.webp",
+        "skill": "Counter I",
+        "distance": 33
+      },
+      {
+        "icon": "pvw_skill_3208.webp",
+        "skill": "Absolute: Counter",
+        "distance": 100
+      }
+    ]
+  },
+  "important-info/image136": {
+    "skill_name": "Flurry of Kicks I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0723.webp",
+    "distance": 11,
+    "matched": true,
+    "cells": [
+      "B72"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0723.webp",
+        "skill": "Flurry of Kicks I",
+        "distance": 11
+      },
+      {
+        "icon": "pvw_skill_0726.webp",
+        "skill": "Ultimate: Flurry of Kicks",
+        "distance": 29
+      },
+      {
+        "icon": "pvw_skill_0750.webp",
+        "skill": "Righteous Charge I",
+        "distance": 140
+      }
+    ]
+  },
+  "important-info/image153": {
+    "skill_name": "Severing Light I",
+    "roster_id": null,
+    "icon_file": "pvw_skill_1479.webp",
+    "distance": 12,
+    "matched": true,
+    "cells": [
+      "B54"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_1479.webp",
+        "skill": "Severing Light I",
+        "distance": 12
+      },
+      {
+        "icon": "pvw_skill_1483.webp",
+        "skill": "Ultimate: Severing Light",
+        "distance": 45
+      },
+      {
+        "icon": "pvw_skill_4834.webp",
+        "skill": "Not in Use",
+        "distance": 48
+      }
+    ]
+  },
+  "important-info/image173": {
+    "skill_name": "Flow: Spinning Shield",
+    "roster_id": null,
+    "icon_file": "pvw_skill_0784.webp",
+    "distance": 7,
+    "matched": true,
+    "cells": [
+      "B83"
+    ],
+    "candidates": [
+      {
+        "icon": "pvw_skill_0784.webp",
+        "skill": "Flow: Spinning Shield",
+        "distance": 7
+      },
+      {
+        "icon": "pvw_skill_1485.webp",
+        "skill": "Shield Throw I",
+        "distance": 86
+      },
+      {
+        "icon": "pvw_skill_4149.webp",
+        "skill": "Prime: Shield Throw I",
+        "distance": 116
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "media": "image3.png",
+    "from_col": 1,
+    "from_row": 1,
+    "from_cell": "B2",
+    "to_col": null,
+    "to_row": null,
+    "to_cell": null
+  },
+  {
+    "media": "image1.png",
+    "from_col": 8,
+    "from_row": 1,
+    "from_cell": "I2",
+    "to_col": null,
+    "to_row": null,
+    "to_cell": null
+  },
+  {
+    "media": "image29.png",
+    "from_col": 1,
+    "from_row": 4,
+    "from_cell": "B5",
+    "to_col": null,
+    "to_row": null,
+    "to_cell": null
+  },
+  {
+    "media": "image145.png",
+    "from_col": 8,
+    "from_row": 16,
+    "from_cell": "I17",
+    "to_col": null,
+    "to_row": null,
+    "to_cell": null
+  },
+  {
+    "media": "image10.png",
+    "from_col": 1,
+    "from_row": 20,
+    "from_cell": "B21",
+    "to_col": null,
+    "to_row": null,
+    "to_cell": null
+  }
+]

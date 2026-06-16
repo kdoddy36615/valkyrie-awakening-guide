@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "note": "Reference figure galleries — source screenshots, not transcribed."
+  },
+  "sheets": [
+    {
+      "key": "introduction",
+      "title": "Introduction",
+      "desc": "State of Valkyrie in 2026, contents, and overview figures.",
+      "figures": [
+        {
+          "path": "sources/images/introduction/image10__B21.png",
+          "w": 442,
+          "h": 737
+        },
+        {
+          "path": "sources/images/introduction/image145__I17.png",
+          "w": 487,
+          "h": 342
+        },
+        {
+          "path": "sources/images/introduction/image29__B5.png",
+          "w": 442,
+          "h": 737
+        }
+      ]
+    },
+    {
+      "key": "important-info",
+      "title": "Important Info",
+      "desc": "Protection, CC, and buff/debuff reference (also reflected on the Skills page).",
+      "figures": []
+    },
+    {
+      "key": "gearing-guide",
+      "title": "Gearing Guide",
+      "desc": "Recommended gear, crystals, and progression figures.",
+      "figures": [
+        {
+          "path": "sources/images/gearing-guide/image108__J70.png",
+          "w": 660,
+          "h": 1214
+        },
+        {
+          "path": "sources/images/gearing-guide/image110__B89.png",
+          "w": 692,
+          "h": 1186
+        },
+        {
+          "path": "sources/images/gearing-guide/image112__B53.png",
+          "w": 660,
+          "h": 1214
+        },
+        {
+          "path": "sources/images/gearing-guide/image134__B126.png",
+          "w": 682,
+          "h": 1315
+        },
+        {
+          "path": "sources/images/gearing-guide/image137__J143.png",
+          "w": 279,
+          "h": 814
+        },
+        {
+          "path": "sources/images/gearing-guide/image139__J89.png",
+          "w": 692,
+          "h": 1186
+        },
+        {
+          "path": "sources/images/gearing-guide/image171__J126.png",
+          "w": 664,
+          "h": 1215
+        },
+        {
+          "path": "sources/images/gearing-guide/image175__B70.png",
+          "w": 692,
+          "h": 1186
+        },
+        {
+          "path": "sources/images/gearing-guide/image81__I19.png",
+          "w": 820,
+          "h": 390
+        },
+        {
+          "path": "sources/images/gearing-guide/image89__J53.png",
+          "w": 692,
+          "h": 1214
+        },
+        {
+          "path": "sources/images/gearing-guide/image95__E143.png",
+          "w": 279,
+          "h": 761
+        }
+      ]
+    },
+    {
+      "key": "class-bug-issues",
+      "title": "Class Bug & Issues",
+      "desc": "Known class bugs (notably the June 2023 Skill Hit Delay).",
+      "figures": []
+    }
+  ]
+}

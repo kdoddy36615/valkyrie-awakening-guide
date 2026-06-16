@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "title": "Awakening PvE DPS chart",
+    "source": "Valkyrie Guide 2026 — sheet \"Awakening PvE DPS chart\"",
+    "author": "Made by @RonnieBDO",
+    "assumption": "60% (DP/AP assumption header)",
+    "notes": [
+      "Values are not frame exact",
+      "But they are more or less accurate"
+    ],
+    "locked": true,
+    "locked_note": "Values copied verbatim from the guide and never recomputed (ADR / HANDOFF §7).",
+    "columns": [
+      "skill",
+      "name",
+      "hits",
+      "damage",
+      "total",
+      "duration",
+      "dps"
+    ]
+  },
+  "rows": [
+    {
+      "skill": "purificatione",
+      "name": "Purificatione cancel",
+      "also": [],
+      "hits": 3,
+      "damage": 4295,
+      "total": 12885,
+      "duration": 0.2,
+      "dps": 64425
+    },
+    {
+      "skill": "wave-of-light",
+      "name": "Wave of Light cancel",
+      "also": [],
+      "hits": 4,
+      "damage": 1245,
+      "total": 4980,
+      "duration": 0.1,
+      "dps": 49800
+    },
+    {
+      "skill": "flow-divina-vult",
+      "name": "Divina Vult",
+      "also": [],
+      "hits": 2,
+      "damage": 7392,
+      "total": 14784,
+      "duration": 0.4,
+      "dps": 36960
+    },
+    {
+      "skill": "gladius-gloriae",
+      "name": "Gladius (magnus) cancel",
+      "also": [],
+      "hits": 3,
+      "damage": 7201,
+      "total": 21603,
+      "duration": 0.6,
+      "dps": 36005
+    },
+    {
+      "skill": "blitz-stab",
+      "name": "Blitz Stab",
+      "also": [],
+      "hits": 4,
+      "damage": 6296,
+      "total": 25184,
+      "duration": 0.8,
+      "dps": 31480
+    },
+    {
+      "skill": "castigatio",
+      "name": "Casti cancel",
+      "also": [],
+      "hits": 3,
+      "damage": 6260,
+      "total": 18780,
+      "duration": 0.6,
+      "dps": 31300
+    },
+    {
+      "skill": "divine-judgment-of-light",
+      "name": "D. Judgement of Light I cancel",
+      "also": [],
+      "hits": 2,
+      "damage": 5424,
+      "total": 10848,
+      "duration": 0.4,
+      "dps": 27120
+    },
+    {
+      "skill": "sacrum-ferit",
+      "name": "Sacrum III",
+      "also": [],
+      "hits": 2,
+      "damage": 5267,
+      "total": 10534,
+      "duration": 0.4,
+      "dps": 26335
+    },
+    {
+      "skill": "purificatione",
+      "name": "Purificatione",
+      "also": [],
+      "hits": 3,
+      "damage": 4295,
+      "total": 12885,
+      "duration": 0.5,
+      "dps": 25770
+    },
+    {
+      "skill": "terra-sancta",
+      "name": "Terra Sancta",
+      "also": [],
+      "hits": 2,
+      "damage": 12593,
+      "total": 25186,
+      "duration": 1,
+      "dps": 25186
+    },
+    {
+      "skill": "verdict-lancia-iustitiae",
+      "name": "Verdict Vult cancel",
+      "also": [
+        "flow-divina-vult"
+      ],
+      "hits": null,
+      "damage": null,
+      "total": 38714,
+      "duration": 1.6,
+      "dps": 24196.25
+    },
+    {
+      "skill": "sanctitas-de-enslar",
+      "name": "Sanctitas de Enslar Vult cancel",
+      "also": [
+        "flow-divina-vult"
+      ],
+      "hits": null,
+      "damage": null,
+      "total": 33504,
+      "duration": 1.4,
+      "dps": 23931.42857
+    },
+    {
+      "skill": "verdict-lancia-iustitiae",
+      "name": "Verdict I",
+      "also": [],
+      "hits": 6,
+      "damage": 5882,
+      "total": 35292,
+      "duration": 1.5,
+      "dps": 23528
+    },
+    {
+      "skill": "verdict-lancia-iustitiae",
+      "name": "Verdict full cast",
+      "also": [],
+      "hits": null,
+      "damage": null,
+      "total": 55354,
+      "duration": 2.5,
+      "dps": 22141.6
+    },
+    {
+      "skill": "flow-lucem-fluxum",
+      "name": "Lucem Fluxum",
+      "also": [],
+      "hits": 2,
+      "damage": 5267,
+      "total": 10534,
+      "duration": 0.5,
+      "dps": 21068
+    },
+    {
+      "skill": "verdict-lancia-iustitiae",
+      "name": "Verdict II",
+      "also": [],
+      "hits": 2,
+      "damage": 10031,
+      "total": 20062,
+      "duration": 1,
+      "dps": 20062
+    },
+    {
+      "skill": "promptness",
+      "name": "Promptess",
+      "also": [],
+      "hits": 2,
+      "damage": 2920,
+      "total": 5840,
+      "duration": 0.3,
+      "dps": 19466.66667
+    },
+    {
+      "skill": "sanctitas-de-enslar",
+      "name": "Sanctitas de Enslar BSR",
+      "also": [],
+      "hits": 4,
+      "damage": 12909,
+      "total": 51636,
+      "duration": 2.8,
+      "dps": 18441.42857
+    },
+    {
+      "skill": "sacrum-ferit",
+      "name": "Sacrum 3 hits",
+      "also": [],
+      "hits": null,
+      "damage": null,
+      "total": 21068,
+      "duration": 1.2,
+      "dps": 17556.66667
+    },
+    {
+      "skill": "celestial-smite",
+      "name": "Celestial Smite + abs. spear",
+      "also": [
+        "celestial-spear"
+      ],
+      "hits": null,
+      "damage": null,
+      "total": 8622,
+      "duration": 0.5,
+      "dps": 17244
+    },
+    {
+      "skill": "castigatio",
+      "name": "Casti",
+      "also": [],
+      "hits": 3,
+      "damage": 6260,
+      "total": 18780,
+      "duration": 1.1,
+      "dps": 17072.72727
+    },
+    {
+      "skill": "sanctitas-de-enslar",
+      "name": "Sanctitas de Enslar",
+      "also": [],
+      "hits": 2,
+      "damage": 7800,
+      "total": 18720,
+      "duration": 1.1,
+      "dps": 17018.18182
+    },
+    {
+      "skill": "severing-light",
+      "name": "Severing Light",
+      "also": [],
+      "hits": null,
+      "damage": null,
+      "total": 8169,
+      "duration": 0.5,
+      "dps": 16338
+    },
+    {
+      "skill": "divina-impulsa",
+      "name": "Divina Impulsa II",
+      "also": [],
+      "hits": 4,
+      "damage": 3868,
+      "total": 15472,
+      "duration": 1,
+      "dps": 15472
+    },
+    {
+      "skill": "divine-judgment-of-light",
+      "name": "Divine Judgement of Light full",
+      "also": [],
+      "hits": 4,
+      "damage": 5424,
+      "total": 21696,
+      "duration": 1.6,
+      "dps": 13560
+    },
+    {
+      "skill": "counter",
+      "name": "Counter + S.Throw cancel",
+      "also": [
+        "shield-throw"
+      ],
+      "hits": null,
+      "damage": null,
+      "total": 10644,
+      "duration": 0.8,
+      "dps": 13305
+    },
+    {
+      "skill": "sacrum-ferit",
+      "name": "Sacrum I / II",
+      "also": [],
+      "hits": 1,
+      "damage": 5267,
+      "total": 5267,
+      "duration": 0.4,
+      "dps": 13167.5
+    },
+    {
+      "skill": "celestial-smite",
+      "name": "Celestial Smite",
+      "also": [],
+      "hits": 2,
+      "damage": 3285,
+      "total": 6570,
+      "duration": 0.5,
+      "dps": 13140
+    },
+    {
+      "skill": "divina-impulsa",
+      "name": "Divina Impulsa full",
+      "also": [],
+      "hits": null,
+      "damage": null,
+      "total": 17406,
+      "duration": 1.5,
+      "dps": 11604
+    },
+    {
+      "skill": "hastiludium",
+      "name": "Hasti cancel",
+      "also": [],
+      "hits": 2,
+      "damage": 3037,
+      "total": 6074,
+      "duration": 0.8,
+      "dps": 7592.5
+    },
+    {
+      "skill": "hastiludium",
+      "name": "Hasti",
+      "also": [],
+      "hits": 2,
+      "damage": 3037,
+      "total": 6074,
+      "duration": 1,
+      "dps": 6074
+    },
+    {
+      "skill": "divina-impulsa",
+      "name": "Divina Impulsa I",
+      "also": [],
+      "hits": 1,
+      "damage": 1934,
+      "total": 1934,
+      "duration": 0.5,
+      "dps": 3868
+    }
+  ]
+}

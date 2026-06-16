@@ -1,0 +1,263 @@
+# Awakening (Combos, Add-ons)  (xl/worksheets/sheet4.xml)
+
+C2	Jump to PvP Combos
+H2	Jump to PvE Combos
+M2	Jump to Add-ons
+R2	-
+M3	PvP
+M4	PvE
+H6	Awakening Combos
+B8	Important notice: A lot of the combos will feel slow and clunky due to the changes to skill hits. This is a known issue and has been reported multiple times.
+B9	We also Q block cancel most of our skills again due to these skill hit changes that have caused delays on our skills.
+B12	PvP
+O12	Finishers
+B14	GRAB
+D14	ALL HITS
+I14	ALL HITS
+O14	Add one of these at the end of the combo.
+N15	1.
+S15	Gain distance from your opponent, finishing them off safely.
+B16	FLOATING
+C16	TRANSITION
+D16	CRIT BUFF
+E16	AP BUFF
+F16	RE'CC
+G16	DEBUFF
+H16	DAMAGE
+I16	DAMAGE
+J16	DAMAGE
+O16	2.
+S16	High chance of down smashes, and a possibility to reset the opponent.
+B17	E
+C17	SPACE
+D17	RMB
+E17	SHIFT+Q
+F17	QUICK SLOT
+G17	SHIFT+LMB
+H17	S+LMB
+I17	S+RMB
+J17	W+RMB
+B18	VIDEO ON COMBO
+O18	3.
+S18	Full SA Big AoE's
+B19	KNOCKDOWN (CORE ONLY)
+H19	ALL HITS
+B21	KNOCKDOWN
+C21	CRIT BUFF
+D21	TRANSITION
+E21	AP BUFF
+F21	RE'CC
+G21	DEBUFF
+H21	DAMAGE
+I21	DAMAGE
+J21	DAMAGE
+B22	F
+C22	A/D+RMB
+D22	SPACE
+E22	SHIFT+Q
+F22	QUICK SLOT
+G22	SHIFT+LMB
+H22	S+LMB
+I22	S+RMB
+J22	W+RMB
+B23	VIDEO ON COMBO
+B24	Find more combos 1v1 on the Valkyrie discord channel
+B26	Large Scale combos
+S27	>> BDO Valkyrie Discord <<
+B28	100% BSR
+I28	OPTIONAL
+N28	HEAL ROTATION
+B30	AP BUFF
+C30	CRIT BUFF
+D30	ENGAGE
+E30	VACUUM
+F30	100% BSR
+G30	DAMAGE
+H30	DAMAGE
+I30	DAMAGE
+K30	NOTE: Full casting Shift+RMB
+N30	SA HEAL
+O30	PURI HEAL
+P30	RABAM HEAL
+B31	SHIFT+Q
+C31	RMB
+D31	W+F
+E31	S+F (Q CANCEL)
+F31	F
+G31	F
+H31	SHIFT+ RMB
+I31	LMB
+K31	is more dmg but it lock you in SA
+N31	SHIFT+E
+O31	SHIFT+ LMB
+P31	SHIFT+X
+D33	CORE
+I33	OPTIONAL
+N33	CORE
+S33	OPTIONAL
+B36	AP BUFF
+C36	CRIT BUFF
+D36	ENGAGE
+E36	DAMAGE
+F36	DAMAGE
+G36	DAMAGE
+H36	DAMAGE
+I36	DAMAGE
+K36	AP BUFF
+L36	CRIT BUFF
+M36	ENGAGE
+N36	DAMAGE
+O36	DAMAGE
+P36	DAMAGE
+Q36	DAMAGE
+R36	DAMAGE
+S36	DAMAGE
+B37	SHIFT+Q
+C37	RMB
+D37	W+F
+E37	S+RMB
+F37	F
+G37	F
+H37	SHIFT+ RMB
+I37	LMB
+K37	SHIFT+Q
+L37	RMB
+M37	W+F
+N37	S+LMB
+O37	S+RMB
+P37	F
+Q37	F
+R37	SHIFT+ RMB
+S37	LMB
+B40	PvE
+B41	Awakening is at a great spot PvE wise, still 30% worse that top tier grinders, there are no loopable combos.
+B43	BEST DPS COMBO
+Q43	OPTIONAL
+S43	OPTIONAL
+B45	AP BUFF
+C45	EVA DEBUFF
+F45	DP DEBUFF
+H45	EVA DEBUFF
+I45	AP BUFF
+J45	CRIT BUFF
+M45	DP DEBUFF
+R45	EVA DEBUFF
+S45	CRIT BUFF
+U45	DP DEBUFF
+B46	F
+C46	LMB/F
+D46	S+LMB
+E46	SPACE
+F46	SHIFT+LMB
+G46	SHIFT+ RMB
+H46	W+RMB
+I46	SHIFT+Q
+J46	RMB
+K46	RMB (FLOW)
+L46	SPACE
+M46	SHIFT+LMB
+N46	S+LMB
+O46	S+RMB
+P46	SHIFT+ DIRECTION
+Q46	LMB+ RMB
+R46	F
+S46	S+E
+T46	SPACE
+U46	SHIFT+ LMB
+B48	GYFIN COMBO
+B50	AP BUFF
+C50	EVA DEBUFF
+E50	DP DEBUFF
+H50	EVA DEBUFF
+J50	AP BUFF
+N50	CRIT BUFF
+B51	F
+C51	LMB/F
+D51	SPACE
+E51	SHIFT+LMB
+F51	S+LMB
+G51	SHIFT+ RMB
+H51	W+RMB
+I51	W+F
+J51	SHIFT+Q
+K51	SPACE
+L51	SHIFT+LMB
+M51	S+LMB
+N51	RMB
+B53	DARKSEEKERS COMBO
+B54	LOOP 1
+R55	CONTINUE BELOW
+D56	DP DEBUFF
+E56	AP BUFF
+F56	EVA DEBUFF
+J56	EVA DEBUFF
+K56	AP BUFF
+L56	CRIT BUFF
+O56	DP DEBUFF
+B57	W+F
+C57	SPACE
+D57	SHIFT+LMB
+E57	F
+F57	LMB/F
+G57	S+LMB
+H57	SPACE
+I57	SHIFT+RMB
+J57	W+RMB
+K57	SHIFT+Q
+L57	RMB
+M57	RMB (FLOW)
+N57	SPACE
+O57	SHIFT+LMB
+P57	S+LMB
+B58	LOOP 2
+B60	DP DEBUFF
+D60	AP BUFF
+E60	EVA DEBUFF
+M60	DP DEBUFF
+N60	EVA DEBUFF
+O60	AP BUFF
+P60	CRIT BUFF
+S60	EVA DEBUFF
+B61	S+F
+C61	Q
+D61	F
+E61	LMB/F
+F61	S+LMB
+G61	SHIFT+W/S
+H61	SPACE
+I61	SHIFT+RMB
+J61	SHIFT+W/S
+K61	SHIFT+W/S
+L61	SPACE
+M61	SHIFT+LMB
+N61	W+RMB
+O61	SHIFT+Q
+P61	RMB
+Q61	RMB (FLOW)
+R61	SHIFT+DIRECTION
+S61	F
+T61	SPACE
+U61	S+LMB
+V61	S+RMB
+B63	Add-ons
+B65	!! We believe that add-ons are based on preference and around the player's playstyle !!\nHere's a few examples on add-ons, change it as you please.
+B67	PvP
+B68	Sarron's add-ons
+B69	Uncapped + Capped
+L69	Add-ons breakdown:
+L70	Combo -20dp + -20eva
+L74	Engage uptime
+L78	Reposition uptime
+L82	SA trade/largescale dmg
+L86	Crit + Down Modifiers
+L90	Combo Attk Speed + Crit Rate
+B96	PvE
+B97	@RoNNiE add-ons
+B98	(Note: Ronnie is one of, or THE best PvE Valk on EU)
+M98	Add-ons breakdown:
+M99	Intuitive DP debuff stacking, 2nd add-on is spot dependant.
+M102	Highest priority dps skill, hence highest priority DPS add-ons.
+M105	-
+M108	Most important opener skill addons.
+M111	-
+M114	Spammable handy add-ons.

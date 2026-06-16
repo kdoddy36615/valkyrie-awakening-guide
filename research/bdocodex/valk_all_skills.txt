@@ -1,0 +1,312 @@
+88	Flute Buff	/items/new_icon/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0083.webp
+89	Rage Absorption (Innate)	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp
+90	Black Spirit Illusion	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0089.webp
+91	Rage Transfer	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp
+92	Emergency Escape	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp
+207	Cannon Attack	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0196.webp
+591	Fitness Training I	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+592	Fitness Training II	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+593	Fitness Training III	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+594	Fitness Training IV	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+595	Fitness Training V	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+596	Fitness Training VI	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+597	Fitness Training VII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+598	Fitness Training VIII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+599	Fitness Training IX	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+600	Fitness Training X	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+601	Fitness Training XI	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+602	Fitness Training XII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+603	Fitness Training XIII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+604	Fitness Training XIV	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+605	Fitness Training XV	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+606	Fitness Training XVI	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+607	Fitness Training XVII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+608	Fitness Training XVIII	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+609	Fitness Training XIX	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+610	Fitness Training XX	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0591.webp
+611	Muscle Training	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0611_2.webp
+631	Make Bonfire	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0631.webp
+646	Guild Squad Special Attack	/items/new_icon/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0307.webp
+659	Revive Target	/items/new_icon/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0307.webp
+717	Noble Vow	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0717.webp
+718	Guard	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0718.webp
+719	Shield Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0719.webp
+720	Just Counter I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0720.webp
+721	Just Counter II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0720.webp
+722	Just Counter III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0720.webp
+723	Flurry of Kicks I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0723.webp
+724	Flurry of Kicks II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0723.webp
+725	Flurry of Kicks III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0723.webp
+726	Ultimate: Flurry of Kicks	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0726.webp
+727	Flying Kick I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0727.webp
+728	Flying Kick II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0727.webp
+729	Flow: Double Flying Kick	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0729.webp
+730	Shield Push	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0730.webp
+731	Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0731.webp
+732	Sword of Judgment I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0732.webp
+733	Sword of Judgment II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0732.webp
+734	Sword of Judgment III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0732.webp
+735	Sword of Judgment IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0732.webp
+736	Shield Chase I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp
+737	Shield Chase II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp
+738	Shield Chase III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp
+739	Divine Power I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0739.webp
+740	Divine Power II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0739.webp
+741	Divine Power III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0739.webp
+742	Divine Power IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0739.webp
+743	Ultimate: Divine Power	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0743.webp
+744	Heaven's Echo I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0744.webp
+745	Heaven's Echo II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0744.webp
+746	Heaven's Echo III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0744.webp
+747	Charging Slash I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0747.webp
+748	Charging Slash II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0747.webp
+749	Charging Slash III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0747.webp
+750	Righteous Charge I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0750.webp
+751	Righteous Charge II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0750.webp
+752	Righteous Charge III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0750.webp
+753	Ultimate: Righteous Charge	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0753.webp
+754	Skyward Strike I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0754.webp
+755	Skyward Strike II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0754.webp
+756	Skyward Strike III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0754.webp
+757	Glaring Slash I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp
+758	Glaring Slash II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp
+759	Glaring Slash III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp
+760	Glaring Slash IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp
+761	Glaring Slash V	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp
+762	Breath of Elion I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0762.webp
+763	Breath of Elion II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0762.webp
+764	Breath of Elion III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0762.webp
+765	Celestial Spear I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0765.webp
+766	Celestial Spear II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0765.webp
+767	Celestial Spear III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0765.webp
+768	Celestial Spear IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0765.webp
+769	Elion's Blessing	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0769.webp
+770	Ultimate: Sword of Judgment	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0770.webp
+771	Ultimate: Sharp Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0771.webp
+772	Judgment of Light I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+773	Judgment of Light II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+774	Judgment of Light III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+775	Ultimate: Celestial Spear	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0775.webp
+776	Punishment I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0776.webp
+777	Punishment II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0776.webp
+778	Punishment III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0776.webp
+779	Punishment IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0776.webp
+780	Ultimate: Punishment	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0780.webp
+781	Vow of Trust I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0781.webp
+782	Vow of Trust II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0781.webp
+783	Vow of Trust III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0781.webp
+784	Flow: Spinning Shield	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0784.webp
+785	Flow: Sharp Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0785.webp
+1466	Valkyrie Slash I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1467	Valkyrie Slash II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1468	Valkyrie Slash III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1469	Valkyrie Slash IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1470	Valkyrie Slash V	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1471	Valkyrie Slash VI	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1472	Valkyrie Slash VII	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1473	Valkyrie Slash VIII	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1474	Valkyrie Slash IX	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1475	Valkyrie Slash X	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp
+1476	Forward Slash I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1476.webp
+1477	Forward Slash II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1476.webp
+1478	Forward Slash III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1476.webp
+1479	Severing Light I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1479.webp
+1480	Severing Light II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1479.webp
+1481	Severing Light III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1479.webp
+1482	Severing Light IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1479.webp
+1483	Ultimate: Severing Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1483.webp
+1484	Evasion	/items/new_icon/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp
+1485	Shield Throw I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1485.webp
+1486	Shield Throw II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1485.webp
+1487	Sideways Cut I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1487.webp
+1488	Sideways Cut II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1487.webp
+1489	Sideways Cut III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1487.webp
+1490	Sharp Light I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1490.webp
+1491	Sharp Light II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1490.webp
+1492	Sharp Light III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1490.webp
+1493	Sharp Light IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1490.webp
+1494	Counter I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1494.webp
+1495	Counter II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1494.webp
+1496	Counter III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1494.webp
+1497	Shield Strike I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1497.webp
+1498	Shield Strike II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1497.webp
+1499	Shield Strike III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1497.webp
+1702	Infinite Mastery I	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1703	Infinite Mastery II	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1704	Infinite Mastery III	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1705	Infinite Mastery IV	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1706	Infinite Mastery V	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1707	Infinite Mastery VI	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp
+1943	Awakening: Holy Lancia	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1943.webp
+1944	Noble Spirit	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1944.webp
+1945	Lancia Training I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945_2.webp
+1950	Lancia Training I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp
+1951	Lancia Training II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp
+1952	Lancia Training III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp
+1953	Lancia Training IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp
+1954	Lancia Training V	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp
+1955	Purificatione I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp
+1956	Purificatione II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp
+1957	Purificatione III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp
+1958	Castigatio I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp
+1959	Castigatio II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp
+1960	Castigatio III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp
+1961	Castigatio IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp
+1962	Vindicta	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1962.webp
+1963	Sacrum Ferit I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp
+1964	Sacrum Ferit II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp
+1965	Sacrum Ferit III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp
+1966	Sacrum Ferit IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp
+1967	Wave of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1967.webp
+1968	Verdict: Lancia Iustitiae I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+1969	Verdict: Lancia Iustitiae II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+1970	Verdict: Lancia Iustitiae III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+1971	Verdict: Lancia Iustitiae IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+1972	Hastiludium I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp
+1973	Hastiludium II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp
+1974	Hastiludium III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp
+1975	Sanctitas de Enslar I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+1976	Sanctitas de Enslar II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+1977	Sanctitas de Enslar III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+1978	Blitz Stab	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1978.webp
+1979	Ultimate: Blitz Stab	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1979.webp
+1980	Death Line Chase	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1980.webp
+1981	Flow: Lucem Fluxum	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1981.webp
+1982	Flow: Divina Vult	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1982_re.webp
+1983	Terra Sancta	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1983.webp
+1984	Gladius Gloriae	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1984.webp
+1985	Promptness	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1985.webp
+2072	Skilled Hunter I	/items/new_icon/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp
+2073	Skilled Hunter II	/items/new_icon/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp
+2074	Skilled Hunter III	/items/new_icon/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp
+2075	Skilled Hunter IV	/items/new_icon/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp
+2076	Skilled Hunter V	/items/new_icon/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp
+2747	Celestial Cry	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2747.webp
+2748	Celestial Smite	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2748.webp
+2815	Divine Slam	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2815.webp
+2816	Divine Descent	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2816.webp
+3196	Absolute: Valkyrie Slash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3196.webp
+3197	Absolute: Forward Slash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3197.webp
+3198	Absolute: Charging Slash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3198.webp
+3199	Absolute: Sideways Cut	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3199.webp
+3200	Absolute: Severing Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3200.webp
+3201	Absolute: Breath of Elion	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3201.webp
+3202	Absolute: Sword of Judgment	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3202.webp
+3203	Absolute: Shield Strike	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3203.webp
+3204	Absolute: Shield Throw	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3204.webp
+3205	Absolute: Just Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3205.webp
+3206	Absolute: Skyward Strike	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3206.webp
+3207	Absolute: Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3207.webp
+3208	Absolute: Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3208.webp
+3209	Absolute: Sharp Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3209.webp
+3210	Absolute: Flurry of Kicks	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3210.webp
+3211	Absolute: Flying Kick	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3211.webp
+3212	Absolute: Double Flying Kick	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3212.webp
+3213	Absolute: Punishment	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3213.webp
+3214	Absolute: Divine Power	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3214.webp
+3215	Absolute: Heaven's Echo	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3215.webp
+3217	Absolute: Glaring Slash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3217.webp
+3218	Absolute: Celestial Spear	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3218.webp
+3219	Absolute: Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3219.webp
+3220	Absolute: Ultimate Righteous Charge	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3220.webp
+3459	Rage Absorption	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp
+3575	Black Spirit: Judgment of Light I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+3576	Black Spirit: Judgment of Light II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+3577	Black Spirit: Judgment of Light III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp
+3578	Black Spirit: Absolute: Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3207.webp
+3579	Black Spirit: Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0731.webp
+3580	Black Spirit: Absolute: Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3219.webp
+3581	Black Spirit: Sanctitas de Enslar I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+3582	Black Spirit: Sanctitas de Enslar II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+3583	Black Spirit: Sanctitas de Enslar III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+3584	Black Spirit: Blitz Stab	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1978.webp
+3589	Black Spirit: Verdict: Lancia Iustitiae	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+3590	Black Spirit: Terra Sancta	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1983.webp
+3591	Black Spirit: Promptness	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1985.webp
+4052	Shining Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4052.webp
+4053	Divine Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4053.webp
+4135	Succession: Valkyrie's Vow	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4135.webp
+4136	Prime: Holy Prayer I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp
+4137	Prime: Holy Prayer II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp
+4138	Prime: Holy Prayer III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp
+4139	Prime: Holy Prayer IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp
+4140	Prime: Holy Prayer V	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp
+4141	Prime: Noble Will	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4141.webp
+4142	Prime: Glory of Enslar	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4142.webp
+4143	Prime: Just Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4143.webp
+4144	Prime: Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4144.webp
+4145	Prime: Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4145.webp
+4146	Prime: Glaring Slash I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4146.webp
+4147	Prime: Sword of Judgment I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4147.webp
+4148	Prime: Judgment of Light I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4214.webp
+4149	Prime: Shield Throw I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4149.webp
+4150	Prime: Celestial Spear I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4150.webp
+4151	Prime: Divine Power I	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4151.webp
+4152	Prime: Purificatione	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4152.webp
+4153	Prime: Sanctitas de Enslar	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4153.webp
+4211	Shield Chase IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp
+4212	Prime: Glaring Slash II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4146.webp
+4213	Prime: Glaring Slash III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4146.webp
+4214	Prime: Judgment of Light II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4215.webp
+4215	Prime: Judgment of Light III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4148.webp
+4216	Prime: Celestial Spear II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4150.webp
+4217	Prime: Celestial Spear III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4150.webp
+4218	Prime: Sword of Judgment II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4147.webp
+4219	Prime: Sword of Judgment III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4147.webp
+4220	Prime: Sword of Judgment IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4147.webp
+4221	Prime: Shield Throw II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4149.webp
+4222	Prime: Shield Throw III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4149.webp
+4223	Prime: Glaring Slash IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4146.webp
+4224	Prime: Divine Power II	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4151.webp
+4225	Prime: Divine Power III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4151.webp
+4226	Prime: Divine Power IV	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4151.webp
+4237	Proof of Vow	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4135.webp
+4238	Black Spirit: Prime: Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4148.webp
+4239	Black Spirit: Prime: Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4148.webp
+4240	Black Spirit: Prime: Judgment of Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4148.webp
+4241	Black Spirit: Prime: Shining Dash	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4144.webp
+4834	Not in Use	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4834.webp
+4835	Succession: Flow: Sharp Counter	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0785.webp
+4836	Succession: Flow: Spinning Shield	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0784.webp
+4856	Unyielding Might	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp
+4857	Succession: Ultimate Righteous Charge	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3220.webp
+4858	(Not in Use) Succession: Shield Chase III	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp
+5325	Succession: Ultimate: Severing Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1483.webp
+6091	Core: Castigatio	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp
+6092	Core: Sacrum Ferit	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp
+6093	Core: Verdict: Lancia Iustitiae	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp
+6094	Core: Purificatione	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp
+6095	Core: Hastiludium	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp
+6096	Core: Sanctitas de Enslar	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp
+6138	Elvia: Torn Wing	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_6138.webp
+6459	Divina Inpulsa	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_6459.webp
+6475	Succession: Absolute: Heaven's Echo	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3215.webp
+7745	Prime: Severing Light	/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4834.webp
+10174	Weight Training I	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10175	Weight Training II	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10176	Weight Training III	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10177	Weight Training IV	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10178	Weight Training V	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10179	Weight Training VI	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10180	Weight Training VII	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10181	Weight Training VIII	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10182	Weight Training IX	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10183	Weight Training X	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10174.webp
+10189	Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10190	PRI (I) Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10191	DUO (II) Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10192	TRI (III) Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10193	TET (IV) Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10194	PEN (V) Blessing of Taebaek	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_10189.webp
+10206	Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10207	PRI: Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10208	DUO: Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10209	TRI: Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10210	TET: Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10211	PEN: Blessing of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_11688.webp
+10212	Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp
+10213	PRI: Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp
+10214	DUO: Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp
+10215	TRI: Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp
+10216	TET: Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp
+10217	PEN: Fury of Asadal	/items/new_icon/04_pc_skill/01_pc_skill/00_common/common_skill_12285.webp

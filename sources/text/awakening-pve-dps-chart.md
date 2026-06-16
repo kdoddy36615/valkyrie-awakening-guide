@@ -1,0 +1,187 @@
+# Awakening PvE DPS chart  (xl/worksheets/sheet6.xml)
+
+A1	60%
+B1	hit number
+C1	Damage
+D1	Total DMG
+E1	duration [s]
+F1	DPS
+A2	Purificatione cancel
+B2	3.0
+C2	4295.0
+D2	12885
+E2	0.2
+F2	64425
+A3	Wave of Light cancel
+B3	4.0
+C3	1245.0
+D3	4980
+E3	0.1
+F3	49800
+H3	Made by @RonnieBDO
+A4	Divina Vult
+B4	2.0
+C4	7392.0
+D4	14784
+E4	0.4
+F4	36960
+A5	Gladius (magnus) cancel
+B5	3.0
+C5	7201.0
+D5	21603
+E5	0.6
+F5	36005
+A6	Blitz Stab
+B6	4.0
+C6	6296.0
+D6	25184
+E6	0.8
+F6	31480
+H6	Values are not frame exact
+A7	Casti cancel
+B7	3.0
+C7	6260.0
+D7	18780
+E7	0.6
+F7	31300
+H7	But they are more or less accurate
+A8	D. Judgement of Light I cancel
+B8	2.0
+C8	5424.0
+D8	10848
+E8	0.4
+F8	27120
+A9	Sacrum III
+B9	2.0
+C9	5267.0
+D9	10534
+E9	0.4
+F9	26335
+A10	Purificatione
+B10	3.0
+C10	4295.0
+D10	12885
+E10	0.5
+F10	25770
+A11	Terra Sancta
+B11	2.0
+C11	12593.0
+D11	25186
+E11	1.0
+F11	25186
+A12	Verdict Vult cancel
+D12	38714.0
+E12	1.6
+F12	24196.25
+A13	Sanctitas de Enslar Vult cancel
+D13	33504.0
+E13	1.4
+F13	23931.42857
+A14	Verdict I
+B14	6.0
+C14	5882.0
+D14	35292
+E14	1.5
+F14	23528
+A15	Verdict full cast
+D15	55354.0
+E15	2.5
+F15	22141.6
+A16	Lucem Fluxum
+B16	2.0
+C16	5267.0
+D16	10534
+E16	0.5
+F16	21068
+A17	Verdict II
+B17	2.0
+C17	10031.0
+D17	20062
+E17	1.0
+F17	20062
+A18	Promptess
+B18	2.0
+C18	2920.0
+D18	5840
+E18	0.3
+F18	19466.66667
+A19	Sanctitas de Enslar BSR
+B19	4.0
+C19	12909
+D19	51636
+E19	2.8
+F19	18441.42857
+A20	Sacrum 3 hits
+D20	21068.0
+E20	1.2
+F20	17556.66667
+A21	Celestial Smite + abs. spear
+D21	8622.0
+E21	0.5
+F21	17244
+A22	Casti
+B22	3.0
+C22	6260.0
+D22	18780
+E22	1.1
+F22	17072.72727
+A23	Sanctitas de Enslar
+B23	2.0
+C23	7800.0
+D23	18720
+E23	1.1
+F23	17018.18182
+A24	Severing Light
+D24	8169
+E24	0.5
+F24	16338
+A25	Divina Impulsa II
+B25	4.0
+C25	3868.0
+D25	15472
+E25	1.0
+F25	15472
+A26	Divine Judgement of Light full
+B26	4.0
+C26	5424.0
+D26	21696
+E26	1.6
+F26	13560
+A27	Counter + S.Throw cancel
+D27	10644
+E27	0.8
+F27	13305
+A28	Sacrum I / II
+B28	1.0
+C28	5267.0
+D28	5267
+E28	0.4
+F28	13167.5
+A29	Celestial Smite
+B29	2.0
+C29	3285.0
+D29	6570
+E29	0.5
+F29	13140
+A30	Divina Impulsa full
+D30	17406
+E30	1.5
+F30	11604
+A31	Hasti cancel
+B31	2.0
+C31	3037.0
+D31	6074
+E31	0.8
+F31	7592.5
+A32	Hasti
+B32	2.0
+C32	3037.0
+D32	6074
+E32	1.0
+F32	6074
+A33	Divina Impulsa I
+B33	1.0
+C33	1934.0
+D33	1934
+E33	0.5
+F33	3868

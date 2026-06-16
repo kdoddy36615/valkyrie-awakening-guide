@@ -1,0 +1,1939 @@
+{
+  "meta": {
+    "pull_date": "2026-06-15",
+    "tooltip_source": "BDO Codex",
+    "core_skill": "castigatio",
+    "protection_enum": [
+      "iframe",
+      "super_armor",
+      "frontal_guard",
+      "none"
+    ],
+    "count": 46,
+    "note": "Skill identity + protection from BDO Codex (ADR 0002). Sheet has neither. Pre-awakening skills included only when they appear in awakening combos."
+  },
+  "skills": [
+    {
+      "id": "sacrum-ferit",
+      "name": "Sacrum Ferit IV",
+      "kind": "awakening",
+      "shortcodes": [
+        ":SacrumFerit:"
+      ],
+      "inputs": [
+        "RMB",
+        "A/D + RMB"
+      ],
+      "icon": "sacrum-ferit",
+      "importance": 10,
+      "usage_tags": [
+        "Crit buff",
+        "Frontal DMG"
+      ],
+      "recommended_usage": "5s 80% crit buff with 5s cd; utilize its cooldown to the maximum. The crit prebuff opener for nearly every combo. Add-on label: \"Sacrum Felt I\".",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard during the skill (Nullified during cooldown)"
+        ],
+        "notes": "FG during skill, nullified during cooldown. Sheet agrees (FG).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1966/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Counterattack with a shield and deeply stab the enemy using lancia.",
+      "cooldown": "5s",
+      "mp_cost": "50",
+      "required_level": 60,
+      "effects": [
+        "Attack 1 damage 5110% x1",
+        "Attack 2 damage 5110% x1",
+        "Last attack damage 5110% x2",
+        "Flow: Lucem Fluxum's damage 6998%",
+        "Critical Hit Rate +100% (PvE only)",
+        "Maximum 10 targets",
+        "Critical Hit Rate +80% for 5 sec when using the skill (Nullified during cooldown)",
+        "Forward Guard during the skill (Nullified during cooldown)",
+        "Stiffness on first hit (PvE only) (Nullified during cooldown)",
+        "Floating on last attack hits (PvE only) (Nullified during cooldown)",
+        "Counter Attack",
+        "Down Attack",
+        "Damage reduced during cooldown",
+        "36.7% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Stiffness on first hit (PvE only) (Nullified during cooldown)",
+        "Floating on last attack hits (PvE only) (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 1966,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "flow-lucem-fluxum",
+      "name": "Flow: Lucem Fluxum",
+      "kind": "awakening",
+      "shortcodes": [
+        ":FlowLucemFluxum:"
+      ],
+      "inputs": [
+        "Hold RMB after Sacrum Ferit",
+        "Quick Slot"
+      ],
+      "icon": "flow-lucem-fluxum",
+      "importance": 2,
+      "usage_tags": [
+        "Filler",
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Does close to no DMG. Can only be used after 3rd Sacrum Ferit hit or off hotbar. Recommended to lock if you're new to the class.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard during the skill"
+        ],
+        "notes": "FG during skill. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1981/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Sacrum Ferit I]\nLeap and detonate your Sacred Power after Sacrum Ferit.",
+      "cooldown": "8s",
+      "mp_cost": null,
+      "required_level": 57,
+      "effects": [
+        "All damage applies Sacrum Ferit's level damage x2",
+        "Maximum 10 targets",
+        "Recover 75 SP per hit",
+        "Forward Guard during the skill",
+        "Knockdown on hits",
+        "Down Attack"
+      ],
+      "cc_lines": [
+        "Knockdown on hits"
+      ],
+      "bdocodex_id": 1981,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "purificatione",
+      "name": "Purificatione III",
+      "kind": "awakening",
+      "shortcodes": [
+        ":Purificatione:"
+      ],
+      "inputs": [
+        "SHIFT + LMB"
+      ],
+      "icon": "purificatione",
+      "importance": 9,
+      "usage_tags": [
+        "Debuff",
+        "Frontal DMG",
+        "Heal",
+        "Aggro"
+      ],
+      "recommended_usage": "10s All-DP debuff on 6s cd. Cast only with a Promptness cancel.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard (Nullified during cooldown)"
+        ],
+        "notes": "FG, nullified during cooldown. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1957/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Release your sacred power to damage foes and cleanse yourself.",
+      "cooldown": "6s",
+      "mp_cost": "50",
+      "required_level": 60,
+      "effects": [
+        "Attack damage 4167% x1",
+        "Energy explosion attack damage 4167% x2",
+        "Maximum 10 targets",
+        "Recover 700 HP per hit (Nullified during cooldown)",
+        "All Damage Reduction -20 for 10 sec on hits (Nullified during cooldown)",
+        "Forward Guard (Nullified during cooldown)",
+        "Spin the target on hits (PvE only)",
+        "Stun on hits (PvE only) (Nullified during cooldown)",
+        "Air Attack",
+        "Damage reduced during cooldown",
+        "39.59% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Spin the target on hits (PvE only)",
+        "Stun on hits (PvE only) (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 1957,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "castigatio",
+      "name": "Castigatio IV",
+      "kind": "awakening",
+      "shortcodes": [
+        ":Castigatio:"
+      ],
+      "inputs": [
+        "S + LMB"
+      ],
+      "icon": "castigatio",
+      "importance": 9,
+      "usage_tags": [
+        "Frontal DMG",
+        "Core"
+      ],
+      "recommended_usage": "Main DPS tool, very low cooldown. The core skill of the kit.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1961/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Strike your lancia into the ground repeatedly to purge enemies.",
+      "cooldown": "4s",
+      "mp_cost": "45",
+      "required_level": 59,
+      "effects": [
+        "Attack damage 6073% x1, max 3 hits",
+        "Critical Hit Rate +50% (PvE only)",
+        "Maximum 10 targets",
+        "Bound on first hit",
+        "Down Attack",
+        "36.85% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Bound on first hit"
+      ],
+      "bdocodex_id": 1961,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "hastiludium",
+      "name": "Hastiludium III",
+      "kind": "awakening",
+      "shortcodes": [
+        ":Hastiludium:",
+        ":Hastludium:",
+        "Hastludium"
+      ],
+      "inputs": [
+        "W + F"
+      ],
+      "icon": "hastiludium",
+      "importance": 4,
+      "usage_tags": [
+        "Movement",
+        "Filler",
+        "Frontal DMG",
+        "Core"
+      ],
+      "recommended_usage": "Use to travel larger distances, or cast only after Blitz Stab. Add-on label: \"Hastludium I\".",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor"
+        ],
+        "notes": "SA. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1974/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Valkyrie brazenly dashes forward with her lancia leading the way. The longer the dash, the faster her pace until no enemy formation can stand in her way.",
+      "cooldown": "7s",
+      "mp_cost": null,
+      "required_level": 60,
+      "effects": [
+        "Stab attack 1 damage 2981% x2",
+        "Stab attack 2 damage 4173% x2",
+        "Stab attack 3 damage 7511% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "Super Armor",
+        "Knockdown on stab attack hits (PvE only)",
+        "65.81% damage in PvP only",
+        "Consumes 100 Stamina to continue the skill, then 150 Stamina to continue it once again.",
+        "The longer the dash, the greater the stab attack damage."
+      ],
+      "cc_lines": [
+        "Knockdown on stab attack hits (PvE only)"
+      ],
+      "bdocodex_id": 1974,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "divina-impulsa",
+      "name": "Divina Inpulsa",
+      "kind": "awakening",
+      "shortcodes": [
+        ":DivinaInpulsa:",
+        "Inpulsa",
+        "Divina Impulsa"
+      ],
+      "inputs": [
+        "SHIFT + Q"
+      ],
+      "icon": "divina-impulsa",
+      "importance": 6,
+      "usage_tags": [
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Fairly low cd. Cast only after stab skills (Blitz Stab, Hastiludium, Sacrum Ferit) or Promptness. Codex spells it \"Divina Inpulsa\"; roster id stays divina-impulsa.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard during the skill"
+        ],
+        "notes": "FG during skill. Sheet agrees (Divina Inpulsa).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/6459/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Dash for a short distance, stab with the lancia, explode sacred power as you take your lancia back, then stab all enemies in front once more.",
+      "cooldown": "5s",
+      "mp_cost": "60",
+      "required_level": 59,
+      "effects": [
+        "Attack 1 damage 1876% x1",
+        "Attack 2 damage 3752% x2",
+        "Last attack damage 3752% x2",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "Melee AP +32 for 10 sec when using the skill",
+        "Forward Guard during the skill",
+        "Knockdown on first hit (PvE only)",
+        "Down Attack",
+        "Down Smash on last attack hits",
+        "41.57% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on first hit (PvE only)"
+      ],
+      "bdocodex_id": 6459,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "verdict-lancia-iustitiae",
+      "name": "Verdict: Lancia Iustitiae IV",
+      "kind": "awakening",
+      "shortcodes": [
+        ":VerdictLanciaIustitiae:"
+      ],
+      "inputs": [
+        "SHIFT + RMB"
+      ],
+      "icon": "verdict-lancia-iustitiae",
+      "importance": 10,
+      "usage_tags": [
+        "AOE DMG"
+      ],
+      "recommended_usage": "Long animation heavy hitter with decent AOE. Cancel with Flow: Divina Vult (LMB) or Sanctitas de Enslar (F). Want DPS? Don't cancel. Want freedom of action? Cancel.",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor"
+        ],
+        "notes": "SA. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1971/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Slam the lancia down onto the surface to cleanse all enemies in the vicinity.",
+      "cooldown": "9s",
+      "mp_cost": "110",
+      "required_level": 60,
+      "effects": [
+        "Attack damage 5706% x6",
+        "Last attack damage 9731% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "All Damage Reduction +30 for 10 sec when using the skill",
+        "Movement Speed -15% for 5 sec on hits",
+        "Super Armor",
+        "Knockdown on first hit (PvE only)",
+        "Down Attack",
+        "Air Attack on last attack hits",
+        "Down Smash on last attack hits",
+        "17.6% attack 1 damage in PvP only",
+        "25.8% last attack damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on first hit (PvE only)"
+      ],
+      "bdocodex_id": 1971,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "sanctitas-de-enslar",
+      "name": "Sanctitas de Enslar III",
+      "kind": "awakening",
+      "shortcodes": [
+        ":SanctitasdeEnslar:",
+        ":PrimeSanctitasDeEnslar:",
+        "PrimeSanctitasDeEnslar"
+      ],
+      "inputs": [
+        "F"
+      ],
+      "icon": "sanctitas-de-enslar",
+      "importance": 10,
+      "usage_tags": [
+        "Pre-buff",
+        "Movement",
+        "Core"
+      ],
+      "recommended_usage": "10s Melee AP buff on 9s cooldown, medium-range jump. Prime alias resolves here.",
+      "protection": {
+        "pve": "iframe",
+        "pvp": "iframe",
+        "tooltip_lines": [
+          "Super Armor",
+          "Invincible on airborne moves"
+        ],
+        "notes": "SA + Invincible on airborne moves -> graded top = iframe (partial). Sheet: \"Iframe into SA\".",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1977/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Having absorbed Enslar's Sacred Power, Valkyrie instantly teleports in the desired direction and hurls the lancia to the ground to detonate in a holy explosion.",
+      "cooldown": "9s",
+      "mp_cost": "80",
+      "required_level": 60,
+      "effects": [
+        "Marked attack damage 3027% x1",
+        "Last attack damage 7567% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "Melee AP +32 for 10 sec when using the skill",
+        "Super Armor",
+        "Invincible on airborne moves",
+        "Stiffness on marked hits (PvE only)",
+        "Knockdown on last attack hits (PvE only)",
+        "Down Attack",
+        "23.2% damage in PvP only",
+        "Moves to attack target, but performs standing attack if none targeted.",
+        "Taunt surrounding foes upon landing."
+      ],
+      "cc_lines": [
+        "Stiffness on marked hits (PvE only)",
+        "Knockdown on last attack hits (PvE only)"
+      ],
+      "bdocodex_id": 1977,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "flow-divina-vult",
+      "name": "Flow: Divina Vult",
+      "kind": "awakening",
+      "shortcodes": [
+        ":FlowDivinaVult:",
+        "Divine Vault",
+        "Divina Vult"
+      ],
+      "inputs": [
+        "LMB or F after Sanctitas de Enslar"
+      ],
+      "icon": "flow-divina-vult",
+      "importance": 10,
+      "usage_tags": [
+        "Cancel",
+        "AOE DMG",
+        "Eva debuff"
+      ],
+      "recommended_usage": "LMB always right after Sanctitas de Enslar; also LMB during Verdict to cancel it. Add-on label: \"Divine Vault\".",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor during the skill"
+        ],
+        "notes": "SA during skill. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1982/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Sanctitas de Enslar I]\nSwing the lancia wide to send enemies flying.",
+      "cooldown": null,
+      "mp_cost": "150",
+      "required_level": 58,
+      "effects": [
+        "Attack damage 7171% x2",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "All Evasion -12 for 10 sec on hits",
+        "Super Armor during the skill",
+        "Air Attack",
+        "Down Attack",
+        "30.15% damage in PvP only"
+      ],
+      "cc_lines": [],
+      "bdocodex_id": 1982,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "blitz-stab",
+      "name": "Blitz Stab",
+      "kind": "awakening",
+      "shortcodes": [
+        ":BlitzStab:"
+      ],
+      "inputs": [
+        "W + RMB"
+      ],
+      "icon": "blitz-stab",
+      "importance": 7,
+      "usage_tags": [
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Just hit something to avoid the 2nd cast.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1978/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Perform blazingly-fast stabs with lancia's sacred power.",
+      "cooldown": "7s",
+      "mp_cost": "70",
+      "required_level": 56,
+      "effects": [
+        "Attack damage 6108% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "50 bleeding damage every 3 sec for 9 sec on hits",
+        "All Evasion -12 for 10 sec on hits",
+        "Knockdown on hits",
+        "Down Attack",
+        "28.7% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on hits"
+      ],
+      "bdocodex_id": 1978,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "promptness",
+      "name": "Promptness",
+      "kind": "awakening",
+      "shortcodes": [
+        ":Promptness:",
+        ":Promptess:",
+        "Promptess"
+      ],
+      "inputs": [
+        "SPACE"
+      ],
+      "icon": "promptness",
+      "importance": 8,
+      "usage_tags": [
+        "Frontal DMG",
+        "Movement"
+      ],
+      "recommended_usage": "Low cooldown DPS tool. SPACE after any combat action. DPS chart typo: \"Promptess\".",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor during the skill (Nullified during cooldown)"
+        ],
+        "notes": "SA during skill, nullified during cooldown. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1985/",
+        "pulled": "2026-06-15"
+      },
+      "description": "The skilled Valkyrie is adept with switching between the sword and shield with the lancia, ready to attack at a moment's notice.",
+      "cooldown": "4s",
+      "mp_cost": null,
+      "required_level": 56,
+      "effects": [
+        "Attack damage 2833% x2",
+        "Critical Hit Rate +100% (Nullified during cooldown)",
+        "Maximum 10 targets",
+        "Recover 140 SP per hit",
+        "Stiffness on hits (PvE only)",
+        "Floating on LMB hits after forward Death Line Chase (PvE only)",
+        "Super Armor during the skill (Nullified during cooldown)",
+        "Air Attack",
+        "Down Attack",
+        "Damage reduced during cooldown",
+        "53.3% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Stiffness on hits (PvE only)",
+        "Floating on LMB hits after forward Death Line Chase (PvE only)"
+      ],
+      "bdocodex_id": 1985,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "terra-sancta",
+      "name": "Terra Sancta",
+      "kind": "awakening",
+      "shortcodes": [
+        ":TerraSancta:"
+      ],
+      "inputs": [
+        "S + RMB"
+      ],
+      "icon": "terra-sancta",
+      "importance": 5,
+      "usage_tags": [
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Long cooldown, moderate DMG. Cast only after Castigatio, or from Q block (worse).",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor during the skill"
+        ],
+        "notes": "SA during skill. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1983/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Raising her combat senses to the limits, the Valkyrie detonates and releases her Sacred Power towards all in front of her.",
+      "cooldown": "9s",
+      "mp_cost": "60",
+      "required_level": 58,
+      "effects": [
+        "Attack damage 12216% x2",
+        "Critical Hit Rate +100% (PvE only)",
+        "Maximum 10 targets",
+        "Super Armor during the skill",
+        "Bound on hits (PvE only)",
+        "Down Attack",
+        "35.53% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Bound on hits (PvE only)"
+      ],
+      "bdocodex_id": 1983,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "wave-of-light",
+      "name": "Wave of Light",
+      "kind": "awakening",
+      "shortcodes": [
+        ":WaveOfLight:"
+      ],
+      "inputs": [
+        "S + F"
+      ],
+      "icon": "wave-of-light",
+      "importance": 1,
+      "usage_tags": [
+        "Vacuum",
+        "Debuff"
+      ],
+      "recommended_usage": "Vacuum, worse DP debuff. Situational. Cancel with Q block or Death Line Chase backwards.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1967/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Pull in all enemies by unleashing a wave of light before you, then deal holy damage on a designated point.",
+      "cooldown": "20s",
+      "mp_cost": "70",
+      "required_level": 56,
+      "effects": [
+        "Summon attack damage 854% x4",
+        "Maximum 10 targets",
+        "All Damage Reduction -20 for 10 sec on hits",
+        "Pull in the target on hits",
+        "Movement and Attack/Casting Speeds -50% for 1 sec on pull attack hits",
+        "Bound on summon attack hits"
+      ],
+      "cc_lines": [
+        "Bound on summon attack hits"
+      ],
+      "bdocodex_id": 1967,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "heavens-echo",
+      "name": "Heaven's Echo III",
+      "kind": "awakening",
+      "shortcodes": [
+        ":HeavensEcho:"
+      ],
+      "inputs": [
+        "SHIFT + Q",
+        "SPACE during Q block with lancia"
+      ],
+      "icon": "heavens-echo",
+      "importance": 10,
+      "usage_tags": [
+        "Pre-buff"
+      ],
+      "recommended_usage": "1 min DP and accuracy buff. SPACE during a Q block with your Lancia.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "Buff cast, no protection.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/746/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Spread the resonant chimes of Heaven's Echo.\nDraw the gaze of your foes, and receive the blessing of the heavens upon both yourself and your allies.",
+      "cooldown": "40s",
+      "mp_cost": "30",
+      "required_level": 45,
+      "effects": [
+        "Maximum 10 targets",
+        "All Accuracy +20 for 60 sec when using the skill (Nullified during cooldown)",
+        "Taunt surrounding foes.",
+        "Increased effect area"
+      ],
+      "cc_lines": [],
+      "bdocodex_id": 746,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "death-line-chase",
+      "name": "Death Line Chase",
+      "kind": "awakening",
+      "shortcodes": [
+        ":DeathLineChase:"
+      ],
+      "inputs": [
+        "SHIFT + W",
+        "SHIFT + S"
+      ],
+      "icon": "death-line-chase",
+      "importance": null,
+      "usage_tags": [
+        "Movement"
+      ],
+      "recommended_usage": "Movement; backward twice drops you into pre-awakening. Ebuff DLC: bind WW and use Death Line Chase during your e-buff instead of the running animation.",
+      "protection": {
+        "pve": "iframe",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard (Nullified during cooldown)",
+          "Invincible during the skill (PvE only)"
+        ],
+        "notes": "Codex: FG (nullified on cd) + Invincible during skill (PvE only) -> pve=iframe, pvp=fg. Sheet loosely said FG+SA; Codex authoritative.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1980/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Auto-learn\nThe Valkyrie does not falter while courting death on the front lines chasing down her foe.",
+      "cooldown": "2s",
+      "mp_cost": null,
+      "required_level": 56,
+      "effects": [
+        "Character collision occurs while moving forward",
+        "No character collision while moving backward",
+        "Forward Guard (Nullified during cooldown)",
+        "All CC Resistance (except Grapple), including from Back Attacks",
+        "Invincible during the skill (PvE only)",
+        "On Guard after skill use.",
+        "Activates Shield Chase after continuing backward Death Line Chase."
+      ],
+      "cc_lines": [
+        "All CC Resistance (except Grapple), including from Back Attacks"
+      ],
+      "bdocodex_id": 1980,
+      "sheet_icon_matched": false
+    },
+    {
+      "id": "guard",
+      "name": "Guard",
+      "kind": "awakening",
+      "shortcodes": [
+        ":Guard:"
+      ],
+      "inputs": [
+        "Q"
+      ],
+      "icon": "guard",
+      "importance": null,
+      "usage_tags": [
+        "Frontal Guard",
+        "Stance"
+      ],
+      "recommended_usage": "The Forward Guard block stance — the enabler for every Protected combo.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard",
+          "Guard Gauge damage -30% on Forward Guard. (Applies 40% with your lancia.)"
+        ],
+        "notes": "FG block stance. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/718/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Auto-learn\nYou can block using your shield and move in all directions while staying on guard.",
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": 1,
+      "effects": [
+        "Recover 25% of Max SP on blocks",
+        "All Damage Reduction +30 for 20 sec while on Guard",
+        "Forward Guard",
+        "All CC Resistance (except Grapple), including from Back Attacks",
+        "Guard Gauge damage -30% on Forward Guard. (Applies 40% with your lancia.)",
+        "Consumes 250 Stamina per second while sprinting on Guard."
+      ],
+      "cc_lines": [
+        "All CC Resistance (except Grapple), including from Back Attacks"
+      ],
+      "bdocodex_id": 718,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "gladius-gloriae",
+      "name": "Gladius Gloriae",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":GladiusGloriae:"
+      ],
+      "inputs": [
+        "F"
+      ],
+      "icon": "gladius-gloriae",
+      "importance": 7,
+      "usage_tags": [
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Long cooldown, decent DMG. Use after Shield Chase.",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor before the attack hits"
+        ],
+        "notes": "Codex: SA before the attack hits (partial). Sheet listed none; Codex authoritative (ADR 0002). CONFLICT -> flag.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1984/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Prerequisite: Use the [Secret Book] Abyssal Legacy ([The Magnus] Abyssal Revelation quest reward)\nChannel your Sacred Power into your sword, then smite down all foes with divine blades.",
+      "cooldown": "10s",
+      "mp_cost": "40",
+      "required_level": 60,
+      "effects": [
+        "Attack damage 7201% x3",
+        "Critical Hit Rate +20%",
+        "Maximum 10 targets",
+        "Super Armor before the attack hits",
+        "All Evasion -12 for 10 sec on hits",
+        "Knockdown on hits",
+        "Down Attack",
+        "32.96% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on hits"
+      ],
+      "bdocodex_id": 1984,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "severing-light",
+      "name": "Absolute: Severing Light",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":SeveringLight:"
+      ],
+      "inputs": [
+        "LMB + RMB"
+      ],
+      "icon": "severing-light",
+      "importance": 3,
+      "usage_tags": [
+        "Filler",
+        "Frontal DMG"
+      ],
+      "recommended_usage": "Filler. Use after Gladius Gloriae.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3200/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Severing Light IV]\nSwing the sword to create a beam of light that slashes through darkness. Basic Valkyrie skill.",
+      "cooldown": "9s",
+      "mp_cost": "40",
+      "required_level": 57,
+      "effects": [
+        "Attack damage 2334% x2",
+        "Ultimate: Severing Light's damage 3501%",
+        "Maximum 10 targets",
+        "Knockback on hits",
+        "36.75% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockback on hits"
+      ],
+      "bdocodex_id": 3200,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "celestial-spear",
+      "name": "Absolute: Celestial Spear",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":CelestialSpear:"
+      ],
+      "inputs": [
+        "S + E"
+      ],
+      "icon": "celestial-spear",
+      "importance": 7,
+      "usage_tags": [
+        "Ranged DMG",
+        "Crit buff",
+        "Aggro"
+      ],
+      "recommended_usage": "Ranged DMG, crit buff and aggro tool. Gives the crit-rate buff for nearly a whole combo.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3218/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Celestial Spear IV]\nHarness the Sacred Power of Elion, channeling its divine essence to unleash a mighty explosion upon the ground.",
+      "cooldown": "7s",
+      "mp_cost": "20",
+      "required_level": 59,
+      "effects": [
+        "Attack damage 1026% x2",
+        "Maximum 10 targets",
+        "Increased Casting Speed",
+        "Critical Hit Rate +80% for 5 sec when using the skill",
+        "Movement Speed -15% for 5 sec on hits",
+        "Bound on hits",
+        "Down Attack",
+        "64.25% damage in PvP only",
+        "Can be used by canceling other skills.",
+        "Reduces casting delay If you cancel a skill."
+      ],
+      "cc_lines": [
+        "Bound on hits"
+      ],
+      "bdocodex_id": 3218,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "counter",
+      "name": "Absolute: Counter",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":Counter:"
+      ],
+      "inputs": [
+        "S + LMB"
+      ],
+      "icon": "counter",
+      "importance": 4,
+      "usage_tags": [
+        "Catch",
+        "Cancel"
+      ],
+      "recommended_usage": "Counter after Shield Chase into Shield Throw into Celestial Spear into Shield Throw — a cancel chain worth learning.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3208/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Counter III]\nDamage enemies with a strong upward strike, lifting them into the air.",
+      "cooldown": "6s",
+      "mp_cost": "9",
+      "required_level": 56,
+      "effects": [
+        "Attack damage 788% x2",
+        "Spin attack damage 681% x2",
+        "Maximum 10 targets",
+        "Floating on hits (Nullified during cooldown)",
+        "Bound on spin attack hits",
+        "Push the target on hits (PvE only)",
+        "Air Attack",
+        "Spin attacks unavailable during cooldown",
+        "83.41% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Spin attack damage 681% x2",
+        "Floating on hits (Nullified during cooldown)",
+        "Bound on spin attack hits",
+        "Spin attacks unavailable during cooldown"
+      ],
+      "bdocodex_id": 3208,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "just-counter",
+      "name": "Absolute: Just Counter",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":JustCounter:"
+      ],
+      "inputs": [
+        "W + LMB during Guard"
+      ],
+      "icon": "just-counter",
+      "importance": null,
+      "usage_tags": [
+        "Catch"
+      ],
+      "recommended_usage": "Catch from Guard only, hotbar otherwise.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard during the skill (Nullified during cooldown)"
+        ],
+        "notes": "FG during skill, nullified on cd. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3205/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Just Counter III]\nQuickly stab your foes from a stable stance.",
+      "cooldown": "4s",
+      "mp_cost": null,
+      "required_level": 59,
+      "effects": [
+        "Attack damage 1340% x1, max 3 hits",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "Recover 60 SP per hit",
+        "30 bleeding damage every 3 sec for 18 sec on hits",
+        "Forward Guard during the skill (Nullified during cooldown)",
+        "Stiffness on hits (PvE only) (Nullified during cooldown)",
+        "Counter Attack",
+        "Down Attack",
+        "71.49% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Stiffness on hits (PvE only) (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 3205,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shield-throw",
+      "name": "Absolute: Shield Throw",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":ShieldThrow:"
+      ],
+      "inputs": [
+        "S + Q"
+      ],
+      "icon": "shield-throw",
+      "importance": null,
+      "usage_tags": [
+        "Cancel-chain"
+      ],
+      "recommended_usage": "Part of the Counter / Shield Throw / Celestial Spear cancel chain.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3204/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Shield Throw II]\nToss your shield filled with SP to attack faraway enemies.",
+      "cooldown": "12s",
+      "mp_cost": "40",
+      "required_level": 58,
+      "effects": [
+        "Attack damage 1241% x1, max 4 hits",
+        "Flow: Spinning Shield's damage 2979%",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "Push the target on hits (PvE only)",
+        "Spin the target on hits (PvE only)",
+        "Stun on hits (Nullified during cooldown)",
+        "47.66% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Spin the target on hits (PvE only)",
+        "Stun on hits (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 3204,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shield-chase",
+      "name": "Shield Chase IV",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":ShieldChase:"
+      ],
+      "inputs": [
+        "Direction + SHIFT",
+        "SHIFT + A/D"
+      ],
+      "icon": "shield-chase",
+      "importance": null,
+      "usage_tags": [
+        "Engage",
+        "Movement"
+      ],
+      "recommended_usage": "Engage / movement. Swaps to pre-awakening (Shift+A/D).",
+      "protection": {
+        "pve": "iframe",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard",
+          "Invincible during the skill (PvE only)"
+        ],
+        "notes": "Codex: FG + Invincible (PvE only) -> pve=iframe, pvp=fg. Sheet said FG+SA; Codex authoritative.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/4211/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Quickly move in all directions while staying on guard.",
+      "cooldown": "5s",
+      "mp_cost": "25",
+      "required_level": 56,
+      "effects": [
+        "Character collision occurs while moving forward",
+        "No character collision while moving backward",
+        "Forward Guard",
+        "Invincible during the skill (PvE only)",
+        "All CC Resistance (except Grapple), including from Back Attacks",
+        "Cooldown mutually exclusive with other Shield Chase levels"
+      ],
+      "cc_lines": [
+        "All CC Resistance (except Grapple), including from Back Attacks"
+      ],
+      "bdocodex_id": 4211,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "sharp-light",
+      "name": "Absolute: Sharp Light",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":SharpLight:"
+      ],
+      "inputs": [
+        "SHIFT + LMB"
+      ],
+      "icon": "sharp-light",
+      "importance": null,
+      "usage_tags": [
+        "Re-CC"
+      ],
+      "recommended_usage": "Pre-awakening re-CC.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3209/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Sharp Light IV]\nCreate a sharp, powerful Elionian light and throw it toward enemies in front of you.",
+      "cooldown": "9s",
+      "mp_cost": "30",
+      "required_level": 59,
+      "effects": [
+        "Attack damage 1148% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "Recover 90 SP per hit",
+        "Push the target on hits (PvE only)",
+        "Knockdown on hits (Nullified during cooldown)",
+        "Counter Attack",
+        "Air Attack",
+        "Damage reduced during cooldown",
+        "70.16% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on hits (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 3209,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "punishment",
+      "name": "Absolute: Punishment",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":Punishment:"
+      ],
+      "inputs": [
+        "E"
+      ],
+      "icon": "punishment",
+      "importance": null,
+      "usage_tags": [
+        "Catch",
+        "Grab"
+      ],
+      "recommended_usage": "Grab catch; works in awakening. (Lock it if you're a Marni-only grinder.)",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor on Grapple/Grapple fails"
+        ],
+        "notes": "SA on Grapple. Sheet agrees (SA on Grapple).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3213/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Punishment IV]\nGrapple the enemy and smash them down to the ground.",
+      "cooldown": "15s",
+      "mp_cost": null,
+      "required_level": 56,
+      "effects": [
+        "Attack damage 3655% x1",
+        "Maximum 10 targets",
+        "Super Armor on Grapple/Grapple fails",
+        "Floating on Grapple",
+        "Not affected by effects which increase/decrease Attack and/or Casting Speeds."
+      ],
+      "cc_lines": [
+        "Super Armor on Grapple/Grapple fails",
+        "Floating on Grapple"
+      ],
+      "bdocodex_id": 3213,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "divine-power",
+      "name": "Absolute: Divine Power",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":DivinePower:"
+      ],
+      "inputs": [
+        "SHIFT + F"
+      ],
+      "icon": "divine-power",
+      "importance": null,
+      "usage_tags": [
+        "Down-smash",
+        "Finisher DMG"
+      ],
+      "recommended_usage": "Down-smash fishing and finisher damage.",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor"
+        ],
+        "notes": "SA. Sheet agrees.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3214/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Divine Power IV]\nHarness the Sacred Power of Elion, channeling its divine essence to unleash a mighty explosion upon the ground.",
+      "cooldown": "9s",
+      "mp_cost": "100",
+      "required_level": 59,
+      "effects": [
+        "Attack damage 1892% x2",
+        "Maximum 10 targets",
+        "Attack Speed -10% for 5 sec on hits",
+        "Casting Speed -10% for 5 sec on hits",
+        "Super Armor",
+        "Bound on hits (PvE only)",
+        "Down Attack",
+        "Down Smash",
+        "89.31% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Bound on hits (PvE only)"
+      ],
+      "bdocodex_id": 3214,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "flying-kick",
+      "name": "Absolute: Flying Kick",
+      "kind": "pre-awakening",
+      "shortcodes": [
+        ":FlyingKick:"
+      ],
+      "inputs": [
+        "S + F"
+      ],
+      "icon": "flying-kick",
+      "importance": null,
+      "usage_tags": [
+        "Filler"
+      ],
+      "recommended_usage": "Extra-damage filler in the Blitz Stab Double-KD variant.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "No protection (Codex + sheet).",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/3211/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Flying Kick II]\nDeal damage to foes with a flying kick.",
+      "cooldown": "5s",
+      "mp_cost": null,
+      "required_level": 56,
+      "effects": [
+        "Attack damage 1311% x2",
+        "Maximum 10 targets",
+        "Recover 30 SP per hit",
+        "Knockback on hits (Nullified during cooldown)",
+        "Push the target on hits (PvE only)",
+        "Air Attack",
+        "58.46% damage in PvP only",
+        "Damage reduced during cooldown"
+      ],
+      "cc_lines": [
+        "Knockback on hits (Nullified during cooldown)"
+      ],
+      "bdocodex_id": 3211,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "celestial-smite",
+      "name": "Celestial Smite",
+      "kind": "rabam",
+      "shortcodes": [
+        ":CelestialSmite:"
+      ],
+      "inputs": [
+        "SHIFT + X"
+      ],
+      "icon": "celestial-smite",
+      "importance": null,
+      "usage_tags": [
+        "Rabam",
+        "Crit buff",
+        "DMG"
+      ],
+      "recommended_usage": "Rabam. Pulls and bounds; pairs with Absolute: Celestial Spear for a strong cancel.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "Rabam, no protection line.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/2748/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Heaven's Echo III]\nPreceding Skill: [Celestial Spear IV]\nDrop sacred and mighty spears from the skies to inflict powerful damage.",
+      "cooldown": "10s",
+      "mp_cost": "14",
+      "required_level": 56,
+      "effects": [
+        "Attack damage 3285% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "Critical Hit Rate +80% for 5 sec when using the skill",
+        "Movement Speed -15% for 5 sec on hits",
+        "Pull in the target on hits (PvE only)",
+        "Bound on hits",
+        "Down Attack",
+        "57.8% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Bound on hits"
+      ],
+      "bdocodex_id": 2748,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "divine-descent",
+      "name": "Divine Descent",
+      "kind": "rabam",
+      "shortcodes": [
+        ":DivineDescent:"
+      ],
+      "inputs": [
+        "SHIFT + Z"
+      ],
+      "icon": "divine-descent",
+      "importance": null,
+      "usage_tags": [
+        "Rabam",
+        "DP buff"
+      ],
+      "recommended_usage": "Rabam. DP buff for self and allies. Shares the Shift+Z input with Divine Slam (loadout choice).",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor during the skill"
+        ],
+        "notes": "SA during skill. Rabam.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/2816/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Divine Power IV]\nPreceding Skill: [Elion's Blessing]\nThe holy blessing of Elion grants a boon to your allies and self.",
+      "cooldown": "1m",
+      "mp_cost": "100",
+      "required_level": 57,
+      "effects": [
+        "All Damage Reduction +40 for 20 sec (Applied to self and allies)",
+        "All Special Attack damage +2% for 10 sec (Applied to self and allies)",
+        "Super Armor during the skill"
+      ],
+      "cc_lines": [],
+      "bdocodex_id": 2816,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "divine-judgment-of-light",
+      "name": "Divine Judgment of Light",
+      "kind": "rabam",
+      "shortcodes": [
+        ":DivineJudgmentofLight:"
+      ],
+      "inputs": [
+        "LMB during Celestial Spear / Smite",
+        "S + E -> LMB"
+      ],
+      "icon": "divine-judgment-of-light",
+      "importance": null,
+      "usage_tags": [
+        "Rabam",
+        "Down-smash",
+        "Finisher DMG"
+      ],
+      "recommended_usage": "Rabam finisher; needs Celestial Spear/Smite off cooldown.",
+      "protection": {
+        "pve": "none",
+        "pvp": "none",
+        "tooltip_lines": [],
+        "notes": "Rabam, no protection line.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/4053/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Judgment of Light III]\nPreceding Skill: [Divine Power IV]\nGather the power of light, then rain down a holy spear from the heavens.",
+      "cooldown": "22s",
+      "mp_cost": "150",
+      "required_level": 58,
+      "effects": [
+        "Attack 1 damage 5424% x2",
+        "Last attack damage 5424% x2",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "Attack Speed -10% for 5 sec on hits",
+        "Casting Speed -10% for 5 sec on hits",
+        "Down Attack",
+        "Down Smash on attack 1 hits",
+        "40.87% damage in PvP only"
+      ],
+      "cc_lines": [],
+      "bdocodex_id": 4053,
+      "sheet_icon_matched": false
+    },
+    {
+      "id": "divine-slam",
+      "name": "Divine Slam",
+      "kind": "rabam",
+      "shortcodes": [
+        ":DivineSlam:"
+      ],
+      "inputs": [
+        "SHIFT + Z"
+      ],
+      "icon": "divine-slam",
+      "importance": null,
+      "usage_tags": [
+        "Rabam",
+        "Down-smash"
+      ],
+      "recommended_usage": "Rabam down-smash fishing. Distinct from Divine Descent though both bind Shift+Z.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard during the skill"
+        ],
+        "notes": "FG during skill. Distinct from Divine Descent (SA), same input Shift+Z.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/2815/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Preceding Skill: [Divine Power IV]\nPreceding Skill: [Sword of Judgment IV]\nImbue your longsword with the Sacred Power of Elion, then deal a powerful blow to all enemies in front.",
+      "cooldown": "7s",
+      "mp_cost": "150",
+      "required_level": 57,
+      "effects": [
+        "Attack damage 7607% x2",
+        "Critical Hit Rate +50%",
+        "Maximum 10 targets",
+        "Recover 50 HP per hit",
+        "Forward Guard during the skill",
+        "Knockdown on hits (PvE only)",
+        "Down Attack",
+        "Down Smash",
+        "26.73% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on hits (PvE only)"
+      ],
+      "bdocodex_id": 2815,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "noble-spirit",
+      "name": "Noble Spirit",
+      "kind": "quick-slot",
+      "shortcodes": [
+        ":NobleSpirit:"
+      ],
+      "inputs": [
+        "Quick Slot"
+      ],
+      "icon": "noble-spirit",
+      "importance": null,
+      "usage_tags": [
+        "E-buff",
+        "Quick-slot"
+      ],
+      "recommended_usage": "Our E-buff; can only be cast from a quick slot.",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor during the skill",
+          "Forward Guard while sprinting"
+        ],
+        "notes": "SA during skill / FG while sprinting -> graded top SA. Sheet: FG+SA while sprinting.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/1944/",
+        "pulled": "2026-06-15"
+      },
+      "description": "A noble spirit stirs within, and the Valkyrie grows ever mightier.",
+      "cooldown": "3m",
+      "mp_cost": null,
+      "required_level": 1,
+      "effects": [
+        "All Damage Reduction +50 for 30 sec when using the skill",
+        "Casting Speed +10% for 30 sec when using the skill",
+        "HP Recovery +200 for 30 sec when using the skill",
+        "Super Armor during the skill",
+        "324% damage while sprinting",
+        "Only backward Death Line Chase available.",
+        "Forward Guard while sprinting",
+        "All CC Resistance (except Grapple), including from Back Attacks",
+        "Consume no Stamina for 30 sec while sprinting."
+      ],
+      "cc_lines": [
+        "All CC Resistance (except Grapple), including from Back Attacks"
+      ],
+      "bdocodex_id": 1944,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shining-dash",
+      "name": "Shining Dash",
+      "kind": "quick-slot",
+      "shortcodes": [
+        ":ShiningDash:"
+      ],
+      "inputs": [
+        "↑ + RMB",
+        "Quick Slot"
+      ],
+      "icon": "shining-dash",
+      "importance": null,
+      "usage_tags": [
+        "Movement",
+        "Quick-slot"
+      ],
+      "recommended_usage": "Useful for chasing people in duels; can only be cast from a quick slot.",
+      "protection": {
+        "pve": "frontal_guard",
+        "pvp": "frontal_guard",
+        "tooltip_lines": [
+          "Forward Guard at the start of the skill and while moving"
+        ],
+        "notes": "FG at start and while moving. Quick-slot.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/731/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Harnessing the Sacred Power of Elion, unleash a devastating dash attack.\nBathed in resplendent light, the Valkyrie, wielding the Sacred Power, dashes towards her foes up to three times in swift succession.",
+      "cooldown": "15s",
+      "mp_cost": "65",
+      "required_level": 46,
+      "effects": [
+        "Attack damage 965% x2, max 3 hits",
+        "Stab attack damage 965% x2",
+        "Critical Hit Rate +100%",
+        "Maximum 10 targets",
+        "Forward Guard at the start of the skill and while moving",
+        "Push the target on attack 1 hits (PvE only)",
+        "Knockdown on stab attack hits",
+        "80.18% damage in PvP only"
+      ],
+      "cc_lines": [
+        "Knockdown on stab attack hits"
+      ],
+      "bdocodex_id": 731,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "elions-blessing",
+      "name": "Elion's Blessing",
+      "kind": "quick-slot",
+      "shortcodes": [
+        ":ElionsBlessing:"
+      ],
+      "inputs": [
+        "Quick Slot"
+      ],
+      "icon": "elions-blessing",
+      "importance": null,
+      "usage_tags": [
+        "PA",
+        "DP buff",
+        "Quick-slot"
+      ],
+      "recommended_usage": "Our PA (protected ability); can only be cast from a quick slot.",
+      "protection": {
+        "pve": "super_armor",
+        "pvp": "super_armor",
+        "tooltip_lines": [
+          "Super Armor"
+        ],
+        "notes": "SA. Quick-slot.",
+        "source": "BDO Codex",
+        "source_url": "https://bdocodex.com/us/skill/769/",
+        "pulled": "2026-06-15"
+      },
+      "description": "Blanket Elion's protection around you to temporarily raise the DP of self and allies.",
+      "cooldown": "4m",
+      "mp_cost": "100",
+      "required_level": 46,
+      "effects": [
+        "Damage Reduction Rate +50% for 6 sec to self and nearby allies",
+        "Super Armor"
+      ],
+      "cc_lines": [],
+      "bdocodex_id": 769,
+      "sheet_icon_matched": false
+    },
+    {
+      "id": "forward-slash",
+      "name": "Forward Slash",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":ForwardSlash:"
+      ],
+      "inputs": [],
+      "icon": "forward-slash",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 1478,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "charging-slash",
+      "name": "Charging Slash",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":ChargingSlash:"
+      ],
+      "inputs": [],
+      "icon": "charging-slash",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 749,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "glaring-slash",
+      "name": "Glaring Slash",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":GlaringSlash:"
+      ],
+      "inputs": [],
+      "icon": "glaring-slash",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 761,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "sword-of-judgment",
+      "name": "Sword of Judgment",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":SwordofJudgment:"
+      ],
+      "inputs": [],
+      "icon": "sword-of-judgment",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 735,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "flurry-of-kicks",
+      "name": "Flurry of Kicks",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":FlurryofKicks:"
+      ],
+      "inputs": [],
+      "icon": "flurry-of-kicks",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 725,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "flow-double-flying-kick",
+      "name": "Flow: Double Flying Kick",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":FlowDoubleFlyingKick:"
+      ],
+      "inputs": [],
+      "icon": "flow-double-flying-kick",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 729,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shield-strike",
+      "name": "Shield Strike",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":ShieldStrike:"
+      ],
+      "inputs": [],
+      "icon": "shield-strike",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 1499,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shield-counter",
+      "name": "Shield Counter",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":ShieldCounter:"
+      ],
+      "inputs": [],
+      "icon": "shield-counter",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 719,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "shield-push",
+      "name": "Shield Push",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":ShieldPush:"
+      ],
+      "inputs": [],
+      "icon": "shield-push",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 730,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "skyward-strike",
+      "name": "Skyward Strike",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":SkywardStrike:"
+      ],
+      "inputs": [],
+      "icon": "skyward-strike",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 756,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "evasion",
+      "name": "Evasion",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":Evasion:"
+      ],
+      "inputs": [],
+      "icon": "evasion",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 1484,
+      "sheet_icon_matched": true
+    },
+    {
+      "id": "vindicta",
+      "name": "Vindicta",
+      "kind": "locked-only",
+      "shortcodes": [
+        ":Vindicta:"
+      ],
+      "inputs": [],
+      "icon": "vindicta",
+      "importance": null,
+      "usage_tags": [
+        "Locked"
+      ],
+      "recommended_usage": "Recommended to lock for newer players (some are preference after the basics).",
+      "protection": null,
+      "description": null,
+      "cooldown": null,
+      "mp_cost": null,
+      "required_level": null,
+      "effects": [],
+      "cc_lines": [],
+      "bdocodex_id": 1962,
+      "sheet_icon_matched": true
+    }
+  ]
+}

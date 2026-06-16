@@ -1,0 +1,188 @@
+{
+  "protection": {
+    "sacrum-ferit": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG during skill, nullified during cooldown. Sheet agrees (FG)."
+    ],
+    "flow-lucem-fluxum": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG during skill. Sheet agrees."
+    ],
+    "purificatione": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG, nullified during cooldown. Sheet agrees."
+    ],
+    "castigatio": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "hastiludium": [
+      "super_armor",
+      "super_armor",
+      "SA. Sheet agrees."
+    ],
+    "divina-impulsa": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG during skill. Sheet agrees (Divina Inpulsa)."
+    ],
+    "verdict-lancia-iustitiae": [
+      "super_armor",
+      "super_armor",
+      "SA. Sheet agrees."
+    ],
+    "sanctitas-de-enslar": [
+      "iframe",
+      "iframe",
+      "SA + Invincible on airborne moves -> graded top = iframe (partial). Sheet: \"Iframe into SA\"."
+    ],
+    "flow-divina-vult": [
+      "super_armor",
+      "super_armor",
+      "SA during skill. Sheet agrees."
+    ],
+    "blitz-stab": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "promptness": [
+      "super_armor",
+      "super_armor",
+      "SA during skill, nullified during cooldown. Sheet agrees."
+    ],
+    "terra-sancta": [
+      "super_armor",
+      "super_armor",
+      "SA during skill. Sheet agrees."
+    ],
+    "wave-of-light": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "heavens-echo": [
+      "none",
+      "none",
+      "Buff cast, no protection."
+    ],
+    "death-line-chase": [
+      "iframe",
+      "frontal_guard",
+      "Codex: FG (nullified on cd) + Invincible during skill (PvE only) -> pve=iframe, pvp=fg. Sheet loosely said FG+SA; Codex authoritative."
+    ],
+    "guard": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG block stance. Sheet agrees."
+    ],
+    "gladius-gloriae": [
+      "super_armor",
+      "super_armor",
+      "Codex: SA before the attack hits (partial). Sheet listed none; Codex authoritative (ADR 0002). CONFLICT -> flag."
+    ],
+    "severing-light": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "celestial-spear": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "counter": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "just-counter": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG during skill, nullified on cd. Sheet agrees."
+    ],
+    "shield-throw": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "shield-chase": [
+      "iframe",
+      "frontal_guard",
+      "Codex: FG + Invincible (PvE only) -> pve=iframe, pvp=fg. Sheet said FG+SA; Codex authoritative."
+    ],
+    "sharp-light": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "punishment": [
+      "super_armor",
+      "super_armor",
+      "SA on Grapple. Sheet agrees (SA on Grapple)."
+    ],
+    "divine-power": [
+      "super_armor",
+      "super_armor",
+      "SA. Sheet agrees."
+    ],
+    "flying-kick": [
+      "none",
+      "none",
+      "No protection (Codex + sheet)."
+    ],
+    "celestial-smite": [
+      "none",
+      "none",
+      "Rabam, no protection line."
+    ],
+    "divine-descent": [
+      "super_armor",
+      "super_armor",
+      "SA during skill. Rabam."
+    ],
+    "divine-judgment-of-light": [
+      "none",
+      "none",
+      "Rabam, no protection line."
+    ],
+    "divine-slam": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG during skill. Distinct from Divine Descent (SA), same input Shift+Z."
+    ],
+    "noble-spirit": [
+      "super_armor",
+      "super_armor",
+      "SA during skill / FG while sprinting -> graded top SA. Sheet: FG+SA while sprinting."
+    ],
+    "shining-dash": [
+      "frontal_guard",
+      "frontal_guard",
+      "FG at start and while moving. Quick-slot."
+    ],
+    "elions-blessing": [
+      "super_armor",
+      "super_armor",
+      "SA. Quick-slot."
+    ]
+  },
+  "locked_only": {
+    "forward-slash": 1478,
+    "charging-slash": 749,
+    "glaring-slash": 761,
+    "sword-of-judgment": 735,
+    "flurry-of-kicks": 725,
+    "flow-double-flying-kick": 729,
+    "shield-strike": 1499,
+    "shield-counter": 719,
+    "shield-push": 730,
+    "skyward-strike": 756,
+    "evasion": 1484,
+    "vindicta": 1962
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "source": "BDO Valkyrie Discord — Awakening PvP, GENERAL INFO (combo theory)",
+    "updated": "2026-07-09",
+    "note": "Awakening Valkyrie combos are inherently unprotected; most are designed for smallscale. For protected play use the Protected family (built around Guard); large-scale defers to the Valkyrie Guide spreadsheet. Skill ids reference the Registry."
+  },
+  "sections": [
+    {
+      "id": "catches",
+      "title": "Catches",
+      "desc": "PvP openers that lock the target — the start of a combo.",
+      "groups": [
+        {
+          "label": "Pre-awakening",
+          "entries": [
+            { "skill": "punishment", "input": "E", "note": "Grab — works in Awakening" },
+            { "skill": "celestial-spear", "input": "S+E", "note": "Works in Awakening" },
+            { "skill": "just-counter", "input": "W+LMB", "note": "From Guard only, hotbar otherwise" },
+            { "skill": "counter", "input": "S+LMB", "note": null },
+            { "skill": "gladius-gloriae", "input": "F", "note": "Gladius Gloriae Cancels" }
+          ]
+        },
+        {
+          "label": "Awakening",
+          "entries": [
+            { "skill": "wave-of-light", "input": "S+F", "note": null },
+            { "skill": "blitz-stab", "input": "W+RMB", "note": null }
+          ]
+        },
+        {
+          "label": "Core",
+          "entries": [
+            { "skill": "sanctitas-de-enslar", "input": "F", "note": null },
+            { "skill": "hastiludium", "input": "W+F", "note": null },
+            { "skill": "sacrum-ferit", "input": "RMB", "note": null },
+            { "skill": "castigatio", "input": "S+LMB", "note": null }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "pre-buffs",
+      "title": "Pre-buffs",
+      "desc": "Buffs to apply early in a combo.",
+      "groups": [
+        {
+          "label": "Critical Hit Rate",
+          "entries": [
+            { "skill": "sacrum-ferit", "input": "RMB", "note": null },
+            { "skill": "celestial-spear", "input": "S+E", "note": null }
+          ]
+        },
+        {
+          "label": "Melee AP",
+          "entries": [
+            { "skill": "divina-impulsa", "input": "SHIFT+Q", "note": null },
+            { "skill": "sanctitas-de-enslar", "input": "F", "note": null }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "de-buffs",
+      "title": "De-buffs",
+      "desc": "Debuffs to apply on the target.",
+      "groups": [
+        {
+          "label": "All DP",
+          "entries": [
+            { "skill": "purificatione", "input": "SHIFT+LMB", "note": null }
+          ]
+        },
+        {
+          "label": "All Evasion",
+          "entries": [
+            { "skill": "blitz-stab", "input": "W+RMB", "note": null },
+            { "skill": "flow-divina-vult", "input": "F/LMB", "note": "F/LMB after Sanctitas de Enslar & LMB after Verdict: Lancia Iustitiae" }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "re-ccs",
+      "title": "Re-CCs",
+      "desc": "Skills used to re-apply crowd control mid-combo so the target stays down.",
+      "groups": [
+        {
+          "label": "Pre-awakening",
+          "entries": [
+            { "skill": "sharp-light", "input": "SHIFT+LMB", "note": null },
+            { "skill": "gladius-gloriae", "input": "F", "note": null }
+          ]
+        },
+        {
+          "label": "Awakening",
+          "entries": [
+            { "skill": "flow-lucem-fluxum", "input": "Hotbar", "note": null },
+            { "skill": "blitz-stab", "input": "W+RMB", "note": null }
+          ]
+        },
+        {
+          "label": "Core",
+          "entries": [
+            { "skill": "hastiludium", "input": "W+F", "note": null },
+            { "skill": "sanctitas-de-enslar", "input": "F", "note": null }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "typical-payload",
+      "title": "Typical Payload",
+      "desc": "The standard damage tail: Castigatio ➔ Terra Sancta ➔ Blitz Stab (S+LMB ➔ Hold ➔ W+RMB).",
+      "groups": [
+        {
+          "label": "Payload",
+          "entries": [
+            { "skill": "castigatio", "input": "S+LMB", "note": null },
+            { "skill": "terra-sancta", "input": "Hold (after Castigatio)", "note": null },
+            { "skill": "blitz-stab", "input": "W+RMB", "note": null }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "down-smash-fishing",
+      "title": "Down Smash Fishing",
+      "desc": "Priority top to bottom.",
+      "groups": [
+        {
+          "label": "Priority",
+          "entries": [
+            { "skill": "divina-impulsa", "input": "SHIFT+Q", "note": null },
+            { "skill": "divine-power", "input": "SHIFT+F", "note": null },
+            { "skill": "divine-judgment-of-light", "input": "S+E ➔ LMB", "note": "Needs Celestial Spear off CD" },
+            { "skill": "divine-slam", "input": "SHIFT+Z", "note": null }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "purificatione-timing",
+      "title": "When should you use Purificatione?",
+      "desc": "Three timings, each with trade-offs.",
+      "groups": [
+        {
+          "label": "Instantly after a Punishment (Promptness ➔ Purificatione)",
+          "entries": [],
+          "pros": ["Applies All-DP debuff early", "Air Attack modifier utilized"],
+          "cons": ["No Critical Hit Rate outside the innate 18% (or 48% with the Crit Rate add-on) unless prebuffed", "Needs a grab catch"]
+        },
+        {
+          "label": "After the re-cc",
+          "entries": [],
+          "pros": ["Most likely 100% Critical Hit Rate", "Air Attack modifier utilized"],
+          "cons": ["Applies All-DP debuff later in the combo", "Air Attack only works after Flow: Lucem Fluxum (Promptness) / Sharp Light (Promptness)"]
+        },
+        {
+          "label": "At any other point",
+          "entries": [],
+          "pros": ["Most likely 100% Critical Hit Rate"],
+          "cons": ["No Air Attack modifier"]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "protected-rules",
+      "title": "Protected Combo Rules",
+      "desc": "How the Protected family uses Guard windows.",
+      "groups": [
+        {
+          "label": "Guard sandwiches",
+          "entries": [
+            { "skill": "terra-sancta", "input": "S+RMB", "note": "Terra Sancta > Guard > Verdict" },
+            { "skill": "flow-divina-vult", "input": "F/LMB", "note": "Flow: Divina Vult > Guard > Terra Sancta" }
+          ]
+        }
+      ],
+      "notes": [
+        "Holding S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) minimizes the end delay without canceling hits — press S first.",
+        "Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts instantly on entering Guard."
+      ]
+    }
+  ]
+}

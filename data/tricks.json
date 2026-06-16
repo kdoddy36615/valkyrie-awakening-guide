@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "source": "Valkyrie Guide 2026 — sheet \"Awakening Tricks\"",
+    "note": "Skill cancels, weapon transitions, movement, and macros. Cancel/movement sequences use the sheet's ➔ arrows verbatim. xlsx cell comments are preserved. BSR-macro ASCII art is decorative and kept in sources/ (not transcribed here).",
+    "types": ["cancel", "transition", "movement", "macro"]
+  },
+  "tricks": [
+    {
+      "id": "verdict-cancel",
+      "name": "Verdict Cancel",
+      "type": "cancel",
+      "icons": ["verdict-lancia-iustitiae"],
+      "sequences": [
+        "SHIFT+RMB ➔ LMB",
+        "SHIFT+RMB ➔ LMB ➔ Q",
+        "SHIFT+RMB ➔ Q+A/D+LMB",
+        "SHIFT+RMB ➔ F"
+      ],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "enslar-cancels",
+      "name": "Enslar Cancels",
+      "type": "cancel",
+      "icons": ["sanctitas-de-enslar"],
+      "sequences": [
+        "F ➔ LMB ➔ Q",
+        "F ➔ Q+A/D+LMB",
+        "S+E ➔ F",
+        "Shift+X ➔ F"
+      ],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "castigatio-cancel",
+      "name": "Castigatio Cancel",
+      "type": "cancel",
+      "icons": ["castigatio"],
+      "sequences": [
+        "SHIFT+LMB ➔ S+LMB",
+        "LMB/F ➔ S+LMB"
+      ],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "vacuum-cancel",
+      "name": "Vacuum Cancel",
+      "type": "cancel",
+      "icons": ["wave-of-light"],
+      "sequences": [
+        "S+F ➔ Q",
+        "S+F ➔ SHIFT+A/D",
+        "S+F ➔ SHIFT+W/S",
+        "S+F ➔ S+E",
+        "S+F ➔ F"
+      ],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "gladius-gloriae-cancel",
+      "name": "Gladius Gloriae Cancel",
+      "type": "cancel",
+      "icons": ["gladius-gloriae"],
+      "sequences": [
+        "SHIFT+LMB ➔ F",
+        "W+RMB ➔ F",
+        "SHIFT+ANY ➔ F",
+        "LMB+RMB ➔ F",
+        "SHIFT+Z ➔ F",
+        "A/D+LMB ➔ F",
+        "W+F ➔ F",
+        "S+LMB ➔ F",
+        "W+LMB ➔ F",
+        "SHIFT+X ➔ F",
+        "S+E ➔ F",
+        "SHIFT+X ➔ F"
+      ],
+      "notes": ["The last two (S+E ➔ F, SHIFT+X ➔ F) are for when Sanctitas de Enslar is on cooldown."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "terra-sancta-cancel",
+      "name": "Terra Sancta Cancel",
+      "type": "cancel",
+      "icons": ["terra-sancta"],
+      "sequences": [
+        "S+LMB (Hold) ➔ —",
+        "S+RMB ➔ S+Q"
+      ],
+      "notes": [
+        "You can also auto-cast BSR Terra if you hold RMB after Castigatio starts.",
+        "Hold S+Q to avoid canceling hits or getting hit acceleration and leaving a gap at the end."
+      ],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "hastiludium-charge-up-cancel",
+      "name": "Hastiludium — Charge-Up Cancel",
+      "type": "cancel",
+      "icons": ["hastiludium"],
+      "sequences": ["SHIFT+W ➔ W+F"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "divina-inpulsa-cancel",
+      "name": "Divina Inpulsa Cancel",
+      "type": "cancel",
+      "icons": ["divina-impulsa"],
+      "sequences": [
+        "W+RMB ➔ SHIFT+Q",
+        "W+F ➔ SHIFT+Q",
+        "RMB ➔ SHIFT+Q",
+        "SPACE ➔ SHIFT+Q",
+        "A/D+LMB ➔ SHIFT+Q"
+      ],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "celestial-smite-cancel",
+      "name": "Celestial Smite Cancel",
+      "type": "cancel",
+      "icons": ["celestial-smite"],
+      "sequences": ["E ➔ SHIFT+X ➔ SPACE ➔ SHIFT+LMB"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "shining-judgment-of-light-cancel",
+      "name": "Shining Judgment of Light Cancel",
+      "type": "cancel",
+      "icons": [],
+      "sequences": ["W+F ➔ SPACE"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "transition-pre-to-awake",
+      "name": "Transition — Pre-awakening ➔ Awakening",
+      "type": "transition",
+      "icons": [],
+      "sequences": [],
+      "rows": [
+        { "input": "QUICKSLOT", "protected": "Iframe into SA" },
+        { "input": "C", "protected": "FG" },
+        { "input": "W+RMB", "protected": "—" },
+        { "input": "A/D+RMB ➔ SPACE", "protected": "Iframe" },
+        { "input": "W+LMB (Block) ➔ SPACE", "protected": "FG" },
+        { "input": "SHIFT+ANY ➔ SPACE", "protected": "SA+FG" },
+        { "input": "A/D+LMB ➔ SPACE", "protected": "—" },
+        { "input": "Q ➔ SPACE", "protected": "SA+FG" }
+      ],
+      "notes": [
+        "Notable skills to use before Promptness to swap into awakening (the ➔ SPACE rows).",
+        "Pre-awak Q + Space ➔ Q: sit in pre-awakening block holding SPACE and tapping Q — Promptness out of the block-removal animation. Fully protected as long as Promptness is off cd."
+      ],
+      "comment": "W+LMB (Block) ➔ SPACE: has to be in pre-awakening block.",
+      "video": null
+    },
+    {
+      "id": "transition-awake-to-pre",
+      "name": "Transition — Awakening ➔ Pre-awakening",
+      "type": "transition",
+      "icons": [],
+      "sequences": [],
+      "rows": [
+        { "input": "SHIFT+A/D", "protected": "FG+SA" },
+        { "input": "E", "protected": "SA on grab" },
+        { "input": "SHIFT+F", "protected": "SA" },
+        { "input": "S+E", "protected": "—" },
+        { "input": "QUICKSLOT", "protected": "SA" },
+        { "input": "QUICKSLOT", "protected": "FG" },
+        { "input": "SHIFT+X", "protected": "—" },
+        { "input": "SHIFT+X", "protected": "SA" },
+        { "input": "SHIFT+Z", "protected": "FG" },
+        { "input": "SHIFT+Z", "protected": "SA" },
+        { "input": "QUICKSLOT", "protected": "—" },
+        { "input": "QUICKSLOT", "protected": "SA" }
+      ],
+      "notes": ["C-Swap transition (SHIFT+W running ➔ C) puts you into awakening block if running with weapons away; the reverse (➔ hotbar) puts you into pre-awak block."],
+      "comment": "SHIFT+A/D: double dashing backwards does put you into pre-awakening.",
+      "video": null
+    },
+    {
+      "id": "movement-old-school",
+      "name": "Movement — Old School",
+      "type": "movement",
+      "icons": [],
+      "sequences": ["SHIFT + W ➔ LMB ➔ SPACE 🔄"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-shield-chase-dash",
+      "name": "Movement — Shield Chase Dash",
+      "type": "movement",
+      "icons": ["shield-chase"],
+      "sequences": ["SHIFT + W ➔ SPACE + Q ➔ C ➔ SPACE + LMB 🔄"],
+      "notes": ["You can also do this cancel without Shield Chase."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-backwards-dlc",
+      "name": "Movement — Backwards DLC",
+      "type": "movement",
+      "icons": ["death-line-chase"],
+      "sequences": ["Hold SHIFT + S + LMB"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-promptness-walk",
+      "name": "Movement — Promptness Walk",
+      "type": "movement",
+      "icons": ["promptness"],
+      "sequences": ["Hold SPACE, alternate between Q and LMB"],
+      "notes": [],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-awakening-side-step",
+      "name": "Movement — Awakening Side-step",
+      "type": "movement",
+      "icons": [],
+      "sequences": ["Q + A/D + LMB"],
+      "notes": ["+20% movement speed on a lateral LMB (A/D + LMB). Partial i-frame — can be used to dodge grabs."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-crab-walk",
+      "name": "Movement — Crab Walk",
+      "type": "movement",
+      "icons": [],
+      "sequences": ["Q + A/D + RMB"],
+      "notes": ["+80% crit hit rate on skill use for RMB (A/D + RMB). Has frontal guard off cooldown — nice for zero-stamina movement."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "movement-preawk-side-step",
+      "name": "Movement — Pre-awakening Side-step",
+      "type": "movement",
+      "icons": ["severing-light"],
+      "sequences": ["A/D + LMB + RMB"],
+      "notes": ["Press A or D and hold LMB + RMB. Our best side-step i-frame. May bug out with Severing Light (LMB+RMB) unlocked."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "ebuff-dlc",
+      "name": "Ebuff DLC",
+      "type": "macro",
+      "icons": ["death-line-chase"],
+      "sequences": ["Bind WW to a key, use Death Line Chase during your e-buff"],
+      "notes": ["Use Death Line Chase during your e-buff instead of the awkward running animation."],
+      "comment": null,
+      "video": null
+    },
+    {
+      "id": "bsr-macros",
+      "name": "BSR Macros",
+      "type": "macro",
+      "icons": [],
+      "sequences": [],
+      "notes": ["The guide includes BSR-macro ASCII art (decorative). It is preserved verbatim in sources/text/awakening-tricks.md and not transcribed as data here."],
+      "comment": null,
+      "video": null
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "1944": {
+    "bdocodex_id": 1944,
+    "url": "https://bdocodex.com/us/skill/1944/",
+    "name": "Noble Spirit",
+    "name_kr": null,
+    "description": "A noble spirit stirs within, and the Valkyrie grows ever mightier.",
+    "input": "Can be added to a Quick Slot",
+    "required_level": 1,
+    "required_points": null,
+    "mp_cost": null,
+    "cooldown": "3m",
+    "effects": [
+      "All Damage Reduction +50 for 30 sec when using the skill",
+      "Casting Speed +10% for 30 sec when using the skill",
+      "HP Recovery +200 for 30 sec when using the skill",
+      "Super Armor during the skill",
+      "324% damage while sprinting",
+      "Only backward Death Line Chase available.",
+      "Forward Guard while sprinting",
+      "All CC Resistance (except Grapple), including from Back Attacks",
+      "Consume no Stamina for 30 sec while sprinting."
+    ],
+    "protection_lines": [
+      "Super Armor during the skill",
+      "Forward Guard while sprinting"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1944.webp"
+  },
+  "1957": {
+    "bdocodex_id": 1957,
+    "url": "https://bdocodex.com/us/skill/1957/",
+    "name": "Purificatione III",
+    "name_kr": null,
+    "description": "Release your sacred power to damage foes and cleanse yourself.",
+    "input": "SHIFT + LMB \nCan be added to a Quick Slot",
+    "required_level": 60,
+    "required_points": 45,
+    "mp_cost": "50",
+    "cooldown": "6s",
+    "effects": [
+      "Attack damage 4167% x1",
+      "Energy explosion attack damage 4167% x2",
+      "Maximum 10 targets",
+      "Recover 700 HP per hit (Nullified during cooldown)",
+      "All Damage Reduction -20 for 10 sec on hits (Nullified during cooldown)",
+      "Forward Guard (Nullified during cooldown)",
+      "Spin the target on hits (PvE only)",
+      "Stun on hits (PvE only) (Nullified during cooldown)",
+      "Air Attack",
+      "Damage reduced during cooldown",
+      "39.59% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard (Nullified during cooldown)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp"
+  },
+  "1961": {
+    "bdocodex_id": 1961,
+    "url": "https://bdocodex.com/us/skill/1961/",
+    "name": "Castigatio IV",
+    "name_kr": null,
+    "description": "Strike your lancia into the ground repeatedly to purge enemies.",
+    "input": "↓ + LMB \nHold ↓ + LMB to continue the skill",
+    "required_level": 59,
+    "required_points": 47,
+    "mp_cost": "45",
+    "cooldown": "4s",
+    "effects": [
+      "Attack damage 6073% x1, max 3 hits",
+      "Critical Hit Rate +50% (PvE only)",
+      "Maximum 10 targets",
+      "Bound on first hit",
+      "Down Attack",
+      "36.85% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp"
+  },
+  "1966": {
+    "bdocodex_id": 1966,
+    "url": "https://bdocodex.com/us/skill/1966/",
+    "name": "Sacrum Ferit IV",
+    "name_kr": null,
+    "description": "Counterattack with a shield and deeply stab the enemy using lancia.",
+    "input": "RMB\n← or → + RMB to perform lateral evasion\nPerform from attack 2 after certain skills\nCan be added to a Quick Slot",
+    "required_level": 60,
+    "required_points": 48,
+    "mp_cost": "50",
+    "cooldown": "5s",
+    "effects": [
+      "Attack 1 damage 5110% x1",
+      "Attack 2 damage 5110% x1",
+      "Last attack damage 5110% x2",
+      "Flow: Lucem Fluxum's damage 6998%",
+      "Critical Hit Rate +100% (PvE only)",
+      "Maximum 10 targets",
+      "Critical Hit Rate +80% for 5 sec when using the skill (Nullified during cooldown)",
+      "Forward Guard during the skill (Nullified during cooldown)",
+      "Stiffness on first hit (PvE only) (Nullified during cooldown)",
+      "Floating on last attack hits (PvE only) (Nullified during cooldown)",
+      "Counter Attack",
+      "Down Attack",
+      "Damage reduced during cooldown",
+      "36.7% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard during the skill (Nullified during cooldown)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp"
+  },
+  "1967": {
+    "bdocodex_id": 1967,
+    "url": "https://bdocodex.com/us/skill/1967/",
+    "name": "Wave of Light",
+    "name_kr": null,
+    "description": "Pull in all enemies by unleashing a wave of light before you, then deal holy damage on a designated point.",
+    "input": "↓ + F\nCan be added to a Quick Slot",
+    "required_level": 56,
+    "required_points": 11,
+    "mp_cost": "70",
+    "cooldown": "20s",
+    "effects": [
+      "Summon attack damage 854% x4",
+      "Maximum 10 targets",
+      "All Damage Reduction -20 for 10 sec on hits",
+      "Pull in the target on hits",
+      "Movement and Attack/Casting Speeds -50% for 1 sec on pull attack hits",
+      "Bound on summon attack hits"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1967.webp"
+  },
+  "1971": {
+    "bdocodex_id": 1971,
+    "url": "https://bdocodex.com/us/skill/1971/",
+    "name": "Verdict: Lancia Iustitiae IV",
+    "name_kr": null,
+    "description": "Slam the lancia down onto the surface to cleanse all enemies in the vicinity.",
+    "input": "SHIFT + RMB\nCan be added to a Quick Slot",
+    "required_level": 60,
+    "required_points": 48,
+    "mp_cost": "110",
+    "cooldown": "9s",
+    "effects": [
+      "Attack damage 5706% x6",
+      "Last attack damage 9731% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "All Damage Reduction +30 for 10 sec when using the skill",
+      "Movement Speed -15% for 5 sec on hits",
+      "Super Armor",
+      "Knockdown on first hit (PvE only)",
+      "Down Attack",
+      "Air Attack on last attack hits",
+      "Down Smash on last attack hits",
+      "17.6% attack 1 damage in PvP only",
+      "25.8% last attack damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp"
+  },
+  "1974": {
+    "bdocodex_id": 1974,
+    "url": "https://bdocodex.com/us/skill/1974/",
+    "name": "Hastiludium III",
+    "name_kr": null,
+    "description": "Valkyrie brazenly dashes forward with her lancia leading the way. The longer the dash, the faster her pace until no enemy formation can stand in her way.",
+    "input": "↑ + F\nHold ↑ + F to dash continuously\nLMB while dashing to perform stab attack\nCan be added to a Quick Slot",
+    "required_level": 60,
+    "required_points": 37,
+    "mp_cost": null,
+    "cooldown": "7s",
+    "effects": [
+      "Stab attack 1 damage 2981% x2",
+      "Stab attack 2 damage 4173% x2",
+      "Stab attack 3 damage 7511% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "Super Armor",
+      "Knockdown on stab attack hits (PvE only)",
+      "65.81% damage in PvP only",
+      "Consumes 100 Stamina to continue the skill, then 150 Stamina to continue it once again.",
+      "The longer the dash, the greater the stab attack damage."
+    ],
+    "protection_lines": [
+      "Super Armor"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp"
+  },
+  "1977": {
+    "bdocodex_id": 1977,
+    "url": "https://bdocodex.com/us/skill/1977/",
+    "name": "Sanctitas de Enslar III",
+    "name_kr": null,
+    "description": "Having absorbed Enslar's Sacred Power, Valkyrie instantly teleports in the desired direction and hurls the lancia to the ground to detonate in a holy explosion.",
+    "input": "F\nF after Celestial Spear\nHold LMB to aim\nCan be added to a Quick Slot",
+    "required_level": 60,
+    "required_points": 45,
+    "mp_cost": "80",
+    "cooldown": "9s",
+    "effects": [
+      "Marked attack damage 3027% x1",
+      "Last attack damage 7567% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "Melee AP +32 for 10 sec when using the skill",
+      "Super Armor",
+      "Invincible on airborne moves",
+      "Stiffness on marked hits (PvE only)",
+      "Knockdown on last attack hits (PvE only)",
+      "Down Attack",
+      "23.2% damage in PvP only",
+      "Moves to attack target, but performs standing attack if none targeted.",
+      "Taunt surrounding foes upon landing."
+    ],
+    "protection_lines": [
+      "Super Armor",
+      "Invincible on airborne moves"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp"
+  },
+  "1978": {
+    "bdocodex_id": 1978,
+    "url": "https://bdocodex.com/us/skill/1978/",
+    "name": "Blitz Stab",
+    "name_kr": null,
+    "description": "Perform blazingly-fast stabs with lancia's sacred power.",
+    "input": "↑ + RMB\nCan be added to a Quick Slot\nCan be used with your longsword",
+    "required_level": 56,
+    "required_points": 10,
+    "mp_cost": "70",
+    "cooldown": "7s",
+    "effects": [
+      "Attack damage 6108% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "50 bleeding damage every 3 sec for 9 sec on hits",
+      "All Evasion -12 for 10 sec on hits",
+      "Knockdown on hits",
+      "Down Attack",
+      "28.7% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1978.webp"
+  },
+  "1980": {
+    "bdocodex_id": 1980,
+    "url": "https://bdocodex.com/us/skill/1980/",
+    "name": "Death Line Chase",
+    "name_kr": null,
+    "description": "Auto-learn\nThe Valkyrie does not falter while courting death on the front lines chasing down her foe.",
+    "input": "SHIFT + ↑ or SHIFT + ↓",
+    "required_level": 56,
+    "required_points": null,
+    "mp_cost": null,
+    "cooldown": "2s",
+    "effects": [
+      "Character collision occurs while moving forward",
+      "No character collision while moving backward",
+      "Forward Guard (Nullified during cooldown)",
+      "All CC Resistance (except Grapple), including from Back Attacks",
+      "Invincible during the skill (PvE only)",
+      "On Guard after skill use.",
+      "Activates Shield Chase after continuing backward Death Line Chase."
+    ],
+    "protection_lines": [
+      "Forward Guard (Nullified during cooldown)",
+      "Invincible during the skill (PvE only)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1980.webp"
+  },
+  "1981": {
+    "bdocodex_id": 1981,
+    "url": "https://bdocodex.com/us/skill/1981/",
+    "name": "Flow: Lucem Fluxum",
+    "name_kr": null,
+    "description": "Preceding Skill: [Sacrum Ferit I]\nLeap and detonate your Sacred Power after Sacrum Ferit.",
+    "input": "Hold RMB after Sacrum Ferit\nCan be added to a Quick Slot",
+    "required_level": 57,
+    "required_points": 10,
+    "mp_cost": null,
+    "cooldown": "8s",
+    "effects": [
+      "All damage applies Sacrum Ferit's level damage x2",
+      "Maximum 10 targets",
+      "Recover 75 SP per hit",
+      "Forward Guard during the skill",
+      "Knockdown on hits",
+      "Down Attack"
+    ],
+    "protection_lines": [
+      "Forward Guard during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1981.webp"
+  },
+  "1982": {
+    "bdocodex_id": 1982,
+    "url": "https://bdocodex.com/us/skill/1982/",
+    "name": "Flow: Divina Vult",
+    "name_kr": null,
+    "description": "Preceding Skill: [Sanctitas de Enslar I]\nSwing the lancia wide to send enemies flying.",
+    "input": "LMB or F after Sanctitas de Enslar\nLMB during Verdict: Lancia Iustitiae",
+    "required_level": 58,
+    "required_points": 10,
+    "mp_cost": "150",
+    "cooldown": null,
+    "effects": [
+      "Attack damage 7171% x2",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "All Evasion -12 for 10 sec on hits",
+      "Super Armor during the skill",
+      "Air Attack",
+      "Down Attack",
+      "30.15% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1982_re.webp"
+  },
+  "1983": {
+    "bdocodex_id": 1983,
+    "url": "https://bdocodex.com/us/skill/1983/",
+    "name": "Terra Sancta",
+    "name_kr": null,
+    "description": "Raising her combat senses to the limits, the Valkyrie detonates and releases her Sacred Power towards all in front of her.",
+    "input": "↓ + RMB\nHold LMB after Castigatio's last attack\nLMB during Castigatio\nCan be added to a Quick Slot",
+    "required_level": 58,
+    "required_points": 10,
+    "mp_cost": "60",
+    "cooldown": "9s",
+    "effects": [
+      "Attack damage 12216% x2",
+      "Critical Hit Rate +100% (PvE only)",
+      "Maximum 10 targets",
+      "Super Armor during the skill",
+      "Bound on hits (PvE only)",
+      "Down Attack",
+      "35.53% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1983.webp"
+  },
+  "1984": {
+    "bdocodex_id": 1984,
+    "url": "https://bdocodex.com/us/skill/1984/",
+    "name": "Gladius Gloriae",
+    "name_kr": null,
+    "description": "Prerequisite: Use the [Secret Book] Abyssal Legacy ([The Magnus] Abyssal Revelation quest reward)\nChannel your Sacred Power into your sword, then smite down all foes with divine blades.",
+    "input": "F\nF after certain skills\nCan be added to a Quick Slot\nCan be used with your lancia\n\nFlurry of Kicks only available via a Quick Slot after learning this skill",
+    "required_level": 60,
+    "required_points": 5,
+    "mp_cost": "40",
+    "cooldown": "10s",
+    "effects": [
+      "Attack damage 7201% x3",
+      "Critical Hit Rate +20%",
+      "Maximum 10 targets",
+      "Super Armor before the attack hits",
+      "All Evasion -12 for 10 sec on hits",
+      "Knockdown on hits",
+      "Down Attack",
+      "32.96% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor before the attack hits"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1984.webp"
+  },
+  "1985": {
+    "bdocodex_id": 1985,
+    "url": "https://bdocodex.com/us/skill/1985/",
+    "name": "Promptness",
+    "name_kr": null,
+    "description": "The skilled Valkyrie is adept with switching between the sword and shield with the lancia, ready to attack at a moment's notice.",
+    "input": "SPACE in certain situations\nLMB after forward Death Line Chase\nSPACE in certain situations with your longsword\nCan only be used when Holy Lancia is not on cooldown with your longsword",
+    "required_level": 56,
+    "required_points": 10,
+    "mp_cost": null,
+    "cooldown": "4s",
+    "effects": [
+      "Attack damage 2833% x2",
+      "Critical Hit Rate +100% (Nullified during cooldown)",
+      "Maximum 10 targets",
+      "Recover 140 SP per hit",
+      "Stiffness on hits (PvE only)",
+      "Floating on LMB hits after forward Death Line Chase (PvE only)",
+      "Super Armor during the skill (Nullified during cooldown)",
+      "Air Attack",
+      "Down Attack",
+      "Damage reduced during cooldown",
+      "53.3% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor during the skill (Nullified during cooldown)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1985.webp"
+  },
+  "2748": {
+    "bdocodex_id": 2748,
+    "url": "https://bdocodex.com/us/skill/2748/",
+    "name": "Celestial Smite",
+    "name_kr": null,
+    "description": "Preceding Skill: [Heaven's Echo III]\nPreceding Skill: [Celestial Spear IV]\nDrop sacred and mighty spears from the skies to inflict powerful damage.",
+    "input": "SHIFT + X\nCan be added to a Quick Slot",
+    "required_level": 56,
+    "required_points": null,
+    "mp_cost": "14",
+    "cooldown": "10s",
+    "effects": [
+      "Attack damage 3285% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "Critical Hit Rate +80% for 5 sec when using the skill",
+      "Movement Speed -15% for 5 sec on hits",
+      "Pull in the target on hits (PvE only)",
+      "Bound on hits",
+      "Down Attack",
+      "57.8% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2748.webp"
+  },
+  "2815": {
+    "bdocodex_id": 2815,
+    "url": "https://bdocodex.com/us/skill/2815/",
+    "name": "Divine Slam",
+    "name_kr": null,
+    "description": "Preceding Skill: [Divine Power IV]\nPreceding Skill: [Sword of Judgment IV]\nImbue your longsword with the Sacred Power of Elion, then deal a powerful blow to all enemies in front.",
+    "input": "SHIFT + Z\nCan be added to a Quick Slot",
+    "required_level": 57,
+    "required_points": null,
+    "mp_cost": "150",
+    "cooldown": "7s",
+    "effects": [
+      "Attack damage 7607% x2",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "Recover 50 HP per hit",
+      "Forward Guard during the skill",
+      "Knockdown on hits (PvE only)",
+      "Down Attack",
+      "Down Smash",
+      "26.73% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2815.webp"
+  },
+  "2816": {
+    "bdocodex_id": 2816,
+    "url": "https://bdocodex.com/us/skill/2816/",
+    "name": "Divine Descent",
+    "name_kr": null,
+    "description": "Preceding Skill: [Divine Power IV]\nPreceding Skill: [Elion's Blessing]\nThe holy blessing of Elion grants a boon to your allies and self.",
+    "input": "SHIFT + Z\nCan be added to a Quick Slot",
+    "required_level": 57,
+    "required_points": null,
+    "mp_cost": "100",
+    "cooldown": "1m",
+    "effects": [
+      "All Damage Reduction +40 for 20 sec (Applied to self and allies)",
+      "All Special Attack damage +2% for 10 sec (Applied to self and allies)",
+      "Super Armor during the skill"
+    ],
+    "protection_lines": [
+      "Super Armor during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2816.webp"
+  },
+  "3200": {
+    "bdocodex_id": 3200,
+    "url": "https://bdocodex.com/us/skill/3200/",
+    "name": "Absolute: Severing Light",
+    "name_kr": null,
+    "description": "Preceding Skill: [Severing Light IV]\nSwing the sword to create a beam of light that slashes through darkness. Basic Valkyrie skill.",
+    "input": "LMB + RMB\nCan be added to a Quick Slot",
+    "required_level": 57,
+    "required_points": 10,
+    "mp_cost": "40",
+    "cooldown": "9s",
+    "effects": [
+      "Attack damage 2334% x2",
+      "Ultimate: Severing Light's damage 3501%",
+      "Maximum 10 targets",
+      "Knockback on hits",
+      "36.75% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3200.webp"
+  },
+  "3204": {
+    "bdocodex_id": 3204,
+    "url": "https://bdocodex.com/us/skill/3204/",
+    "name": "Absolute: Shield Throw",
+    "name_kr": null,
+    "description": "Preceding Skill: [Shield Throw II]\nToss your shield filled with SP to attack faraway enemies.",
+    "input": "↓ + Q\nCan be added to a Quick Slot\nQuick throws available after certain skills",
+    "required_level": 58,
+    "required_points": 10,
+    "mp_cost": "40",
+    "cooldown": "12s",
+    "effects": [
+      "Attack damage 1241% x1, max 4 hits",
+      "Flow: Spinning Shield's damage 2979%",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "Push the target on hits (PvE only)",
+      "Spin the target on hits (PvE only)",
+      "Stun on hits (Nullified during cooldown)",
+      "47.66% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3204.webp"
+  },
+  "3205": {
+    "bdocodex_id": 3205,
+    "url": "https://bdocodex.com/us/skill/3205/",
+    "name": "Absolute: Just Counter",
+    "name_kr": null,
+    "description": "Preceding Skill: [Just Counter III]\nQuickly stab your foes from a stable stance.",
+    "input": "↑ + LMB during Guard\nCan be added to a Quick Slot\nHold LMB to continue the skill\nCan be used instantly without Guard during certain motions",
+    "required_level": 59,
+    "required_points": 10,
+    "mp_cost": null,
+    "cooldown": "4s",
+    "effects": [
+      "Attack damage 1340% x1, max 3 hits",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "Recover 60 SP per hit",
+      "30 bleeding damage every 3 sec for 18 sec on hits",
+      "Forward Guard during the skill (Nullified during cooldown)",
+      "Stiffness on hits (PvE only) (Nullified during cooldown)",
+      "Counter Attack",
+      "Down Attack",
+      "71.49% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard during the skill (Nullified during cooldown)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3205.webp"
+  },
+  "3208": {
+    "bdocodex_id": 3208,
+    "url": "https://bdocodex.com/us/skill/3208/",
+    "name": "Absolute: Counter",
+    "name_kr": null,
+    "description": "Preceding Skill: [Counter III]\nDamage enemies with a strong upward strike, lifting them into the air.",
+    "input": "↓ + LMB \nSPACE after Counter to perform a spin attack",
+    "required_level": 56,
+    "required_points": 6,
+    "mp_cost": "9",
+    "cooldown": "6s",
+    "effects": [
+      "Attack damage 788% x2",
+      "Spin attack damage 681% x2",
+      "Maximum 10 targets",
+      "Floating on hits (Nullified during cooldown)",
+      "Bound on spin attack hits",
+      "Push the target on hits (PvE only)",
+      "Air Attack",
+      "Spin attacks unavailable during cooldown",
+      "83.41% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3208.webp"
+  },
+  "3209": {
+    "bdocodex_id": 3209,
+    "url": "https://bdocodex.com/us/skill/3209/",
+    "name": "Absolute: Sharp Light",
+    "name_kr": null,
+    "description": "Preceding Skill: [Sharp Light IV]\nCreate a sharp, powerful Elionian light and throw it toward enemies in front of you.",
+    "input": "SHIFT + LMB \nCan be added to a Quick Slot",
+    "required_level": 59,
+    "required_points": 12,
+    "mp_cost": "30",
+    "cooldown": "9s",
+    "effects": [
+      "Attack damage 1148% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "Recover 90 SP per hit",
+      "Push the target on hits (PvE only)",
+      "Knockdown on hits (Nullified during cooldown)",
+      "Counter Attack",
+      "Air Attack",
+      "Damage reduced during cooldown",
+      "70.16% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3209.webp"
+  },
+  "3211": {
+    "bdocodex_id": 3211,
+    "url": "https://bdocodex.com/us/skill/3211/",
+    "name": "Absolute: Flying Kick",
+    "name_kr": null,
+    "description": "Preceding Skill: [Flying Kick II]\nDeal damage to foes with a flying kick.",
+    "input": "↓ + F\nF while sprinting\nCan be added to a Quick Slot",
+    "required_level": 56,
+    "required_points": 8,
+    "mp_cost": null,
+    "cooldown": "5s",
+    "effects": [
+      "Attack damage 1311% x2",
+      "Maximum 10 targets",
+      "Recover 30 SP per hit",
+      "Knockback on hits (Nullified during cooldown)",
+      "Push the target on hits (PvE only)",
+      "Air Attack",
+      "58.46% damage in PvP only",
+      "Damage reduced during cooldown"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3211.webp"
+  },
+  "3213": {
+    "bdocodex_id": 3213,
+    "url": "https://bdocodex.com/us/skill/3213/",
+    "name": "Absolute: Punishment",
+    "name_kr": null,
+    "description": "Preceding Skill: [Punishment IV]\nGrapple the enemy and smash them down to the ground.",
+    "input": "E\nE with your lancia\nCan be added to a Quick Slot",
+    "required_level": 56,
+    "required_points": 11,
+    "mp_cost": null,
+    "cooldown": "15s",
+    "effects": [
+      "Attack damage 3655% x1",
+      "Maximum 10 targets",
+      "Super Armor on Grapple/Grapple fails",
+      "Floating on Grapple",
+      "Not affected by effects which increase/decrease Attack and/or Casting Speeds."
+    ],
+    "protection_lines": [
+      "Super Armor on Grapple/Grapple fails"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3213.webp"
+  },
+  "3214": {
+    "bdocodex_id": 3214,
+    "url": "https://bdocodex.com/us/skill/3214/",
+    "name": "Absolute: Divine Power",
+    "name_kr": null,
+    "description": "Preceding Skill: [Divine Power IV]\nHarness the Sacred Power of Elion, channeling its divine essence to unleash a mighty explosion upon the ground.",
+    "input": "SHIFT + F\nCan be added to a Quick Slot\nCan be used with your lancia",
+    "required_level": 59,
+    "required_points": 15,
+    "mp_cost": "100",
+    "cooldown": "9s",
+    "effects": [
+      "Attack damage 1892% x2",
+      "Maximum 10 targets",
+      "Attack Speed -10% for 5 sec on hits",
+      "Casting Speed -10% for 5 sec on hits",
+      "Super Armor",
+      "Bound on hits (PvE only)",
+      "Down Attack",
+      "Down Smash",
+      "89.31% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Super Armor"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3214.webp"
+  },
+  "3218": {
+    "bdocodex_id": 3218,
+    "url": "https://bdocodex.com/us/skill/3218/",
+    "name": "Absolute: Celestial Spear",
+    "name_kr": null,
+    "description": "Preceding Skill: [Celestial Spear IV]\nHarness the Sacred Power of Elion, channeling its divine essence to unleash a mighty explosion upon the ground.",
+    "input": "↓ + E while casting\n↓ + E with your lancia\nSwitches from your lancia to your longsword\nCan be added to a Quick Slot",
+    "required_level": 59,
+    "required_points": 16,
+    "mp_cost": "20",
+    "cooldown": "7s",
+    "effects": [
+      "Attack damage 1026% x2",
+      "Maximum 10 targets",
+      "Increased Casting Speed",
+      "Critical Hit Rate +80% for 5 sec when using the skill",
+      "Movement Speed -15% for 5 sec on hits",
+      "Bound on hits",
+      "Down Attack",
+      "64.25% damage in PvP only",
+      "Can be used by canceling other skills.",
+      "Reduces casting delay If you cancel a skill."
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3218.webp"
+  },
+  "4053": {
+    "bdocodex_id": 4053,
+    "url": "https://bdocodex.com/us/skill/4053/",
+    "name": "Divine Judgment of Light",
+    "name_kr": null,
+    "description": "Preceding Skill: [Judgment of Light III]\nPreceding Skill: [Divine Power IV]\nGather the power of light, then rain down a holy spear from the heavens.",
+    "input": "LMB during Celestial Spear, Ultimate: Celestial Spear, or Celestial Smite\nCan be added to a Quick Slot",
+    "required_level": 58,
+    "required_points": null,
+    "mp_cost": "150",
+    "cooldown": "22s",
+    "effects": [
+      "Attack 1 damage 5424% x2",
+      "Last attack damage 5424% x2",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "Attack Speed -10% for 5 sec on hits",
+      "Casting Speed -10% for 5 sec on hits",
+      "Down Attack",
+      "Down Smash on attack 1 hits",
+      "40.87% damage in PvP only"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4053.webp"
+  },
+  "4211": {
+    "bdocodex_id": 4211,
+    "url": "https://bdocodex.com/us/skill/4211/",
+    "name": "Shield Chase IV",
+    "name_kr": null,
+    "description": "Quickly move in all directions while staying on guard.",
+    "input": "Direction + SHIFT\nCan be used instantly after shield skills with the above command\n← + SHIFT or → + SHIFT with your lancia\nOn Guard after using the skill\nSwitches to longsword if used with your lancia",
+    "required_level": 56,
+    "required_points": 20,
+    "mp_cost": "25",
+    "cooldown": "5s",
+    "effects": [
+      "Character collision occurs while moving forward",
+      "No character collision while moving backward",
+      "Forward Guard",
+      "Invincible during the skill (PvE only)",
+      "All CC Resistance (except Grapple), including from Back Attacks",
+      "Cooldown mutually exclusive with other Shield Chase levels"
+    ],
+    "protection_lines": [
+      "Forward Guard",
+      "Invincible during the skill (PvE only)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp"
+  },
+  "6459": {
+    "bdocodex_id": 6459,
+    "url": "https://bdocodex.com/us/skill/6459/",
+    "name": "Divina Inpulsa",
+    "name_kr": null,
+    "description": "Dash for a short distance, stab with the lancia, explode sacred power as you take your lancia back, then stab all enemies in front once more.",
+    "input": "SHIFT + Q\nSHIFT + Q after certain skills to perform from attack 2\nCan be added to a Quick Slot",
+    "required_level": 59,
+    "required_points": 10,
+    "mp_cost": "60",
+    "cooldown": "5s",
+    "effects": [
+      "Attack 1 damage 1876% x1",
+      "Attack 2 damage 3752% x2",
+      "Last attack damage 3752% x2",
+      "Critical Hit Rate +50%",
+      "Maximum 10 targets",
+      "Melee AP +32 for 10 sec when using the skill",
+      "Forward Guard during the skill",
+      "Knockdown on first hit (PvE only)",
+      "Down Attack",
+      "Down Smash on last attack hits",
+      "41.57% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard during the skill"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_6459.webp"
+  },
+  "718": {
+    "bdocodex_id": 718,
+    "url": "https://bdocodex.com/us/skill/718/",
+    "name": "Guard",
+    "name_kr": null,
+    "description": "Auto-learn\nYou can block using your shield and move in all directions while staying on guard.",
+    "input": "Q\nQ to cancel\nDirection to move during the skill\nSHIFT + ↑ during the skill to sprint in Succession",
+    "required_level": 1,
+    "required_points": null,
+    "mp_cost": null,
+    "cooldown": null,
+    "effects": [
+      "Recover 25% of Max SP on blocks",
+      "All Damage Reduction +30 for 20 sec while on Guard",
+      "Forward Guard",
+      "All CC Resistance (except Grapple), including from Back Attacks",
+      "Guard Gauge damage -30% on Forward Guard. (Applies 40% with your lancia.)",
+      "Consumes 250 Stamina per second while sprinting on Guard."
+    ],
+    "protection_lines": [
+      "Forward Guard",
+      "Guard Gauge damage -30% on Forward Guard. (Applies 40% with your lancia.)"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0718.webp"
+  },
+  "731": {
+    "bdocodex_id": 731,
+    "url": "https://bdocodex.com/us/skill/731/",
+    "name": "Shining Dash",
+    "name_kr": null,
+    "description": "Harnessing the Sacred Power of Elion, unleash a devastating dash attack.\nBathed in resplendent light, the Valkyrie, wielding the Sacred Power, dashes towards her foes up to three times in swift succession.",
+    "input": "↑ + RMB\nHold LMB to perform extra attacks on hits\nCan be used with your lancia\nCan be added to a Quick Slot",
+    "required_level": 46,
+    "required_points": null,
+    "mp_cost": "65",
+    "cooldown": "15s",
+    "effects": [
+      "Attack damage 965% x2, max 3 hits",
+      "Stab attack damage 965% x2",
+      "Critical Hit Rate +100%",
+      "Maximum 10 targets",
+      "Forward Guard at the start of the skill and while moving",
+      "Push the target on attack 1 hits (PvE only)",
+      "Knockdown on stab attack hits",
+      "80.18% damage in PvP only"
+    ],
+    "protection_lines": [
+      "Forward Guard at the start of the skill and while moving"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0731.webp"
+  },
+  "746": {
+    "bdocodex_id": 746,
+    "url": "https://bdocodex.com/us/skill/746/",
+    "name": "Heaven's Echo III",
+    "name_kr": null,
+    "description": "Spread the resonant chimes of Heaven's Echo.\nDraw the gaze of your foes, and receive the blessing of the heavens upon both yourself and your allies.",
+    "input": "SHIFT + Q\nSPACE during Strong Defense with your lancia",
+    "required_level": 45,
+    "required_points": null,
+    "mp_cost": "30",
+    "cooldown": "40s",
+    "effects": [
+      "Maximum 10 targets",
+      "All Accuracy +20 for 60 sec when using the skill (Nullified during cooldown)",
+      "Taunt surrounding foes.",
+      "Increased effect area"
+    ],
+    "protection_lines": [],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0744.webp"
+  },
+  "769": {
+    "bdocodex_id": 769,
+    "url": "https://bdocodex.com/us/skill/769/",
+    "name": "Elion's Blessing",
+    "name_kr": null,
+    "description": "Blanket Elion's protection around you to temporarily raise the DP of self and allies.",
+    "input": "Can be added to a Quick Slot\nCan be used with your lancia",
+    "required_level": 46,
+    "required_points": null,
+    "mp_cost": "100",
+    "cooldown": "4m",
+    "effects": [
+      "Damage Reduction Rate +50% for 6 sec to self and nearby allies",
+      "Super Armor"
+    ],
+    "protection_lines": [
+      "Super Armor"
+    ],
+    "icon_path": "/items/new_icon/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0769.webp"
+  }
+}

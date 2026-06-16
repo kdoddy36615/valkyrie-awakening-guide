@@ -1,0 +1,3293 @@
+{
+  "meta": {
+    "count": 27,
+    "category_enum": [
+      "ap-buff",
+      "bsr",
+      "crit-buff",
+      "damage",
+      "debuff",
+      "dp-debuff",
+      "engage",
+      "eva-debuff",
+      "floating",
+      "knockdown",
+      "re-cc",
+      "transition",
+      "vacuum"
+    ],
+    "note": "One combo per combo. PvE combos merge the sheet (categories + inputs, skill identities confirmed by the icon phash bridge) with the Discord (skill names + usage); the sheet wins on conflicts. Hit-count tokens are step annotations, not steps. PvP families are from the Discord (Sarron); the sheet supplies the GRAB / Knockdown 1v1 templates and Large-Scale."
+  },
+  "combos": [
+    {
+      "id": "pve-best-dps",
+      "mode": "pve",
+      "scale": null,
+      "protected": false,
+      "family": "PvE",
+      "core_variant": null,
+      "name": "Best DPS Combo",
+      "video": null,
+      "steps": [
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB/F",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "RMB (Flow)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "shield-chase",
+          "input": "SHIFT + Direction",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "severing-light",
+          "input": "LMB+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": true,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "gladius-gloriae",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": true,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Not loopable, moderate APM.",
+        "The sheet marks the Severing Light and Celestial Spear steps OPTIONAL.",
+        "Awakening is ~30% behind top-tier grinders PvE-wise; there are no loopable combos."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        },
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — RoNNiE PvE guide",
+          "updated": "2025-02-23"
+        }
+      ],
+      "conflicts": [
+        "Step order 16-17: the Discord lists Gladius Gloriae (F) before Severing Light (LMB+RMB); the sheet lists Severing Light before Gladius Gloriae. The sheet wins (source precedence)."
+      ]
+    },
+    {
+      "id": "pve-gyfin",
+      "mode": "pve",
+      "scale": null,
+      "protected": false,
+      "family": "PvE",
+      "core_variant": null,
+      "name": "Gyfin Combo",
+      "video": null,
+      "steps": [
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB/F",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Open with a crit prebuff (Sacrum Ferit or Celestial Spear) before the combo."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        },
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — RoNNiE PvE guide",
+          "updated": "2025-02-23"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pve-dsr",
+      "mode": "pve",
+      "scale": null,
+      "protected": false,
+      "family": "PvE",
+      "core_variant": null,
+      "name": "Darkseekers (DSR) Combo",
+      "video": null,
+      "steps": [
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB/F",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "RMB (Flow)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 1"
+        },
+        {
+          "skill": "wave-of-light",
+          "input": "S+F",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB/F",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "death-line-chase",
+          "input": "SHIFT+W/S",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "death-line-chase",
+          "input": "SHIFT+W/S",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "death-line-chase",
+          "input": "SHIFT+W/S",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "dp-debuff",
+          "category_raw": "DP DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "RMB (Flow)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "shield-chase",
+          "input": "SHIFT + Direction",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "gladius-gloriae",
+          "input": "F",
+          "category": "eva-debuff",
+          "category_raw": "EVA DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": "Loop 2"
+        }
+      ],
+      "notes": [
+        "Darkseekers (DSR) two-loop rotation. Loop 2 drops out of awakening via Death Line Chase and the pre-awakening filler (Shield Chase / Gladius Gloriae)."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        },
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — RoNNiE PvE guide",
+          "updated": "2025-02-23"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-grab-general",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Grab",
+      "core_variant": "Any core except Sacrum Ferit",
+      "name": "General Grab Combo",
+      "video": "https://youtu.be/YH6vn2pSw44",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": "floating",
+          "category_raw": "FLOATING",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": "transition",
+          "category_raw": "TRANSITION",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": "3 hits",
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": "re-cc",
+          "category_raw": "RE'CC",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "debuff",
+          "category_raw": "DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        },
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": [
+        "The Discord casts Terra Sancta by holding after Castigatio; the sheet lists its direct input S+RMB (used here, source precedence)."
+      ]
+    },
+    {
+      "id": "pvp-knockdown-core",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Knockdown",
+      "core_variant": "Core (any except Sacrum Ferit)",
+      "name": "Knockdown Combo (Core)",
+      "video": null,
+      "steps": [
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "knockdown",
+          "category_raw": "KNOCKDOWN",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "A/D+RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": "transition",
+          "category_raw": "TRANSITION",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": "re-cc",
+          "category_raw": "RE'CC",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": "debuff",
+          "category_raw": "DEBUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "The sheet's generic core 1v1 template (core slot = any knockdown core except Sacrum Ferit). The Discord core families below build on it."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-grab-hasti",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Grab",
+      "core_variant": "Hastiludium",
+      "name": "Grab Combo — Hastiludium variant",
+      "video": "https://youtu.be/KEnce0yW1sM",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "A/D+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1 hit — side Sacrum cancels Divina Inpulsa's first hit",
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Uses side Sacrum Ferit to cancel the first hit of Divina Inpulsa."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-grab-enslar",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Grab",
+      "core_variant": "Sanctitas de Enslar",
+      "name": "Grab Combo — Enslar variant",
+      "video": "https://youtu.be/gE5yCcQtpmI",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB (hold)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1-3 hits depending on casting speed",
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "You can do 1-3 hits of Sacrum Ferit depending on casting speed."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-enslar-general",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Sanctitas de Enslar",
+      "core_variant": "General",
+      "name": "General Enslar Combo",
+      "video": "https://youtu.be/xKYext4FGD8",
+      "steps": [
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "A/D+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1 hit",
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-enslar-divina-vult",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Sanctitas de Enslar",
+      "core_variant": "Divina Vult",
+      "name": "Enslar Combo — Divina Vult variant",
+      "video": "https://youtu.be/qd7_Ig7JtiA",
+      "steps": [
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "Hold (F/LMB after Sanctitas)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "all hits",
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-hasti-general",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Hastiludium",
+      "core_variant": "General",
+      "name": "General Hasti Combo",
+      "video": "https://youtu.be/Wz97moUFPzY",
+      "steps": [
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "all hits",
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-hasti-enslar",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Hastiludium",
+      "core_variant": "Enslar",
+      "name": "Hasti Combo — Enslar variant",
+      "video": "https://youtu.be/OLOn3ZM_HyM",
+      "steps": [
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "Hold (F/LMB after Sanctitas)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1 hit",
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-counter-ghost-float",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Counter",
+      "core_variant": "Any core except Sacrum Ferit",
+      "name": "Counter Combo (Ghost float)",
+      "video": "https://youtu.be/FE63KInRJ6Y",
+      "steps": [
+        {
+          "skill": "counter",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "then sidestep (A/D+RMB) to ghost-float",
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit. The sidestep (A/D+RMB) is a movement input, not a skill."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-doublekd-gladius",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Double KD",
+      "core_variant": "Gladius Gloriae",
+      "name": "Double KD — Gladius Gloriae variant",
+      "video": "https://youtu.be/MxqRhKgsQ-o",
+      "steps": [
+        {
+          "skill": "gladius-gloriae",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "all hits",
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-doublekd-blitz",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Double KD",
+      "core_variant": "Blitz Stab",
+      "name": "Double KD — Blitz Stab variant",
+      "video": "https://youtu.be/cgJPsh3wabM",
+      "steps": [
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "all hits",
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "shield-chase",
+          "input": "SHIFT+A/D",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "gladius-gloriae",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divine-judgment-of-light",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit. You can replace Shield Chase + Gladius Gloriae with Divine Power + Flying Kick + Severing Light + Gladius Gloriae for more DMG."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-doublekd-lucem",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Double KD",
+      "core_variant": "Flow: Lucem Fluxum",
+      "name": "Double KD — Lucem Fluxum variant",
+      "video": "https://youtu.be/-IwNG8OnoTo",
+      "steps": [
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divine-power",
+          "input": "SHIFT+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit. Needs BSR Terra Sancta to start a down-smash chain."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-spear-general",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Celestial Spear",
+      "core_variant": "General",
+      "name": "General Spear Combo",
+      "video": "https://youtu.be/fs9AydcuVkA",
+      "steps": [
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Hold (RMB after Sacrum)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sacrum Ferit. You can skip Sacrum Ferit if you fear missing the re-cc; Flow: Lucem Fluxum applies Sacrum's add-ons and Celestial Spear gives the crit-rate buff for nearly the whole combo."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-spear-hasti",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Celestial Spear",
+      "core_variant": "Hastiludium",
+      "name": "Spear Combo — Hasti variant",
+      "video": "https://youtu.be/EsFS5qmpq5I",
+      "steps": [
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-spear-enslar",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Celestial Spear",
+      "core_variant": "Sanctitas de Enslar",
+      "name": "Spear Combo — Enslar variant",
+      "video": "https://youtu.be/QRwKLKlA2bE",
+      "steps": [
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "blitz-stab",
+          "input": "W+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-protected-general",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": true,
+      "family": "Protected",
+      "core_variant": "General",
+      "name": "General Protected Combo",
+      "video": "https://youtu.be/ACLHV3I_jKA",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "death-line-chase",
+          "input": "SHIFT+S",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q (S+Q)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Any core except Sanctitas de Enslar or Sacrum Ferit.",
+        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-protected-enslar",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": true,
+      "family": "Protected",
+      "core_variant": "Sanctitas de Enslar",
+      "name": "Protected Combo — Enslar variant",
+      "video": "https://youtu.be/Eg3_scnlhF4",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "A/D+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1 hit",
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q (S+Q)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q (S+Q)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply.",
+        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-protected-hasti",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": true,
+      "family": "Protected",
+      "core_variant": "Hastiludium",
+      "name": "Protected Combo — Hasti variant",
+      "video": "https://youtu.be/ItJLhNSCq6Y",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "1 hit",
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Feel free to cancel all hits of Sacrum Ferit with Guard for a shorter frontal guard. You'll get the crit buff regardless, but your add-ons won't apply.",
+        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-protected-casti",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": true,
+      "family": "Protected",
+      "core_variant": "Castigatio",
+      "name": "Protected Combo — Casti variant",
+      "video": "https://youtu.be/HcpZFngpPQY",
+      "steps": [
+        {
+          "skill": "punishment",
+          "input": "E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "promptness",
+          "input": "SPACE",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F/LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "death-line-chase",
+          "input": "SHIFT+S",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-lucem-fluxum",
+          "input": "Quick Slot",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "purificatione",
+          "input": "SHIFT+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "Hold (after Castigatio)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "guard",
+          "input": "Q (S+Q)",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Protected combos use: Terra Sancta > Guard > Verdict, or Flow: Divina Vult > Guard > Terra Sancta. Hold S+Q during Terra Sancta (S+RMB) or Flow: Divina Vult (F/LMB) to minimize the end delay without canceling hits — press S first. Cast Verdict from hotbar: spam the hotkey while holding S+Q and it casts on entering Guard."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-finisher-1",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Finisher",
+      "core_variant": "Option 1 (reset)",
+      "name": "Finisher 1 — Reset",
+      "video": null,
+      "steps": [
+        {
+          "skill": "divine-power",
+          "input": "SHIFT+F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divine-judgment-of-light",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Go-to if you're trying to reset; good damage (unprotected / possible reset).",
+        "Append to any combo ending in Blitz Stab [+ Divina Inpulsa]. The target gets up during the finisher unless you land a reset."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-finisher-2",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": false,
+      "family": "Finisher",
+      "core_variant": "Option 2 (highest damage)",
+      "name": "Finisher 2 — Highest damage",
+      "video": null,
+      "steps": [
+        {
+          "skill": "shield-chase",
+          "input": "SHIFT+A/D",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "gladius-gloriae",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "celestial-spear",
+          "input": "S+E",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "divine-judgment-of-light",
+          "input": "LMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Highest damage; gain distance to finish off your target (unprotected / no reset)."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-finisher-3",
+      "mode": "pvp",
+      "scale": "1v1",
+      "protected": true,
+      "family": "Finisher",
+      "core_variant": "Option 3 (protected)",
+      "name": "Finisher 3 — Protected",
+      "video": null,
+      "steps": [
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F",
+          "category": null,
+          "category_raw": null,
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Lower damage, somewhat vulnerable to grab but you can iframe them or go behind frontal guards with Sanctitas de Enslar (fully protected / no reset)."
+      ],
+      "sources": [
+        {
+          "source": "discord",
+          "ref": "BDO Valkyrie Discord — Sarron PvP",
+          "updated": "2025-03"
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-ls-bsr-engage",
+      "mode": "pvp",
+      "scale": "large-scale",
+      "protected": false,
+      "family": "Large-Scale",
+      "core_variant": null,
+      "name": "100% BSR Engage",
+      "video": null,
+      "steps": [
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": "engage",
+          "category_raw": "ENGAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "wave-of-light",
+          "input": "S+F (Q cancel)",
+          "category": "vacuum",
+          "category_raw": "VACUUM",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "bsr",
+          "category_raw": "100% BSR",
+          "optional": false,
+          "annotation": "100% Black Spirit Rage / full-rage cast",
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": "Full-cast Shift+RMB is more damage but locks you in Super Armor",
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": true,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "Large-scale engage built around a 100% BSR Sanctitas de Enslar.",
+        "Heal rotation: SA Heal (Breath of Elion, Shift+E) · Puri Heal (Purificatione, Shift+LMB) · Rabam Heal (Celestial Smite/Cry, Shift+X)."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "id": "pvp-ls-rotation",
+      "mode": "pvp",
+      "scale": "large-scale",
+      "protected": false,
+      "family": "Large-Scale",
+      "core_variant": null,
+      "name": "Large-Scale Damage Rotation",
+      "video": null,
+      "steps": [
+        {
+          "skill": "divina-impulsa",
+          "input": "SHIFT+Q",
+          "category": "ap-buff",
+          "category_raw": "AP BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sacrum-ferit",
+          "input": "RMB",
+          "category": "crit-buff",
+          "category_raw": "CRIT BUFF",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "hastiludium",
+          "input": "W+F",
+          "category": "engage",
+          "category_raw": "ENGAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "castigatio",
+          "input": "S+LMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "terra-sancta",
+          "input": "S+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "sanctitas-de-enslar",
+          "input": "F",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "F",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "verdict-lancia-iustitiae",
+          "input": "SHIFT+RMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": false,
+          "annotation": null,
+          "phase": null
+        },
+        {
+          "skill": "flow-divina-vult",
+          "input": "LMB",
+          "category": "damage",
+          "category_raw": "DAMAGE",
+          "optional": true,
+          "annotation": "Verdict cancel",
+          "phase": null
+        }
+      ],
+      "notes": [
+        "The core-only form drops Castigatio (step 4)."
+      ],
+      "sources": [
+        {
+          "source": "sheet",
+          "ref": "Valkyrie Guide 2026 — sheet \"Awakening (Combos, Add-ons)\""
+        }
+      ],
+      "conflicts": []
+    }
+  ]
+}
