@@ -1,7 +1,8 @@
 import { useMemo, useState } from "react";
 import type { DpsRow } from "../data/types";
-import { maybeSkill } from "../data";
+import { maybeSkill, protectionIn } from "../data";
 import AbilityIcon from "./AbilityIcon";
+import { ProtMeter } from "./badges";
 
 const fmt = (v: number | null) =>
   v == null ? "—" : v.toLocaleString("en-US", { maximumFractionDigits: 1 });
@@ -45,11 +46,17 @@ export default function DpsTable({ rows }: { rows: DpsRow[] }) {
       <tbody>
         {sorted.map((r, i) => {
           const s = maybeSkill(r.skill);
+          const prot = s ? protectionIn(s, "pve") : null;
           return (
             <tr key={i}>
               <td>
                 {s && <AbilityIcon id={s.id} />}
                 {r.name}
+                {prot && (
+                  <span style={{ marginLeft: 8, verticalAlign: "middle" }}>
+                    <ProtMeter prot={prot} title={`PvE protection: ${s!.protection!.tooltip_lines.join("; ") || s!.name}`} />
+                  </span>
+                )}
                 {!r.skill && <span className="badge unknown" title="No matched skill">?</span>}
               </td>
               <td className="num">{fmt(r.hits)}</td>
