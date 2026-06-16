@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import type { DpsRow } from "../data/types";
 import { maybeSkill, protectionIn } from "../data";
 import AbilityIcon from "./AbilityIcon";
-import { ProtMeter } from "./badges";
+import { ProtMeter, CcBadges } from "./badges";
 
 const fmt = (v: number | null) =>
   v == null ? "—" : v.toLocaleString("en-US", { maximumFractionDigits: 1 });
@@ -36,6 +36,7 @@ export default function DpsTable({ rows }: { rows: DpsRow[] }) {
       <thead>
         <tr>
           <th onClick={() => click("name")}>Skill{arrow("name")}</th>
+          <th>CC (PvE)</th>
           {NUM_COLS.map((c) => (
             <th key={c} className="num" onClick={() => click(c)}>
               {c === "duration" ? "Dur (s)" : c[0].toUpperCase() + c.slice(1)}{arrow(c)}
@@ -59,6 +60,7 @@ export default function DpsTable({ rows }: { rows: DpsRow[] }) {
                 )}
                 {!r.skill && <span className="badge unknown" title="No matched skill">?</span>}
               </td>
+              <td>{s ? <CcBadges cc={s.cc} /> : <span className="dim">—</span>}</td>
               <td className="num">{fmt(r.hits)}</td>
               <td className="num">{fmt(r.damage)}</td>
               <td className="num">{fmt(r.total)}</td>

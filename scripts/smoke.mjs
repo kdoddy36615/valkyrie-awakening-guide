@@ -21,6 +21,7 @@ const routes = [
   ["addons", "/#/addons"],
   ["tricks", "/#/tricks"],
   ["dps", "/#/dps"],
+  ["dps-pvp", "/#/dps-pvp"],
   ["reference", "/#/reference"],
   ["r1", "/#/r1"],
 ];

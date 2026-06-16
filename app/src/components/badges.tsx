@@ -25,6 +25,11 @@ export function Kbd({ children }: { children: ReactNode }) {
   return <span className="kbd">{children}</span>;
 }
 
+export function CcBadges({ cc, none = "—" }: { cc: string[]; none?: string }) {
+  if (!cc.length) return <span className="dim" style={{ fontSize: 11 }}>{none}</span>;
+  return <>{cc.map((c) => <span key={c} className="badge cc" title="Crowd control">{c}</span>)}</>;
+}
+
 // Valkyrie route is flat — link to the Skills page anchor.
 export function AbilityLink({ id }: { id: string }) {
   const s = skill(id);

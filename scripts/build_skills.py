@@ -28,6 +28,26 @@ CORE_SKILL = "castigatio"
 
 # CC tokens we surface from Codex effect lines (PvE/PvP control effects).
 CC_RE = re.compile(r"\b(Bound|Knockdown|Knockback|Stun|Stiffness|Floating|Grapple|Spin)\b")
+# A CC effect line *applies* a CC when the type word leads the line ("Bound on hits"),
+# as opposed to a protection line ("Super Armor on Grapple"). PvP excludes "(PvE only)" lines.
+CC_WORDS = ("Bound", "Knockdown", "Knockback", "Stun", "Stiffness", "Floating", "Spin")
+CC_LEAD_RE = re.compile(r"^(" + "|".join(CC_WORDS) + r")\b")
+PVP_DMG_RE = re.compile(r"damage in PvP only", re.IGNORECASE)
+
+
+def extract_cc(effects):
+    """Return (cc_pve, cc_pvp): ordered unique CC type words. PvP drops PvE-only lines."""
+    pve, pvp = [], []
+    for e in effects:
+        m = CC_LEAD_RE.match(e)
+        if not m:
+            continue
+        w = m.group(1)
+        if w not in pve:
+            pve.append(w)
+        if "PvE only" not in e and w not in pvp:
+            pvp.append(w)
+    return pve, pvp
 
 # Sheet combo-icons that did NOT phash-match their Registry skill (ADR 0002 — the
 # Codex icon is authoritative; this flag records the bridge could not confirm it).
@@ -238,6 +258,8 @@ def main():
 
         effects = tip.get("effects", [])
         cc_lines = [e for e in effects if CC_RE.search(e)]
+        cc_pve, cc_pvp = extract_cc(effects)
+        pvp_damage = [e for e in effects if PVP_DMG_RE.search(e)]
 
         pmode = prot.get(rid)
         if pmode is None:
@@ -270,6 +292,9 @@ def main():
             "required_level": tip.get("required_level"),
             "effects": effects,
             "cc_lines": cc_lines,
+            "cc": cc_pve,
+            "cc_pvp": cc_pvp,
+            "pvp_damage": pvp_damage,
             "bdocodex_id": bid,
             "sheet_icon_matched": rid not in SHEET_ICON_UNMATCHED,
         }
@@ -298,6 +323,9 @@ def main():
             "required_level": None,
             "effects": [],
             "cc_lines": [],
+            "cc": [],
+            "cc_pvp": [],
+            "pvp_damage": [],
             "bdocodex_id": bid,
             "sheet_icon_matched": True,
         })

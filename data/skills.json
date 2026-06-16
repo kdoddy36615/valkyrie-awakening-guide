@@ -66,6 +66,14 @@
         "Stiffness on first hit (PvE only) (Nullified during cooldown)",
         "Floating on last attack hits (PvE only) (Nullified during cooldown)"
       ],
+      "cc": [
+        "Stiffness",
+        "Floating"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "36.7% damage in PvP only"
+      ],
       "bdocodex_id": 1966,
       "sheet_icon_matched": true
     },
@@ -113,6 +121,13 @@
       "cc_lines": [
         "Knockdown on hits"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [
+        "Knockdown"
+      ],
+      "pvp_damage": [],
       "bdocodex_id": 1981,
       "sheet_icon_matched": true
     },
@@ -167,6 +182,14 @@
         "Spin the target on hits (PvE only)",
         "Stun on hits (PvE only) (Nullified during cooldown)"
       ],
+      "cc": [
+        "Spin",
+        "Stun"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "39.59% damage in PvP only"
+      ],
       "bdocodex_id": 1957,
       "sheet_icon_matched": true
     },
@@ -210,6 +233,15 @@
       ],
       "cc_lines": [
         "Bound on first hit"
+      ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [
+        "Bound"
+      ],
+      "pvp_damage": [
+        "36.85% damage in PvP only"
       ],
       "bdocodex_id": 1961,
       "sheet_icon_matched": true
@@ -265,6 +297,13 @@
       "cc_lines": [
         "Knockdown on stab attack hits (PvE only)"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "65.81% damage in PvP only"
+      ],
       "bdocodex_id": 1974,
       "sheet_icon_matched": true
     },
@@ -317,6 +356,13 @@
       "cc_lines": [
         "Knockdown on first hit (PvE only)"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "41.57% damage in PvP only"
+      ],
       "bdocodex_id": 6459,
       "sheet_icon_matched": true
     },
@@ -368,6 +414,14 @@
       ],
       "cc_lines": [
         "Knockdown on first hit (PvE only)"
+      ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "17.6% attack 1 damage in PvP only",
+        "25.8% last attack damage in PvP only"
       ],
       "bdocodex_id": 1971,
       "sheet_icon_matched": true
@@ -427,6 +481,14 @@
         "Stiffness on marked hits (PvE only)",
         "Knockdown on last attack hits (PvE only)"
       ],
+      "cc": [
+        "Stiffness",
+        "Knockdown"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "23.2% damage in PvP only"
+      ],
       "bdocodex_id": 1977,
       "sheet_icon_matched": true
     },
@@ -476,6 +538,11 @@
         "30.15% damage in PvP only"
       ],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "30.15% damage in PvP only"
+      ],
       "bdocodex_id": 1982,
       "sheet_icon_matched": true
     },
@@ -520,6 +587,15 @@
       ],
       "cc_lines": [
         "Knockdown on hits"
+      ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [
+        "Knockdown"
+      ],
+      "pvp_damage": [
+        "28.7% damage in PvP only"
       ],
       "bdocodex_id": 1978,
       "sheet_icon_matched": true
@@ -575,6 +651,14 @@
         "Stiffness on hits (PvE only)",
         "Floating on LMB hits after forward Death Line Chase (PvE only)"
       ],
+      "cc": [
+        "Stiffness",
+        "Floating"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "53.3% damage in PvP only"
+      ],
       "bdocodex_id": 1985,
       "sheet_icon_matched": true
     },
@@ -621,6 +705,13 @@
       "cc_lines": [
         "Bound on hits (PvE only)"
       ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "35.53% damage in PvP only"
+      ],
       "bdocodex_id": 1983,
       "sheet_icon_matched": true
     },
@@ -665,6 +756,13 @@
       "cc_lines": [
         "Bound on summon attack hits"
       ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [
+        "Bound"
+      ],
+      "pvp_damage": [],
       "bdocodex_id": 1967,
       "sheet_icon_matched": true
     },
@@ -705,6 +803,9 @@
         "Increased effect area"
       ],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 746,
       "sheet_icon_matched": true
     },
@@ -753,6 +854,9 @@
       "cc_lines": [
         "All CC Resistance (except Grapple), including from Back Attacks"
       ],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1980,
       "sheet_icon_matched": false
     },
@@ -800,6 +904,9 @@
       "cc_lines": [
         "All CC Resistance (except Grapple), including from Back Attacks"
       ],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 718,
       "sheet_icon_matched": true
     },
@@ -847,6 +954,15 @@
       "cc_lines": [
         "Knockdown on hits"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [
+        "Knockdown"
+      ],
+      "pvp_damage": [
+        "32.96% damage in PvP only"
+      ],
       "bdocodex_id": 1984,
       "sheet_icon_matched": true
     },
@@ -889,6 +1005,15 @@
       ],
       "cc_lines": [
         "Knockback on hits"
+      ],
+      "cc": [
+        "Knockback"
+      ],
+      "cc_pvp": [
+        "Knockback"
+      ],
+      "pvp_damage": [
+        "36.75% damage in PvP only"
       ],
       "bdocodex_id": 3200,
       "sheet_icon_matched": true
@@ -938,6 +1063,15 @@
       ],
       "cc_lines": [
         "Bound on hits"
+      ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [
+        "Bound"
+      ],
+      "pvp_damage": [
+        "64.25% damage in PvP only"
       ],
       "bdocodex_id": 3218,
       "sheet_icon_matched": true
@@ -989,6 +1123,19 @@
         "Bound on spin attack hits",
         "Spin attacks unavailable during cooldown"
       ],
+      "cc": [
+        "Spin",
+        "Floating",
+        "Bound"
+      ],
+      "cc_pvp": [
+        "Spin",
+        "Floating",
+        "Bound"
+      ],
+      "pvp_damage": [
+        "83.41% damage in PvP only"
+      ],
       "bdocodex_id": 3208,
       "sheet_icon_matched": true
     },
@@ -1038,6 +1185,13 @@
       "cc_lines": [
         "Stiffness on hits (PvE only) (Nullified during cooldown)"
       ],
+      "cc": [
+        "Stiffness"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "71.49% damage in PvP only"
+      ],
       "bdocodex_id": 3205,
       "sheet_icon_matched": true
     },
@@ -1083,6 +1237,16 @@
       "cc_lines": [
         "Spin the target on hits (PvE only)",
         "Stun on hits (Nullified during cooldown)"
+      ],
+      "cc": [
+        "Spin",
+        "Stun"
+      ],
+      "cc_pvp": [
+        "Stun"
+      ],
+      "pvp_damage": [
+        "47.66% damage in PvP only"
       ],
       "bdocodex_id": 3204,
       "sheet_icon_matched": true
@@ -1132,6 +1296,9 @@
       "cc_lines": [
         "All CC Resistance (except Grapple), including from Back Attacks"
       ],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 4211,
       "sheet_icon_matched": true
     },
@@ -1179,6 +1346,15 @@
       "cc_lines": [
         "Knockdown on hits (Nullified during cooldown)"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [
+        "Knockdown"
+      ],
+      "pvp_damage": [
+        "70.16% damage in PvP only"
+      ],
       "bdocodex_id": 3209,
       "sheet_icon_matched": true
     },
@@ -1225,6 +1401,13 @@
         "Super Armor on Grapple/Grapple fails",
         "Floating on Grapple"
       ],
+      "cc": [
+        "Floating"
+      ],
+      "cc_pvp": [
+        "Floating"
+      ],
+      "pvp_damage": [],
       "bdocodex_id": 3213,
       "sheet_icon_matched": true
     },
@@ -1274,6 +1457,13 @@
       "cc_lines": [
         "Bound on hits (PvE only)"
       ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "89.31% damage in PvP only"
+      ],
       "bdocodex_id": 3214,
       "sheet_icon_matched": true
     },
@@ -1318,6 +1508,15 @@
       ],
       "cc_lines": [
         "Knockback on hits (Nullified during cooldown)"
+      ],
+      "cc": [
+        "Knockback"
+      ],
+      "cc_pvp": [
+        "Knockback"
+      ],
+      "pvp_damage": [
+        "58.46% damage in PvP only"
       ],
       "bdocodex_id": 3211,
       "sheet_icon_matched": true
@@ -1367,6 +1566,15 @@
       "cc_lines": [
         "Bound on hits"
       ],
+      "cc": [
+        "Bound"
+      ],
+      "cc_pvp": [
+        "Bound"
+      ],
+      "pvp_damage": [
+        "57.8% damage in PvP only"
+      ],
       "bdocodex_id": 2748,
       "sheet_icon_matched": true
     },
@@ -1408,6 +1616,9 @@
         "Super Armor during the skill"
       ],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 2816,
       "sheet_icon_matched": true
     },
@@ -1455,6 +1666,11 @@
         "40.87% damage in PvP only"
       ],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "40.87% damage in PvP only"
+      ],
       "bdocodex_id": 4053,
       "sheet_icon_matched": false
     },
@@ -1503,6 +1719,13 @@
       ],
       "cc_lines": [
         "Knockdown on hits (PvE only)"
+      ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [],
+      "pvp_damage": [
+        "26.73% damage in PvP only"
       ],
       "bdocodex_id": 2815,
       "sheet_icon_matched": true
@@ -1554,6 +1777,9 @@
       "cc_lines": [
         "All CC Resistance (except Grapple), including from Back Attacks"
       ],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1944,
       "sheet_icon_matched": true
     },
@@ -1603,6 +1829,15 @@
       "cc_lines": [
         "Knockdown on stab attack hits"
       ],
+      "cc": [
+        "Knockdown"
+      ],
+      "cc_pvp": [
+        "Knockdown"
+      ],
+      "pvp_damage": [
+        "80.18% damage in PvP only"
+      ],
       "bdocodex_id": 731,
       "sheet_icon_matched": true
     },
@@ -1644,6 +1879,9 @@
         "Super Armor"
       ],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 769,
       "sheet_icon_matched": false
     },
@@ -1668,6 +1906,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1478,
       "sheet_icon_matched": true
     },
@@ -1692,6 +1933,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 749,
       "sheet_icon_matched": true
     },
@@ -1716,6 +1960,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 761,
       "sheet_icon_matched": true
     },
@@ -1740,6 +1987,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 735,
       "sheet_icon_matched": true
     },
@@ -1764,6 +2014,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 725,
       "sheet_icon_matched": true
     },
@@ -1788,6 +2041,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 729,
       "sheet_icon_matched": true
     },
@@ -1812,6 +2068,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1499,
       "sheet_icon_matched": true
     },
@@ -1836,6 +2095,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 719,
       "sheet_icon_matched": true
     },
@@ -1860,6 +2122,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 730,
       "sheet_icon_matched": true
     },
@@ -1884,6 +2149,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 756,
       "sheet_icon_matched": true
     },
@@ -1908,6 +2176,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1484,
       "sheet_icon_matched": true
     },
@@ -1932,6 +2203,9 @@
       "required_level": null,
       "effects": [],
       "cc_lines": [],
+      "cc": [],
+      "cc_pvp": [],
+      "pvp_damage": [],
       "bdocodex_id": 1962,
       "sheet_icon_matched": true
     }

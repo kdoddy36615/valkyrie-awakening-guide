@@ -3,7 +3,7 @@ import { useLocation } from "react-router-dom";
 import { skills, protectionIn, PROTECTION_LABEL, KIND_LABEL } from "../data";
 import type { Protection, Skill } from "../data/types";
 import { PageHeader, Section, Callout } from "../components/Section";
-import { ProtMeter, Kbd, KindBadge, PROT_COLOR } from "../components/badges";
+import { ProtMeter, Kbd, KindBadge, CcBadges, PROT_COLOR } from "../components/badges";
 import AbilityIcon from "../components/AbilityIcon";
 
 const PROT_ORDER: Protection[] = ["iframe", "super_armor", "frontal_guard", "none"];
@@ -21,6 +21,7 @@ function SkillRow({ s, open, onToggle }: { s: Skill; open: boolean; onToggle: ()
         <span className="bdgs">
           {prot && <ProtMeter prot={prot} title={s.protection?.tooltip_lines.join("; ")} />}
           <KindBadge kind={s.kind} />
+          {s.cc.map((c) => <span key={c} className="badge cc">{c}</span>)}
         </span>
         <span className="dim" style={{ fontSize: "12px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
           {s.usage_tags.join(" · ")}
@@ -53,8 +54,17 @@ function SkillRow({ s, open, onToggle }: { s: Skill; open: boolean; onToggle: ()
           {s.recommended_usage && (
             <p className="note" style={{ marginTop: 8 }}><b>Usage:</b> {s.recommended_usage}</p>
           )}
+          {(s.cc.length > 0 || s.cc_pvp.length > 0) && (
+            <p className="note" style={{ marginTop: 8, display: "flex", gap: 8, alignItems: "center", flexWrap: "wrap" }}>
+              <b>CC — PvE:</b> <CcBadges cc={s.cc} none="none" />
+              <b style={{ marginLeft: 10 }}>PvP:</b> <CcBadges cc={s.cc_pvp} none="none in PvP" />
+            </p>
+          )}
           {s.cc_lines.length > 0 && (
-            <p className="note" style={{ marginTop: 8 }}><b>CC:</b> {s.cc_lines.join(" · ")}</p>
+            <p className="prov" style={{ marginTop: 4 }}>{s.cc_lines.join(" · ")}</p>
+          )}
+          {s.pvp_damage.length > 0 && (
+            <p className="note" style={{ marginTop: 6 }}><b>PvP damage:</b> {s.pvp_damage.map((l) => l.replace(/ in PvP only$/, "")).join(" · ")}</p>
           )}
           {s.protection?.notes && (
             <p className="prov" style={{ marginTop: 8 }}>Protection note: {s.protection.notes}</p>

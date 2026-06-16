@@ -38,6 +38,9 @@ export interface Skill {
   required_level: number | null;
   effects: string[];
   cc_lines: string[];
+  cc: string[];
+  cc_pvp: string[];
+  pvp_damage: string[];
   bdocodex_id: number | null;
   sheet_icon_matched: boolean;
 }

@@ -61,7 +61,8 @@ export default function App() {
           <Route path="/practice" element={<PracticePage />} />
           <Route path="/addons" element={<AddonsPage />} />
           <Route path="/tricks" element={<TricksPage />} />
-          <Route path="/dps" element={<DpsPage />} />
+          <Route path="/dps" element={<DpsPage mode="pve" />} />
+          <Route path="/dps-pvp" element={<DpsPage mode="pvp" />} />
           <Route path="/reference" element={<ReferencePage />} />
           <Route path="/r1" element={<R1Page />} />
           <Route path="*" element={<Navigate to="/skills" replace />} />

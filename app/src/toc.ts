@@ -11,7 +11,8 @@ export const NAV: NavItem[] = [
   { path: "/practice", label: "Practice", group: "Play" },
   { path: "/addons", label: "Add-ons", group: "Reference" },
   { path: "/tricks", label: "Tricks", group: "Play" },
-  { path: "/dps", label: "DPS", group: "Reference" },
+  { path: "/dps", label: "DPS — PvE", group: "Reference" },
+  { path: "/dps-pvp", label: "DPS — PvP", group: "Reference" },
   { path: "/reference", label: "Reference", group: "Reference" },
   { path: "/r1", label: "R1 AOS", group: "Future" },
 ];
